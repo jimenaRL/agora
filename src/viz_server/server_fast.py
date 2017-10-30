@@ -119,11 +119,11 @@ if __name__ == "__main__":
         decoded = decodeOSC(sock.recv(1024))
         endpoint, types_ = decoded[:2]
         if endpoint == "/woman":
-            country, measure, year, value = decoded[2:]
+            country, year, measure, value = decoded[2:]
             country = country.replace('_', ' ').replace('__', ' ')
             measure = measure.replace('_', ' ').replace('__', ' ')
             indent = np.random.randint(0, 10)
-            print ("\t" * indent + "%s %s %i %1.2f\n" % (country, measure, year, value) + '\n')
+            print ("\t" * indent + "%s %i %s %s" % (country, year, measure, value) + '\n')
         elif endpoint == "/clean":
             for i in range(200):
                 print '\n'
