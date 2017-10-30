@@ -1,4 +1,3 @@
-Afrique du Sud	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.0%	0.07
 Grèce	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.0%	0.09
 Espagne	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.5%	0.165
 Portugal	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.4%	0.054
@@ -11,6 +10,8 @@ Belgique	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.
 Canada	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.8%	0.148
 Mexique	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.1%	0.151
 Australie	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.1%	0.261
+Moyenne_OCDE	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.2%	0.172
+République_tchèque	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.5%	0.055
 Belgique	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.8%	0.258
 Slovénie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.1%	0.021
 Danemark	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+11.5%	0.115
@@ -21,18 +22,17 @@ Portugal	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.1
 Suède	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.1%	0.141
 Suisse	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+37.6%	0.376
 Nouvelle-Zélande	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.4%	0.224
+République_tchèque	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.9%	0.049
 Australie	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.2%	0.252
 Pays-Bas	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+45.2%	0.452
 Chili	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.0%	0.06
 France	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.9%	0.179
-Moyenne OCDE	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.3%	0.173
 Australie	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.4%	0.254
 Danemark	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.8%	0.108
-Costa Rica	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.8%	0.188
 Luxembourg	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.7%	0.257
+République_tchèque	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.7%	0.047
 Canada	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.7%	0.167
 Turquie	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.1%	0.131
-Afrique du Sud	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.3%	0.073
 Estonie	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.9%	0.079
 Mexique	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.0%	0.16
 Japon	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+21.9%	0.219
@@ -40,7 +40,6 @@ Irlande	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.7
 Belgique	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+28.0%	0.28
 Mexique	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.3%	0.153
 États-Unis	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.9%	0.089
-République slovaque	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.5%	0.025
 Suisse	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+37.5%	0.375
 Estonie	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.4%	0.064
 Corée	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.7%	0.067
@@ -51,6 +50,7 @@ Israël	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.1
 France	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.3%	0.183
 Grèce	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.0%	0.09
 Pologne	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.1%	0.091
+République_slovaque	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.5%	0.025
 États-Unis	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.3%	0.103
 Hongrie	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.8%	0.028
 Russie	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.0%	0.03
@@ -58,7 +58,8 @@ Canada	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.7%
 Australie	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.1%	0.251
 Hongrie	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.8%	0.028
 États-Unis	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.0%	0.1
-République slovaque	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.9%	0.029
+République_tchèque	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.7%	0.037
+République_tchèque	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.1%	0.041
 Belgique	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.3%	0.233
 Canada	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.2%	0.152
 Luxembourg	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.8%	0.258
@@ -73,30 +74,33 @@ Lettonie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.5
 Estonie	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.5%	0.065
 Pologne	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.2%	0.092
 Suisse	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+36.3%	0.363
-Moyenne OCDE	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.7%	0.177
 Pays-Bas	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+43.7%	0.437
 Lituanie	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.2%	0.052
 Corée	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.3%	0.073
 Danemark	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.5%	0.105
 Hongrie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.6%	0.026
 Chili	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.7%	0.137
-République tchèque	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.9%	0.039
 Nouvelle-Zélande	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.7%	0.247
 Belgique	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.4%	0.254
 Turquie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
 Mexique	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.2%	0.152
 Danemark	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+12.6%	0.126
 Royaume-Uni	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.1%	0.271
+République_slovaque	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+1.9%	0.019
 Israël	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.0%	0.18
 Israël	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.4%	0.184
 Corée	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.7%	0.087
 Colombie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.8%	0.168
 Royaume-Uni	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+31.5%	0.315
+République_tchèque	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.9%	0.039
 Israël	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.0%	0.14
 Suède	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.5%	0.105
 Suède	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.9%	0.089
+République_tchèque	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.7%	0.047
+Afrique_du_Sud	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.0%	0.07
 Colombie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.2%	0.182
 Suisse	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+34.8%	0.348
+République_tchèque	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.7%	0.047
 Suède	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.3%	0.083
 Turquie	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.1%	0.101
 Norvège	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+19.9%	0.199
@@ -105,6 +109,7 @@ Lettonie	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.5
 Italie	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.8%	0.238
 Luxembourg	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.1%	0.221
 Israël	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.2%	0.172
+République_tchèque	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.2%	0.042
 Turquie	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.5%	0.105
 Lettonie	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.9%	0.059
 Belgique	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.0%	0.25
@@ -117,9 +122,9 @@ Norvège	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.
 Finlande	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.9%	0.069
 Portugal	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.8%	0.098
 Suisse	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+35.8%	0.358
-Moyenne OCDE	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.7%	0.167
 Suède	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.6%	0.106
 Slovénie	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.4%	0.034
+République_slovaque	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.6%	0.026
 Hongrie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.6%	0.026
 Belgique	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.5%	0.275
 Corée	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.2%	0.062
@@ -128,11 +133,9 @@ Italie	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.5%
 Japon	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.9%	0.249
 Islande	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+21.0%	0.21
 Allemagne	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+29.9%	0.299
-République tchèque	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.8%	0.038
 Grèce	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.4%	0.064
 Corée	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.0%	0.06
 Espagne	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
-Costa Rica	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.4%	0.184
 Lituanie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.7%	0.047
 Lituanie	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.8%	0.048
 Irlande	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.4%	0.244
@@ -146,6 +149,7 @@ Lituanie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.0
 Pologne	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.2%	0.092
 Autriche	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.8%	0.258
 Royaume-Uni	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+28.8%	0.288
+Afrique_du_Sud	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.3%	0.073
 Estonie	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.4%	0.054
 Allemagne	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+30.4%	0.304
 Suisse	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+37.1%	0.371
@@ -156,7 +160,6 @@ Mexique	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.0
 Autriche	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.4%	0.264
 France	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.8%	0.168
 Espagne	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.3%	0.163
-Moyenne OCDE	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.9%	0.169
 Israël	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.4%	0.154
 Slovénie	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.5%	0.025
 Turquie	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.5%	0.175
@@ -165,16 +168,16 @@ Islande	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+12.4
 Pays-Bas	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+41.2%	0.412
 Japon	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.5%	0.245
 Allemagne	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+29.1%	0.291
-République tchèque	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.7%	0.047
 Chili	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.0%	0.13
 Canada	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.8%	0.168
 Chili	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.1%	0.061
 Irlande	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.4%	0.264
-République slovaque	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+1.7%	0.017
+Afrique_du_Sud	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.9%	0.069
 Luxembourg	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+28.1%	0.281
 Espagne	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.6%	0.136
 Turquie	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.6%	0.136
 Slovénie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.2%	0.022
+Moyenne_OCDE	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.7%	0.177
 Turquie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.7%	0.097
 Estonie	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.0%	0.07
 Royaume-Uni	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.6%	0.276
@@ -185,13 +188,10 @@ Canada	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.8%
 Belgique	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+28.6%	0.286
 Espagne	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.5%	0.135
 Pays-Bas	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+43.1%	0.431
-République slovaque	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.4%	0.024
-Moyenne OCDE	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.3%	0.173
 Grèce	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.4%	0.094
 Danemark	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.3%	0.133
 Espagne	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.6%	0.166
 États-Unis	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.0%	0.1
-Moyenne OCDE	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.7%	0.177
 Pays-Bas	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+43.9%	0.439
 Turquie	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.7%	0.087
 Russie	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.6%	0.036
@@ -209,9 +209,11 @@ Corée	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.0%	
 Nouvelle-Zélande	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.5%	0.225
 Pays-Bas	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+44.7%	0.447
 Royaume-Uni	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+30.7%	0.307
+République_tchèque	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.1%	0.041
 Japon	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.4%	0.224
 Luxembourg	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+21.5%	0.215
 Espagne	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.6%	0.136
+Costa_Rica	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.8%	0.188
 Pays-Bas	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+43.8%	0.438
 Australie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.0%	0.25
 Brésil	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+19.9%	0.199
@@ -220,38 +222,31 @@ Irlande	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.1
 Portugal	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.1%	0.041
 Espagne	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.6%	0.166
 Nouvelle-Zélande	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.8%	0.248
-Costa Rica	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
 Lettonie	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.4%	0.044
 Nouvelle-Zélande	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.5%	0.235
 Nouvelle-Zélande	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.1%	0.251
 Russie	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.5%	0.035
 Chili	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.9%	0.099
-Afrique du Sud	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.5%	0.075
 Turquie	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.7%	0.177
-République slovaque	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.5%	0.025
 Hongrie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.3%	0.023
 Luxembourg	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.7%	0.257
 Nouvelle-Zélande	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.2%	0.232
 Australie	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.4%	0.264
 Turquie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.5%	0.175
+République_tchèque	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.7%	0.037
 Irlande	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.2%	0.262
 Hongrie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.5%	0.035
 Islande	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+12.3%	0.123
 Portugal	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.1%	0.091
 États-Unis	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.4%	0.094
 Turquie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.8%	0.108
-République tchèque	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.5%	0.035
 Portugal	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.4%	0.084
 Grèce	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.2%	0.092
 Pologne	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.5%	0.075
 Norvège	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.3%	0.223
-République slovaque	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.4%	0.024
-Moyenne OCDE	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.2%	0.172
 Israël	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.1%	0.141
 Belgique	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.4%	0.264
-République slovaque	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.9%	0.029
 Pologne	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.5%	0.065
-Costa Rica	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+19.3%	0.193
 Islande	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+19.3%	0.193
 Lettonie	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.1%	0.051
 Luxembourg	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.3%	0.223
@@ -260,11 +255,12 @@ Israël	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.4
 Pologne	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.8%	0.088
 Corée	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.3%	0.083
 Japon	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.5%	0.225
-Afrique du Sud	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.6%	0.066
 Islande	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.9%	0.249
 Corée	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.8%	0.088
 Russie	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.6%	0.026
 Islande	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.8%	0.158
+Moyenne_OCDE	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.5%	0.175
+Moyenne_OCDE	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
 Royaume-Uni	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+30.4%	0.304
 Allemagne	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+29.8%	0.298
 Canada	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.3%	0.143
@@ -280,6 +276,7 @@ Norvège	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.
 Pays-Bas	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+43.6%	0.436
 Irlande	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.9%	0.259
 Slovénie	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.2%	0.022
+République_slovaque	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.9%	0.029
 États-Unis	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.8%	0.108
 Slovénie	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.8%	0.048
 France	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.2%	0.172
@@ -291,7 +288,6 @@ Australie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27
 Estonie	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.3%	0.043
 Canada	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.5%	0.165
 Allemagne	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+29.1%	0.291
-République tchèque	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.8%	0.038
 Pologne	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.3%	0.103
 Australie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.1%	0.251
 Mexique	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.9%	0.169
@@ -306,18 +302,20 @@ Royaume-Uni	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+
 France	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.6%	0.176
 France	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.2%	0.182
 Slovénie	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.4%	0.054
+Moyenne_OCDE	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.7%	0.177
 Lettonie	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.9%	0.039
 Belgique	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.2%	0.252
-République tchèque	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.1%	0.041
 Nouvelle-Zélande	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.0%	0.25
+Moyenne_OCDE	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
+Moyenne_OCDE	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.3%	0.173
 Autriche	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+21.5%	0.215
-Moyenne OCDE	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.3%	0.173
+Moyenne_OCDE	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.7%	0.167
+République_slovaque	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.4%	0.024
 Slovénie	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.5%	0.035
 Autriche	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.4%	0.264
 Irlande	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.1%	0.231
 Nouvelle-Zélande	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.0%	0.24
 Allemagne	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+31.4%	0.314
-Costa Rica	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.7%	0.187
 Grèce	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.2%	0.082
 Slovénie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.4%	0.044
 Norvège	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.5%	0.155
@@ -328,35 +326,29 @@ Norvège	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+21.
 Estonie	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.3%	0.053
 Brésil	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+20.0%	0.2
 Islande	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.4%	0.184
-Moyenne OCDE	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
 Grèce	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.0%	0.09
 Finlande	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.2%	0.072
 Grèce	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.8%	0.098
-République tchèque	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.9%	0.049
 Luxembourg	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.2%	0.262
 Autriche	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.1%	0.261
 Suisse	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+36.9%	0.369
 France	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.8%	0.158
-République tchèque	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.1%	0.041
 Italie	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.5%	0.245
 Lituanie	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.1%	0.081
 Grèce	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.8%	0.088
 Danemark	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+12.1%	0.121
-Moyenne OCDE	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.5%	0.175
 Danemark	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.5%	0.105
 États-Unis	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.5%	0.105
+République_tchèque	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.8%	0.038
 Australie	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.8%	0.238
 Israël	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.9%	0.189
 France	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.7%	0.187
 Autriche	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.8%	0.258
 Turquie	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.7%	0.167
-République slovaque	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.3%	0.023
 Corée	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.0%	0.09
 Lituanie	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.2%	0.042
 Suisse	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+37.7%	0.377
-Moyenne OCDE	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
 Irlande	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.1%	0.261
-République tchèque	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.7%	0.037
 Norvège	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.6%	0.236
 Pays-Bas	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+45.4%	0.454
 Norvège	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.6%	0.176
@@ -370,14 +362,12 @@ Luxembourg	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2
 Colombie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.2%	0.162
 Suède	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.2%	0.102
 Mexique	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.6%	0.176
-République slovaque	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.7%	0.027
 Corée	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.2%	0.082
 Danemark	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.8%	0.108
-République tchèque	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.7%	0.047
 Colombie	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.6%	0.176
 Chili	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.3%	0.073
 Italie	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.3%	0.243
-Afrique du Sud	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.2%	0.072
+République_slovaque	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.1%	0.021
 Brésil	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+19.8%	0.198
 Nouvelle-Zélande	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+21.5%	0.215
 Portugal	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.9%	0.069
@@ -386,6 +376,7 @@ Corée	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.0%	
 Portugal	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.6%	0.086
 Israël	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.9%	0.139
 Hongrie	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.0%	0.03
+République_slovaque	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.1%	0.021
 Danemark	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+11.9%	0.119
 Japon	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.5%	0.235
 Norvège	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.9%	0.169
@@ -393,14 +384,15 @@ Lettonie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.4
 Finlande	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.9%	0.069
 Suède	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+12.7%	0.127
 Hongrie	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.7%	0.027
-République slovaque	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.1%	0.021
+République_tchèque	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.5%	0.035
 Irlande	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.1%	0.271
-République slovaque	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+1.3%	0.013
 Suède	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.8%	0.098
 Royaume-Uni	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.8%	0.258
 Islande	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+12.4%	0.124
 Mexique	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.9%	0.159
+République_slovaque	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.9%	0.029
 Finlande	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.3%	0.073
+Afrique_du_Sud	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.6%	0.066
 Luxembourg	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+28.5%	0.285
 Finlande	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.8%	0.068
 Autriche	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.4%	0.254
@@ -410,10 +402,10 @@ Islande	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.4
 Norvège	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+19.0%	0.19
 Japon	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.3%	0.233
 Portugal	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.6%	0.076
-Moyenne OCDE	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.0%	0.17
 Autriche	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.4%	0.264
 Islande	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.7%	0.137
 Luxembourg	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.2%	0.252
+Costa_Rica	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+19.3%	0.193
 Lituanie	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.0%	0.05
 Japon	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.9%	0.229
 Pays-Bas	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+42.9%	0.429
@@ -427,16 +419,14 @@ Espagne	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.1
 Israël	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.0%	0.18
 Pologne	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.0%	0.09
 Lituanie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.0%	0.05
-Moyenne OCDE	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.5%	0.175
 Brésil	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.6%	0.186
-République slovaque	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+1.9%	0.019
 Israël	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.1%	0.161
+République_slovaque	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.3%	0.023
 Lituanie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.2%	0.072
 Israël	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.0%	0.14
 Nouvelle-Zélande	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.7%	0.247
 Suède	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.7%	0.137
 Canada	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.6%	0.156
-République tchèque	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.0%	0.04
 Corée	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.9%	0.059
 Grèce	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.9%	0.069
 Irlande	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.3%	0.263
@@ -455,6 +445,7 @@ Lettonie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.1
 Finlande	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.7%	0.067
 Finlande	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.1%	0.071
 Russie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.9%	0.029
+Costa_Rica	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.1%	0.141
 Norvège	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.9%	0.229
 Luxembourg	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.2%	0.272
 Allemagne	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+28.4%	0.284
@@ -465,7 +456,6 @@ Belgique	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.
 Russie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.0%	0.03
 Turquie	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.2%	0.142
 Allemagne	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+31.5%	0.315
-République tchèque	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.7%	0.037
 Australie	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.4%	0.244
 Suède	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.8%	0.078
 Brésil	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+20.6%	0.206
@@ -473,6 +463,8 @@ Finlande	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.8
 Italie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.8%	0.178
 Canada	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.5%	0.155
 Lituanie	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.5%	0.055
+Afrique_du_Sud	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.5%	0.075
+Costa_Rica	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
 Slovénie	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.4%	0.054
 Islande	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.9%	0.229
 Pays-Bas	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+43.4%	0.434
@@ -482,19 +474,20 @@ Royaume-Uni	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+
 Belgique	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.1%	0.271
 Russie	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.6%	0.026
 France	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.5%	0.185
-Moyenne OCDE	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.2%	0.172
-République tchèque	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.5%	0.055
 Royaume-Uni	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+32.2%	0.322
 Irlande	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.6%	0.276
 Russie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.0%	0.04
 États-Unis	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.8%	0.098
 Japon	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.5%	0.225
+Moyenne_OCDE	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.3%	0.173
+République_tchèque	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.2%	0.052
+Moyenne_OCDE	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.5%	0.175
 Russie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.5%	0.025
+République_slovaque	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+1.9%	0.019
 Australie	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.7%	0.267
 Italie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.5%	0.245
 Chili	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.6%	0.056
 Brésil	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.0%	0.18
-République tchèque	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.7%	0.047
 Canada	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+15.2%	0.152
 Italie	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.4%	0.244
 Russie	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.1%	0.051
@@ -507,13 +500,18 @@ Chili	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.5%	
 Norvège	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.7%	0.247
 France	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.4%	0.164
 Lettonie	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.2%	0.052
+République_slovaque	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.5%	0.025
 Mexique	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.5%	0.185
-Afrique du Sud	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.9%	0.059
 Hongrie	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.0%	0.03
 Danemark	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.3%	0.103
+Moyenne_OCDE	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.4%	0.164
+République_slovaque	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+1.3%	0.013
+République_slovaque	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+1.7%	0.017
 Slovénie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.8%	0.038
+Moyenne_OCDE	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.5%	0.175
 Corée	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.2%	0.052
 Allemagne	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+29.4%	0.294
+République_tchèque	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.8%	0.038
 Pologne	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.8%	0.098
 Espagne	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.2%	0.142
 Grèce	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.4%	0.084
@@ -524,19 +522,21 @@ Japon	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.3%	
 Grèce	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.4%	0.094
 Allemagne	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+29.9%	0.299
 Finlande	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.3%	0.073
-République slovaque	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.7%	0.037
 France	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.6%	0.176
 Portugal	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.2%	0.042
 Autriche	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.5%	0.225
 Hongrie	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.8%	0.028
 Italie	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.1%	0.171
 Allemagne	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+31.3%	0.313
+République_tchèque	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.0%	0.04
 Danemark	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+11.4%	0.114
 Brésil	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+20.7%	0.207
+Moyenne_OCDE	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.0%	0.17
 Brésil	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.8%	0.188
 Corée	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.5%	0.085
+Afrique_du_Sud	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.9%	0.059
 États-Unis	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.1%	0.091
-Afrique du Sud	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.0%	0.07
+Moyenne_OCDE	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.2%	0.172
 France	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.6%	0.166
 Belgique	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.5%	0.275
 Allemagne	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+30.4%	0.304
@@ -546,7 +546,9 @@ Estonie	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.7%
 Espagne	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.5%	0.165
 Pologne	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.8%	0.058
 Chili	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+8.7%	0.087
+République_slovaque	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.4%	0.024
 Japon	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.4%	0.234
+République_slovaque	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.7%	0.037
 Luxembourg	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.8%	0.278
 Italie	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.3%	0.243
 Russie	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.8%	0.038
@@ -554,17 +556,20 @@ Islande	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.7
 Grèce	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.2%	0.072
 Estonie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.4%	0.054
 Irlande	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.7%	0.277
+Costa_Rica	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.7%	0.187
 Lituanie	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.2%	0.052
 Lettonie	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.0%	0.04
+Afrique_du_Sud	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.2%	0.072
 Japon	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.2%	0.252
-Afrique du Sud	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.9%	0.069
 Norvège	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.9%	0.229
+République_slovaque	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.7%	0.027
 Nouvelle-Zélande	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.5%	0.225
 Italie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.7%	0.247
 États-Unis	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.6%	0.096
 Nouvelle-Zélande	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.4%	0.244
 Italie	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+24.7%	0.247
 Australie	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.1%	0.271
+Costa_Rica	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.4%	0.184
 Estonie	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.9%	0.059
 Italie	2001	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.4%	0.174
 Lettonie	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.9%	0.049
@@ -577,21 +582,18 @@ Estonie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.3%
 Suisse	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+34.1%	0.341
 Slovénie	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.9%	0.049
 Lettonie	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.8%	0.048
-République tchèque	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.2%	0.052
-République slovaque	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.1%	0.021
 Japon	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.3%	0.233
 Espagne	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.3%	0.163
 Israël	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.5%	0.145
-Costa Rica	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.1%	0.141
 Islande	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.4%	0.174
 Belgique	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.6%	0.276
 Pologne	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.7%	0.097
 Royaume-Uni	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.7%	0.277
 Estonie	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.4%	0.054
-République slovaque	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+1.9%	0.019
 Russie	2011	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.6%	0.026
 Luxembourg	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+29.1%	0.291
 France	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.3%	0.163
+Moyenne_OCDE	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.9%	0.169
 Lituanie	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+5.8%	0.058
 Islande	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+14.5%	0.145
 Luxembourg	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.7%	0.227
@@ -600,17 +602,18 @@ Russie	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.9%	
 Mexique	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+19.5%	0.195
 Suède	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+9.3%	0.093
 Italie	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.2%	0.232
-Moyenne OCDE	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+16.4%	0.164
 Irlande	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.2%	0.272
 Autriche	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.6%	0.236
 Royaume-Uni	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+29.0%	0.29
 Nouvelle-Zélande	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+21.3%	0.213
 Irlande	2014	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+22.9%	0.229
 Allemagne	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+30.6%	0.306
+Moyenne_OCDE	2010	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.3%	0.173
 Suède	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+12.3%	0.123
 Danemark	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+12.7%	0.127
 Portugal	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.8%	0.048
 Australie	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.4%	0.254
+Afrique_du_Sud	2012	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+7.0%	0.07
 Royaume-Uni	2008	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.5%	0.275
 Danemark	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+10.9%	0.109
 Royaume-Uni	2009	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+27.9%	0.279
@@ -629,14 +632,11 @@ Turquie	2015	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+13.1
 Pays-Bas	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+44.2%	0.442
 Russie	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+3.1%	0.031
 Royaume-Uni	2013	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+26.5%	0.265
-République slovaque	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+2.6%	0.026
 Mexique	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.5%	0.185
 France	2005	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.6%	0.176
 Autriche	2004	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+25.5%	0.255
 Danemark	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+11.1%	0.111
-République tchèque	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+4.2%	0.042
 Italie	2003	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+18.2%	0.182
-Moyenne OCDE	2007	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+17.5%	0.175
 Autriche	2002	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+23.2%	0.232
 Finlande	2000	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.8%	0.068
 Finlande	2006	Part_des_employés_à_temps_partiel_par_sexe_et_groupe_d'âge	+6.8%	0.068

@@ -1,26 +1,31 @@
 Royaume-Uni	2012	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
+République_tchèque	2007	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
+République_tchèque	2009	Part_des_employés_temporaires_par_sexe	+3.2%	0.032
 Allemagne	2010	Part_des_employés_temporaires_par_sexe	+0.5%	0.005
 Espagne	2009	Part_des_employés_temporaires_par_sexe	+3.6%	0.036
 Turquie	2015	Part_des_employés_temporaires_par_sexe	-2.7%	0.027
 Slovénie	2013	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
-République slovaque	2010	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
 Russie	2007	Part_des_employés_temporaires_par_sexe	-3.9%	0.039
 Lituanie	2008	Part_des_employés_temporaires_par_sexe	-1.1%	0.011
 Finlande	2003	Part_des_employés_temporaires_par_sexe	+7.2%	0.072
 Lettonie	2006	Part_des_employés_temporaires_par_sexe	-3.4%	0.034
 Slovénie	2012	Part_des_employés_temporaires_par_sexe	+3.0%	0.03
+République_tchèque	2008	Part_des_employés_temporaires_par_sexe	+3.3%	0.033
 Australie	2006	Part_des_employés_temporaires_par_sexe	+1.5%	0.015
 Portugal	2013	Part_des_employés_temporaires_par_sexe	+0.2%	0.002
 Danemark	2003	Part_des_employés_temporaires_par_sexe	+2.2%	0.022
 Islande	2003	Part_des_employés_temporaires_par_sexe	-0.3%	0.003
+République_slovaque	2005	Part_des_employés_temporaires_par_sexe	-0.2%	0.002
 Lettonie	2012	Part_des_employés_temporaires_par_sexe	-2.9%	0.029
-République tchèque	2004	Part_des_employés_temporaires_par_sexe	+2.3%	0.023
+République_slovaque	2013	Part_des_employés_temporaires_par_sexe	+0.6%	0.006
 Japon	2015	Part_des_employés_temporaires_par_sexe	+5.0%	0.05
 Belgique	2007	Part_des_employés_temporaires_par_sexe	+4.0%	0.04
 Italie	2006	Part_des_employés_temporaires_par_sexe	+4.6%	0.046
 France	2003	Part_des_employés_temporaires_par_sexe	+3.2%	0.032
 Italie	2008	Part_des_employés_temporaires_par_sexe	+4.1%	0.041
 Colombie	2001	Part_des_employés_temporaires_par_sexe	+13.3%	0.133
+Costa_Rica	2015	Part_des_employés_temporaires_par_sexe	-4.9%	0.049
+République_slovaque	2003	Part_des_employés_temporaires_par_sexe	-0.9%	0.009
 Italie	2015	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Japon	2012	Part_des_employés_temporaires_par_sexe	+11.9%	0.119
 Colombie	2011	Part_des_employés_temporaires_par_sexe	+0.4%	0.004
@@ -36,14 +41,11 @@ Allemagne	2011	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
 Estonie	2009	Part_des_employés_temporaires_par_sexe	-1.0%	0.01
 Grèce	2004	Part_des_employés_temporaires_par_sexe	+3.6%	0.036
 Russie	2000	Part_des_employés_temporaires_par_sexe	-2.7%	0.027
-République slovaque	2005	Part_des_employés_temporaires_par_sexe	-0.2%	0.002
 Estonie	2015	Part_des_employés_temporaires_par_sexe	-0.8%	0.008
-République tchèque	2007	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
 Corée	2010	Part_des_employés_temporaires_par_sexe	+4.8%	0.048
 Royaume-Uni	2005	Part_des_employés_temporaires_par_sexe	+1.0%	0.01
 France	2009	Part_des_employés_temporaires_par_sexe	+3.0%	0.03
 Colombie	2008	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
-République slovaque	2006	Part_des_employés_temporaires_par_sexe	+0.1%	0.001
 Grèce	2005	Part_des_employés_temporaires_par_sexe	+4.3%	0.043
 Japon	2010	Part_des_employés_temporaires_par_sexe	+12.4%	0.124
 Russie	2006	Part_des_employés_temporaires_par_sexe	-3.5%	0.035
@@ -52,8 +54,6 @@ Suisse	2009	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
 Estonie	2012	Part_des_employés_temporaires_par_sexe	-1.9%	0.019
 Hongrie	2014	Part_des_employés_temporaires_par_sexe	-0.9%	0.009
 Irlande	2002	Part_des_employés_temporaires_par_sexe	+1.8%	0.018
-Costa Rica	2010	Part_des_employés_temporaires_par_sexe	-3.9%	0.039
-République slovaque	2012	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Belgique	2011	Part_des_employés_temporaires_par_sexe	+2.6%	0.026
 Chili	2010	Part_des_employés_temporaires_par_sexe	-1.8%	0.018
 Allemagne	2007	Part_des_employés_temporaires_par_sexe	-0.1%	0.001
@@ -70,13 +70,13 @@ Colombie	2014	Part_des_employés_temporaires_par_sexe	+9.9%	0.099
 Lituanie	2000	Part_des_employés_temporaires_par_sexe	-2.6%	0.026
 Norvège	2001	Part_des_employés_temporaires_par_sexe	+4.6%	0.046
 Portugal	2003	Part_des_employés_temporaires_par_sexe	+3.3%	0.033
-République tchèque	2015	Part_des_employés_temporaires_par_sexe	+3.5%	0.035
 Australie	2004	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Japon	2005	Part_des_employés_temporaires_par_sexe	+14.1%	0.141
 Lettonie	2011	Part_des_employés_temporaires_par_sexe	-2.4%	0.024
 Royaume-Uni	2000	Part_des_employés_temporaires_par_sexe	+1.8%	0.018
 Royaume-Uni	2007	Part_des_employés_temporaires_par_sexe	+1.2%	0.012
 France	2004	Part_des_employés_temporaires_par_sexe	+2.7%	0.027
+République_tchèque	2012	Part_des_employés_temporaires_par_sexe	+3.1%	0.031
 Suisse	2000	Part_des_employés_temporaires_par_sexe	+2.3%	0.023
 Estonie	2003	Part_des_employés_temporaires_par_sexe	-1.7%	0.017
 Grèce	2014	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
@@ -89,6 +89,7 @@ Slovénie	2003	Part_des_employés_temporaires_par_sexe	+2.3%	0.023
 Pays-Bas	2003	Part_des_employés_temporaires_par_sexe	+3.5%	0.035
 Suède	2013	Part_des_employés_temporaires_par_sexe	+4.4%	0.044
 Pologne	2006	Part_des_employés_temporaires_par_sexe	-2.5%	0.025
+Costa_Rica	2014	Part_des_employés_temporaires_par_sexe	-5.3%	0.053
 Islande	2000	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
 Autriche	2006	Part_des_employés_temporaires_par_sexe	-0.1%	0.001
 Luxembourg	2014	Part_des_employés_temporaires_par_sexe	+1.9%	0.019
@@ -98,6 +99,7 @@ Suède	2006	Part_des_employés_temporaires_par_sexe	+3.9%	0.039
 Lituanie	2003	Part_des_employés_temporaires_par_sexe	-4.8%	0.048
 Autriche	2011	Part_des_employés_temporaires_par_sexe	-0.2%	0.002
 Finlande	2012	Part_des_employés_temporaires_par_sexe	+5.6%	0.056
+Costa_Rica	2012	Part_des_employés_temporaires_par_sexe	-3.7%	0.037
 Portugal	2014	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Norvège	2009	Part_des_employés_temporaires_par_sexe	+3.3%	0.033
 Slovénie	2015	Part_des_employés_temporaires_par_sexe	+1.7%	0.017
@@ -110,7 +112,7 @@ Russie	2009	Part_des_employés_temporaires_par_sexe	-4.8%	0.048
 Australie	2008	Part_des_employés_temporaires_par_sexe	+1.0%	0.01
 Suisse	2003	Part_des_employés_temporaires_par_sexe	+0.7%	0.007
 Russie	2015	Part_des_employés_temporaires_par_sexe	-4.4%	0.044
-République slovaque	2007	Part_des_employés_temporaires_par_sexe	+0.4%	0.004
+République_tchèque	2006	Part_des_employés_temporaires_par_sexe	+2.5%	0.025
 Autriche	2004	Part_des_employés_temporaires_par_sexe	-0.8%	0.008
 Italie	2014	Part_des_employés_temporaires_par_sexe	+1.0%	0.01
 Lituanie	2013	Part_des_employés_temporaires_par_sexe	-1.5%	0.015
@@ -119,6 +121,7 @@ Hongrie	2007	Part_des_employés_temporaires_par_sexe	-1.0%	0.01
 Slovénie	2009	Part_des_employés_temporaires_par_sexe	+2.7%	0.027
 Japon	2009	Part_des_employés_temporaires_par_sexe	+13.2%	0.132
 Luxembourg	2015	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
+République_tchèque	2004	Part_des_employés_temporaires_par_sexe	+2.3%	0.023
 Canada	2005	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
 Allemagne	2013	Part_des_employés_temporaires_par_sexe	+0.2%	0.002
 Islande	2013	Part_des_employés_temporaires_par_sexe	-0.2%	0.002
@@ -138,18 +141,20 @@ Turquie	2013	Part_des_employés_temporaires_par_sexe	-2.1%	0.021
 Autriche	2008	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
 Turquie	2007	Part_des_employés_temporaires_par_sexe	-0.6%	0.006
 Suède	2007	Part_des_employés_temporaires_par_sexe	+4.9%	0.049
+République_tchèque	2013	Part_des_employés_temporaires_par_sexe	+3.5%	0.035
 Italie	2012	Part_des_employés_temporaires_par_sexe	+1.9%	0.019
 Luxembourg	2008	Part_des_employés_temporaires_par_sexe	+0.7%	0.007
 Luxembourg	2009	Part_des_employés_temporaires_par_sexe	+2.1%	0.021
 Autriche	2014	Part_des_employés_temporaires_par_sexe	-0.1%	0.001
 Portugal	2009	Part_des_employés_temporaires_par_sexe	+2.4%	0.024
 Islande	2004	Part_des_employés_temporaires_par_sexe	+0.6%	0.006
-République slovaque	2014	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Lettonie	2010	Part_des_employés_temporaires_par_sexe	-4.1%	0.041
 Danemark	2015	Part_des_employés_temporaires_par_sexe	+1.5%	0.015
 Canada	2000	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
 Islande	2009	Part_des_employés_temporaires_par_sexe	+1.5%	0.015
+République_slovaque	2007	Part_des_employés_temporaires_par_sexe	+0.4%	0.004
 Russie	2001	Part_des_employés_temporaires_par_sexe	-2.8%	0.028
+République_tchèque	2005	Part_des_employés_temporaires_par_sexe	+2.2%	0.022
 France	2002	Part_des_employés_temporaires_par_sexe	+3.5%	0.035
 Pologne	2003	Part_des_employés_temporaires_par_sexe	-3.0%	0.03
 Lituanie	2004	Part_des_employés_temporaires_par_sexe	-4.7%	0.047
@@ -172,7 +177,6 @@ Irlande	2013	Part_des_employés_temporaires_par_sexe	-0.3%	0.003
 Australie	2001	Part_des_employés_temporaires_par_sexe	+1.1%	0.011
 Pays-Bas	2005	Part_des_employés_temporaires_par_sexe	+2.6%	0.026
 Luxembourg	2003	Part_des_employés_temporaires_par_sexe	+1.8%	0.018
-République tchèque	2012	Part_des_employés_temporaires_par_sexe	+3.1%	0.031
 Finlande	2011	Part_des_employés_temporaires_par_sexe	+5.7%	0.057
 Allemagne	2015	Part_des_employés_temporaires_par_sexe	+0.1%	0.001
 Colombie	2013	Part_des_employés_temporaires_par_sexe	-9.3%	0.093
@@ -192,6 +196,7 @@ Norvège	2012	Part_des_employés_temporaires_par_sexe	+3.4%	0.034
 Allemagne	2006	Part_des_employés_temporaires_par_sexe	-0.4%	0.004
 Norvège	2006	Part_des_employés_temporaires_par_sexe	+4.9%	0.049
 Slovénie	2007	Part_des_employés_temporaires_par_sexe	+4.3%	0.043
+République_tchèque	2010	Part_des_employés_temporaires_par_sexe	+3.1%	0.031
 Lituanie	2012	Part_des_employés_temporaires_par_sexe	-1.5%	0.015
 Corée	2012	Part_des_employés_temporaires_par_sexe	+4.7%	0.047
 Belgique	2009	Part_des_employés_temporaires_par_sexe	+3.7%	0.037
@@ -202,6 +207,7 @@ Pays-Bas	2004	Part_des_employés_temporaires_par_sexe	+3.1%	0.031
 Royaume-Uni	2001	Part_des_employés_temporaires_par_sexe	+1.6%	0.016
 Lituanie	2002	Part_des_employés_temporaires_par_sexe	-4.9%	0.049
 Royaume-Uni	2004	Part_des_employés_temporaires_par_sexe	+1.1%	0.011
+République_slovaque	2011	Part_des_employés_temporaires_par_sexe	+0.6%	0.006
 Portugal	2011	Part_des_employés_temporaires_par_sexe	+0.4%	0.004
 Royaume-Uni	2014	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Hongrie	2015	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
@@ -214,7 +220,6 @@ Danemark	2006	Part_des_employés_temporaires_par_sexe	+2.0%	0.02
 Turquie	2005	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
 Suisse	2006	Part_des_employés_temporaires_par_sexe	+0.8%	0.008
 Pologne	2009	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
-Costa Rica	2015	Part_des_employés_temporaires_par_sexe	-4.9%	0.049
 Slovénie	2005	Part_des_employés_temporaires_par_sexe	+3.6%	0.036
 Suisse	2008	Part_des_employés_temporaires_par_sexe	-0.2%	0.002
 Turquie	2004	Part_des_employés_temporaires_par_sexe	+1.1%	0.011
@@ -232,7 +237,6 @@ Belgique	2005	Part_des_employés_temporaires_par_sexe	+4.6%	0.046
 Colombie	2009	Part_des_employés_temporaires_par_sexe	-7.1%	0.071
 Irlande	2011	Part_des_employés_temporaires_par_sexe	+0.8%	0.008
 Luxembourg	2004	Part_des_employés_temporaires_par_sexe	+1.7%	0.017
-République tchèque	2001	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
 États-Unis	2005	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
 Allemagne	2001	Part_des_employés_temporaires_par_sexe	+0.5%	0.005
 Portugal	2012	Part_des_employés_temporaires_par_sexe	-0.3%	0.003
@@ -241,12 +245,11 @@ Chili	2013	Part_des_employés_temporaires_par_sexe	-2.0%	0.02
 Turquie	2014	Part_des_employés_temporaires_par_sexe	-2.4%	0.024
 Canada	2014	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 France	2010	Part_des_employés_temporaires_par_sexe	+2.0%	0.02
-République slovaque	2004	Part_des_employés_temporaires_par_sexe	-1.0%	0.01
 Hongrie	2008	Part_des_employés_temporaires_par_sexe	-1.5%	0.015
 Hongrie	2005	Part_des_employés_temporaires_par_sexe	-1.2%	0.012
 Suède	2010	Part_des_employés_temporaires_par_sexe	+3.8%	0.038
-République tchèque	2006	Part_des_employés_temporaires_par_sexe	+2.5%	0.025
 Chili	2015	Part_des_employés_temporaires_par_sexe	-1.6%	0.016
+République_slovaque	2010	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
 Chili	2012	Part_des_employés_temporaires_par_sexe	-2.2%	0.022
 Russie	2013	Part_des_employés_temporaires_par_sexe	-4.2%	0.042
 Estonie	2008	Part_des_employés_temporaires_par_sexe	-2.0%	0.02
@@ -262,8 +265,10 @@ Autriche	2015	Part_des_employés_temporaires_par_sexe	-0.1%	0.001
 Luxembourg	2011	Part_des_employés_temporaires_par_sexe	+1.9%	0.019
 Italie	2001	Part_des_employés_temporaires_par_sexe	+3.6%	0.036
 Autriche	2012	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
+République_slovaque	2012	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Luxembourg	2007	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
 Royaume-Uni	2006	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
+République_tchèque	2014	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
 Norvège	2013	Part_des_employés_temporaires_par_sexe	+3.6%	0.036
 Japon	2001	Part_des_employés_temporaires_par_sexe	+14.0%	0.14
 Espagne	2001	Part_des_employés_temporaires_par_sexe	+4.1%	0.041
@@ -276,7 +281,6 @@ Corée	2015	Part_des_employés_temporaires_par_sexe	+4.1%	0.041
 Hongrie	2013	Part_des_employés_temporaires_par_sexe	-1.0%	0.01
 Lettonie	2009	Part_des_employés_temporaires_par_sexe	-3.0%	0.03
 Norvège	2008	Part_des_employés_temporaires_par_sexe	+4.1%	0.041
-Costa Rica	2013	Part_des_employés_temporaires_par_sexe	-4.6%	0.046
 Pays-Bas	2015	Part_des_employés_temporaires_par_sexe	+2.0%	0.02
 Portugal	2010	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
 Turquie	2003	Part_des_employés_temporaires_par_sexe	-0.2%	0.002
@@ -297,7 +301,7 @@ Islande	2006	Part_des_employés_temporaires_par_sexe	+2.2%	0.022
 Suède	2002	Part_des_employés_temporaires_par_sexe	+4.8%	0.048
 Canada	2009	Part_des_employés_temporaires_par_sexe	+0.7%	0.007
 France	2007	Part_des_employés_temporaires_par_sexe	+2.2%	0.022
-République tchèque	2011	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
+République_tchèque	2003	Part_des_employés_temporaires_par_sexe	+1.5%	0.015
 Belgique	2012	Part_des_employés_temporaires_par_sexe	+2.2%	0.022
 Corée	2007	Part_des_employés_temporaires_par_sexe	+2.5%	0.025
 Hongrie	2003	Part_des_employés_temporaires_par_sexe	-1.6%	0.016
@@ -306,17 +310,16 @@ France	2005	Part_des_employés_temporaires_par_sexe	+1.8%	0.018
 Luxembourg	2005	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Belgique	2006	Part_des_employés_temporaires_par_sexe	+4.0%	0.04
 Suède	2005	Part_des_employés_temporaires_par_sexe	+3.7%	0.037
-Costa Rica	2011	Part_des_employés_temporaires_par_sexe	-3.1%	0.031
 Islande	2014	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Belgique	2004	Part_des_employés_temporaires_par_sexe	+5.3%	0.053
 Japon	2006	Part_des_employés_temporaires_par_sexe	+13.8%	0.138
 Finlande	2000	Part_des_employés_temporaires_par_sexe	+6.7%	0.067
 Japon	2002	Part_des_employés_temporaires_par_sexe	+14.4%	0.144
 Royaume-Uni	2008	Part_des_employés_temporaires_par_sexe	+1.2%	0.012
-Costa Rica	2012	Part_des_employés_temporaires_par_sexe	-3.7%	0.037
 Allemagne	2004	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Portugal	2001	Part_des_employés_temporaires_par_sexe	+4.1%	0.041
 Russie	2008	Part_des_employés_temporaires_par_sexe	-4.9%	0.049
+République_slovaque	2014	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Suisse	2013	Part_des_employés_temporaires_par_sexe	+0.4%	0.004
 Allemagne	2009	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
 Lettonie	2002	Part_des_employés_temporaires_par_sexe	-6.1%	0.061
@@ -336,7 +339,6 @@ Colombie	2015	Part_des_employés_temporaires_par_sexe	+2.3%	0.023
 Suisse	2012	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
 Estonie	2004	Part_des_employés_temporaires_par_sexe	-1.8%	0.018
 Danemark	2011	Part_des_employés_temporaires_par_sexe	+1.1%	0.011
-République slovaque	2015	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
 Islande	2011	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
 Portugal	2008	Part_des_employés_temporaires_par_sexe	+2.6%	0.026
 Irlande	2009	Part_des_employés_temporaires_par_sexe	+2.1%	0.021
@@ -344,32 +346,28 @@ Autriche	2000	Part_des_employés_temporaires_par_sexe	+0.8%	0.008
 Allemagne	2005	Part_des_employés_temporaires_par_sexe	-0.4%	0.004
 Slovénie	2006	Part_des_employés_temporaires_par_sexe	+3.8%	0.038
 Pologne	2008	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
-République tchèque	2014	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
 Pays-Bas	2009	Part_des_employés_temporaires_par_sexe	+3.9%	0.039
 Canada	2004	Part_des_employés_temporaires_par_sexe	+1.5%	0.015
+République_slovaque	2001	Part_des_employés_temporaires_par_sexe	-0.6%	0.006
 Belgique	2014	Part_des_employés_temporaires_par_sexe	+2.0%	0.02
 Suède	2000	Part_des_employés_temporaires_par_sexe	+4.4%	0.044
 Pays-Bas	2013	Part_des_employés_temporaires_par_sexe	+1.8%	0.018
 Australie	2009	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
 Mexique	2000	Part_des_employés_temporaires_par_sexe	-13.5%	0.135
 Finlande	2005	Part_des_employés_temporaires_par_sexe	+7.1%	0.071
-République slovaque	2003	Part_des_employés_temporaires_par_sexe	-0.9%	0.009
 Canada	2015	Part_des_employés_temporaires_par_sexe	+0.8%	0.008
 Allemagne	2012	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
 Espagne	2012	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
 Grèce	2002	Part_des_employés_temporaires_par_sexe	+3.3%	0.033
-République slovaque	2013	Part_des_employés_temporaires_par_sexe	+0.6%	0.006
-République tchèque	2008	Part_des_employés_temporaires_par_sexe	+3.3%	0.033
-République tchèque	2009	Part_des_employés_temporaires_par_sexe	+3.2%	0.032
 Suisse	2004	Part_des_employés_temporaires_par_sexe	+0.7%	0.007
 Suisse	2005	Part_des_employés_temporaires_par_sexe	+0.4%	0.004
 Corée	2011	Part_des_employés_temporaires_par_sexe	+6.0%	0.06
 Irlande	2015	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
-République tchèque	2000	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
+République_tchèque	2000	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
 Allemagne	2002	Part_des_employés_temporaires_par_sexe	+0.4%	0.004
 Australie	2010	Part_des_employés_temporaires_par_sexe	+1.7%	0.017
 Danemark	2000	Part_des_employés_temporaires_par_sexe	+2.6%	0.026
-République tchèque	2013	Part_des_employés_temporaires_par_sexe	+3.5%	0.035
+République_slovaque	2008	Part_des_employés_temporaires_par_sexe	+0.2%	0.002
 Lettonie	2000	Part_des_employés_temporaires_par_sexe	-4.3%	0.043
 Suède	2015	Part_des_employés_temporaires_par_sexe	+3.3%	0.033
 Japon	2011	Part_des_employés_temporaires_par_sexe	+12.2%	0.122
@@ -380,7 +378,6 @@ Luxembourg	2000	Part_des_employés_temporaires_par_sexe	+2.0%	0.02
 Portugal	2006	Part_des_employés_temporaires_par_sexe	+2.3%	0.023
 Luxembourg	2013	Part_des_employés_temporaires_par_sexe	+3.2%	0.032
 Turquie	2000	Part_des_employés_temporaires_par_sexe	-9.6%	0.096
-République tchèque	2002	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Espagne	2003	Part_des_employés_temporaires_par_sexe	+4.5%	0.045
 Estonie	2014	Part_des_employés_temporaires_par_sexe	-0.4%	0.004
 Corée	2004	Part_des_employés_temporaires_par_sexe	+5.8%	0.058
@@ -389,22 +386,23 @@ Japon	2003	Part_des_employés_temporaires_par_sexe	+14.4%	0.144
 Pologne	2005	Part_des_employés_temporaires_par_sexe	-1.8%	0.018
 Irlande	2014	Part_des_employés_temporaires_par_sexe	+0.2%	0.002
 Suisse	2011	Part_des_employés_temporaires_par_sexe	+0.7%	0.007
+République_tchèque	2015	Part_des_employés_temporaires_par_sexe	+3.5%	0.035
 Russie	2004	Part_des_employés_temporaires_par_sexe	-3.6%	0.036
 Autriche	2003	Part_des_employés_temporaires_par_sexe	-0.7%	0.007
 Belgique	2013	Part_des_employés_temporaires_par_sexe	+1.9%	0.019
 Grèce	2015	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
 Pologne	2012	Part_des_employés_temporaires_par_sexe	-1.0%	0.01
-République slovaque	2011	Part_des_employés_temporaires_par_sexe	+0.6%	0.006
-République tchèque	2003	Part_des_employés_temporaires_par_sexe	+1.5%	0.015
 Turquie	2001	Part_des_employés_temporaires_par_sexe	-5.1%	0.051
 Italie	2009	Part_des_employés_temporaires_par_sexe	+3.8%	0.038
+République_slovaque	2015	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
+République_slovaque	2002	Part_des_employés_temporaires_par_sexe	-0.9%	0.009
 Irlande	2008	Part_des_employés_temporaires_par_sexe	+2.7%	0.027
+République_tchèque	2011	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
 France	2006	Part_des_employés_temporaires_par_sexe	+1.7%	0.017
 Royaume-Uni	2002	Part_des_employés_temporaires_par_sexe	+1.5%	0.015
 Pays-Bas	2006	Part_des_employés_temporaires_par_sexe	+2.6%	0.026
 Finlande	2013	Part_des_employés_temporaires_par_sexe	+6.0%	0.06
 Espagne	2002	Part_des_employés_temporaires_par_sexe	+4.6%	0.046
-République slovaque	2008	Part_des_employés_temporaires_par_sexe	+0.2%	0.002
 France	2011	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
 Belgique	2008	Part_des_employés_temporaires_par_sexe	+3.6%	0.036
 Islande	2010	Part_des_employés_temporaires_par_sexe	+0.8%	0.008
@@ -417,12 +415,12 @@ Pologne	2007	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Luxembourg	2010	Part_des_employés_temporaires_par_sexe	+2.1%	0.021
 Australie	2013	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Pays-Bas	2010	Part_des_employés_temporaires_par_sexe	+2.6%	0.026
-République slovaque	2000	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Colombie	2003	Part_des_employés_temporaires_par_sexe	+16.8%	0.168
 Grèce	2008	Part_des_employés_temporaires_par_sexe	+3.9%	0.039
 Australie	2011	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
 Italie	2000	Part_des_employés_temporaires_par_sexe	+3.5%	0.035
 Norvège	2000	Part_des_employés_temporaires_par_sexe	+4.2%	0.042
+Costa_Rica	2013	Part_des_employés_temporaires_par_sexe	-4.6%	0.046
 Finlande	2004	Part_des_employés_temporaires_par_sexe	+6.8%	0.068
 Irlande	2010	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
 Autriche	2007	Part_des_employés_temporaires_par_sexe	+0.3%	0.003
@@ -430,6 +428,7 @@ Royaume-Uni	2009	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Autriche	2009	Part_des_employés_temporaires_par_sexe	-0.2%	0.002
 Grèce	2010	Part_des_employés_temporaires_par_sexe	+3.6%	0.036
 Irlande	2007	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
+République_slovaque	2009	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Lettonie	2005	Part_des_employés_temporaires_par_sexe	-5.2%	0.052
 Allemagne	2008	Part_des_employés_temporaires_par_sexe	+0.1%	0.001
 Espagne	2010	Part_des_employés_temporaires_par_sexe	+2.5%	0.025
@@ -437,6 +436,7 @@ Suède	2004	Part_des_employés_temporaires_par_sexe	+4.0%	0.04
 Danemark	2012	Part_des_employés_temporaires_par_sexe	+1.5%	0.015
 Lituanie	2006	Part_des_employés_temporaires_par_sexe	-4.1%	0.041
 Autriche	2002	Part_des_employés_temporaires_par_sexe	+0.1%	0.001
+République_slovaque	2000	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Espagne	2015	Part_des_employés_temporaires_par_sexe	+0.1%	0.001
 Autriche	2010	Part_des_employés_temporaires_par_sexe	-0.9%	0.009
 Islande	2015	Part_des_employés_temporaires_par_sexe	+2.1%	0.021
@@ -448,12 +448,12 @@ France	2001	Part_des_employés_temporaires_par_sexe	+2.7%	0.027
 Italie	2003	Part_des_employés_temporaires_par_sexe	+4.0%	0.04
 Canada	2002	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
 Lettonie	2014	Part_des_employés_temporaires_par_sexe	-1.9%	0.019
-République tchèque	2010	Part_des_employés_temporaires_par_sexe	+3.1%	0.031
 France	2000	Part_des_employés_temporaires_par_sexe	+1.8%	0.018
 Suisse	2010	Part_des_employés_temporaires_par_sexe	+0.2%	0.002
 Hongrie	2004	Part_des_employés_temporaires_par_sexe	-1.3%	0.013
 Colombie	2007	Part_des_employés_temporaires_par_sexe	+4.9%	0.049
 Islande	2005	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
+Costa_Rica	2010	Part_des_employés_temporaires_par_sexe	-3.9%	0.039
 Pays-Bas	2014	Part_des_employés_temporaires_par_sexe	+1.3%	0.013
 Norvège	2007	Part_des_employés_temporaires_par_sexe	+4.2%	0.042
 Hongrie	2010	Part_des_employés_temporaires_par_sexe	-0.9%	0.009
@@ -469,13 +469,12 @@ Australie	2007	Part_des_employés_temporaires_par_sexe	+1.1%	0.011
 Lituanie	2007	Part_des_employés_temporaires_par_sexe	-2.7%	0.027
 Finlande	2015	Part_des_employés_temporaires_par_sexe	+5.5%	0.055
 Danemark	2010	Part_des_employés_temporaires_par_sexe	+0.6%	0.006
-Costa Rica	2014	Part_des_employés_temporaires_par_sexe	-5.3%	0.053
 Pologne	2013	Part_des_employés_temporaires_par_sexe	-0.9%	0.009
+République_slovaque	2006	Part_des_employés_temporaires_par_sexe	+0.1%	0.001
 Estonie	2002	Part_des_employés_temporaires_par_sexe	-2.7%	0.027
 Slovénie	2002	Part_des_employés_temporaires_par_sexe	+3.5%	0.035
 Espagne	2007	Part_des_employés_temporaires_par_sexe	+2.4%	0.024
 Autriche	2013	Part_des_employés_temporaires_par_sexe	-0.4%	0.004
-République slovaque	2009	Part_des_employés_temporaires_par_sexe	-0.5%	0.005
 Finlande	2001	Part_des_employés_temporaires_par_sexe	+7.0%	0.07
 Canada	2001	Part_des_employés_temporaires_par_sexe	+1.7%	0.017
 Suède	2012	Part_des_employés_temporaires_par_sexe	+4.2%	0.042
@@ -483,6 +482,7 @@ Slovénie	2001	Part_des_employés_temporaires_par_sexe	+1.9%	0.019
 Espagne	2013	Part_des_employés_temporaires_par_sexe	+1.9%	0.019
 Norvège	2011	Part_des_employés_temporaires_par_sexe	+2.9%	0.029
 Slovénie	2004	Part_des_employés_temporaires_par_sexe	+2.4%	0.024
+Costa_Rica	2011	Part_des_employés_temporaires_par_sexe	-3.1%	0.031
 Turquie	2009	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Corée	2008	Part_des_employés_temporaires_par_sexe	+3.0%	0.03
 Islande	2007	Part_des_employés_temporaires_par_sexe	+2.4%	0.024
@@ -512,23 +512,23 @@ Grèce	2007	Part_des_employés_temporaires_par_sexe	+4.0%	0.04
 Danemark	2002	Part_des_employés_temporaires_par_sexe	+2.4%	0.024
 Allemagne	2000	Part_des_employés_temporaires_par_sexe	+0.6%	0.006
 Estonie	2000	Part_des_employés_temporaires_par_sexe	-2.8%	0.028
-République slovaque	2001	Part_des_employés_temporaires_par_sexe	-0.6%	0.006
 Portugal	2000	Part_des_employés_temporaires_par_sexe	+3.6%	0.036
 Slovénie	2014	Part_des_employés_temporaires_par_sexe	+1.0%	0.01
 Lituanie	2005	Part_des_employés_temporaires_par_sexe	-4.1%	0.041
 Australie	2012	Part_des_employés_temporaires_par_sexe	+0.8%	0.008
+République_slovaque	2004	Part_des_employés_temporaires_par_sexe	-1.0%	0.01
 Royaume-Uni	2011	Part_des_employés_temporaires_par_sexe	+0.6%	0.006
 Japon	2007	Part_des_employés_temporaires_par_sexe	+13.4%	0.134
-République slovaque	2002	Part_des_employés_temporaires_par_sexe	-0.9%	0.009
 Russie	2002	Part_des_employés_temporaires_par_sexe	-2.9%	0.029
 Estonie	2006	Part_des_employés_temporaires_par_sexe	-1.2%	0.012
 Danemark	2004	Part_des_employés_temporaires_par_sexe	+1.6%	0.016
 Chili	2011	Part_des_employés_temporaires_par_sexe	-1.5%	0.015
-République tchèque	2005	Part_des_employés_temporaires_par_sexe	+2.2%	0.022
 Belgique	2000	Part_des_employés_temporaires_par_sexe	+5.6%	0.056
 Grèce	2000	Part_des_employés_temporaires_par_sexe	+4.3%	0.043
 Japon	2000	Part_des_employés_temporaires_par_sexe	+13.2%	0.132
 Finlande	2010	Part_des_employés_temporaires_par_sexe	+6.0%	0.06
 Corée	2013	Part_des_employés_temporaires_par_sexe	+4.5%	0.045
+République_tchèque	2002	Part_des_employés_temporaires_par_sexe	+0.9%	0.009
 Canada	2006	Part_des_employés_temporaires_par_sexe	+1.4%	0.014
 Royaume-Uni	2015	Part_des_employés_temporaires_par_sexe	+0.8%	0.008
+République_tchèque	2001	Part_des_employés_temporaires_par_sexe	+0.0%	0.0
