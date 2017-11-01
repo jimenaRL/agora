@@ -1,0 +1,1409 @@
+IND,Indicateur,LOCATION,Pays,YEAR,Année,Value,SEX,EDU
+EDU_1_2,Taux d'alphabétisation,GRC,Grèce,2007,2007,95.9861,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GRC,Grèce,2007,2007,95.9861,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ITA,Italie,2007,2007,98.637,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ITA,Italie,2007,2007,98.637,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRT,Portugal,2007,2007,93.3245,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRT,Portugal,2007,2007,93.3245,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ESP,Espagne,2007,2007,97.260323,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ESP,Espagne,2007,2007,97.260323,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BHR,Bahreïn,2007,2007,86.4279,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BHR,Bahreïn,2007,2007,86.4279,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KWT,Koweït,2007,2007,93.118257,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KWT,Koweït,2007,2007,93.118257,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SGP,Singapour,2007,2007,91.577,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SGP,Singapour,2007,2007,91.577,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SVN,Slovénie,2007,2007,99.6462,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SVN,Slovénie,2007,2007,99.6462,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HUN,Hongrie,2007,2007,98.8152,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HUN,Hongrie,2007,2007,98.8152,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MEX,Mexique,2007,2007,91.355551,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MEX,Mexique,2007,2007,91.355551,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,POL,Pologne,2007,2007,99.0238,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,POL,Pologne,2007,2007,99.0238,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARG,Argentine,2007,2007,97.6775,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARG,Argentine,2007,2007,97.6775,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BWA,Botswana,2007,2007,82.9087,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BWA,Botswana,2007,2007,82.9087,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHL,Chili,2007,2007,96.4953,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHL,Chili,2007,2007,96.4953,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CRI,Costa_Rica,2007,2007,96.1665,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CRI,Costa_Rica,2007,2007,96.1665,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HRV,Croatie,2007,2007,98.0407,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HRV,Croatie,2007,2007,98.0407,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,EST,Estonie,2007,2007,99.8112,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,EST,Estonie,2007,2007,99.8112,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GAB,Gabon,2007,2007,82.1781,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GAB,Gabon,2007,2007,82.1781,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LVA,Lettonie,2007,2007,99.7868,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LVA,Lettonie,2007,2007,99.7868,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBN,Liban,2007,2007,85.967782,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBN,Liban,2007,2007,85.967782,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBY,Libye,2007,2007,78.4437,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBY,Libye,2007,2007,78.4437,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LTU,Lituanie,2007,2007,99.699,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LTU,Lituanie,2007,2007,99.699,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MYS,Malaisie,2007,2007,89.5581,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MYS,Malaisie,2007,2007,89.5581,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MUS,Maurice,2007,2007,84.6995,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MUS,Maurice,2007,2007,84.6995,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,OMN,Oman,2007,2007,77.4952,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,OMN,Oman,2007,2007,77.4952,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PAN,Panama,2007,2007,92.7682,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PAN,Panama,2007,2007,92.7682,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SAU,Arabie_saoudite,2007,2007,79.4134,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SAU,Arabie_saoudite,2007,2007,79.4134,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TTO,Trinité-et-Tobago,2007,2007,98.3104,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TTO,Trinité-et-Tobago,2007,2007,98.3104,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,URY,Uruguay,2007,2007,98.241934,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,URY,Uruguay,2007,2007,98.241934,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,VEN,Venezuela,2007,2007,94.929643,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,VEN,Venezuela,2007,2007,94.929643,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUR,Turquie,2007,2007,81.263827,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUR,Turquie,2007,2007,81.263827,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ALB,Albanie,2007,2007,98.7691,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ALB,Albanie,2007,2007,98.7691,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DZA,Algérie,2007,2007,66.4278,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DZA,Algérie,2007,2007,66.4278,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARM,Arménie,2007,2007,99.3239,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARM,Arménie,2007,2007,99.3239,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BLR,Bélarus,2007,2007,99.6506,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BLR,Bélarus,2007,2007,99.6506,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BOL,Bolivie,2007,2007,85.985939,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BOL,Bolivie,2007,2007,85.985939,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BRA,Brésil,2007,2007,90.228007,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BRA,Brésil,2007,2007,90.228007,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGR,Bulgarie,2007,2007,97.9347,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGR,Bulgarie,2007,2007,97.9347,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHN,Chine_(République_populaire_de),2007,2007,89.9984,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHN,Chine_(République_populaire_de),2007,2007,89.9984,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,COL,Colombie,2007,2007,92.845624,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,COL,Colombie,2007,2007,92.845624,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CUB,Cuba,2007,2007,99.7827,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CUB,Cuba,2007,2007,99.7827,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DOM,République_dominicaine,2007,2007,89.5082,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DOM,République_dominicaine,2007,2007,89.5082,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ECU,Équateur,2007,2007,81.680587,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ECU,Équateur,2007,2007,81.680587,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLV,El_Salvador,2007,2007,79.662128,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLV,El_Salvador,2007,2007,79.662128,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GTM,Guatemala,2007,2007,68.0186,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GTM,Guatemala,2007,2007,68.0186,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HND,Honduras,2007,2007,83.452774,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HND,Honduras,2007,2007,83.452774,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,JAM,Jamaïque,2007,2007,91.0942,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,JAM,Jamaïque,2007,2007,91.0942,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KAZ,Kazakhstan,2007,2007,99.4812,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KAZ,Kazakhstan,2007,2007,99.4812,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MKD,Ex-République_yougoslave_de_Macédoine,2007,2007,95.4143,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MKD,Ex-République_yougoslave_de_Macédoine,2007,2007,95.4143,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MAR,Maroc,2007,2007,43.2176,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MAR,Maroc,2007,2007,43.2176,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NAM,Namibie,2007,2007,87.3726,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NAM,Namibie,2007,2007,87.3726,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PSE,AutoritT_palestinienne_ou_Cisjordanie_et_bande_de_Gaza,2007,2007,90.333662,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PSE,AutoritT_palestinienne_ou_Cisjordanie_et_bande_de_Gaza,2007,2007,90.333662,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRY,Paraguay,2007,2007,93.45327,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRY,Paraguay,2007,2007,93.45327,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PER,Pérou,2007,2007,84.646878,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PER,Pérou,2007,2007,84.646878,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PHL,Philippines,2007,2007,93.677,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PHL,Philippines,2007,2007,93.677,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ROU,Roumanie,2007,2007,96.9228,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ROU,Roumanie,2007,2007,96.9228,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,RUS,Russie,2007,2007,99.3716,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,RUS,Russie,2007,2007,99.3716,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZAF,Afrique_du_Sud,2007,2007,87.1614,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZAF,Afrique_du_Sud,2007,2007,87.1614,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SYR,République_arabe_syrienne,2007,2007,76.4785,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SYR,République_arabe_syrienne,2007,2007,76.4785,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,THA,Thaïlande,2007,2007,92.556,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,THA,Thaïlande,2007,2007,92.556,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUN,Tunisie,2007,2007,69.0445,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUN,Tunisie,2007,2007,69.0445,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TKM,Turkménistan,2007,2007,99.3335,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TKM,Turkménistan,2007,2007,99.3335,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UKR,Ukraine,2007,2007,99.613,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UKR,Ukraine,2007,2007,99.613,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,AZE,Azerbaïdjan,2007,2007,99.222164,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,AZE,Azerbaïdjan,2007,2007,99.222164,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGD,Bangladesh,2007,2007,48.0451,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGD,Bangladesh,2007,2007,48.0451,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BEN,Bénin,2007,2007,27.9271,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BEN,Bénin,2007,2007,27.9271,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BFA,Burkina_Faso,2007,2007,21.579565,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BFA,Burkina_Faso,2007,2007,21.579565,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KHM,Cambodge,2007,2007,67.7155,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KHM,Cambodge,2007,2007,67.7155,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TCD,Tchad,2007,2007,20.8379,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TCD,Tchad,2007,2007,20.8379,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GHA,Ghana,2007,2007,58.2603,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GHA,Ghana,2007,2007,58.2603,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,IND,Inde,2007,2007,54.4765,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,IND,Inde,2007,2007,54.4765,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KGZ,Kirghizistan,2007,2007,99.0994,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KGZ,Kirghizistan,2007,2007,99.0994,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBR,Libéria,2007,2007,50.8919,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBR,Libéria,2007,2007,50.8919,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MWI,Malawi,2007,2007,64.6229,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MWI,Malawi,2007,2007,64.6229,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MRT,Mauritanie,2007,2007,48.2766,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MRT,Mauritanie,2007,2007,48.2766,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MDA,Moldova,2007,2007,98.894,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MDA,Moldova,2007,2007,98.894,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MNG,Mongolie,2007,2007,97.7237,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MNG,Mongolie,2007,2007,97.7237,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MOZ,Mozambique,2007,2007,32.9507,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MOZ,Mozambique,2007,2007,32.9507,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NPL,Népal,2007,2007,43.5584,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NPL,Népal,2007,2007,43.5584,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NGA,Nigéria,2007,2007,64.0956,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NGA,Nigéria,2007,2007,64.0956,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PNG,Papouasie-Nouvelle-Guinée,2007,2007,53.3615,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PNG,Papouasie-Nouvelle-Guinée,2007,2007,53.3615,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLE,Sierra_Leone,2007,2007,26.7709,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLE,Sierra_Leone,2007,2007,26.7709,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TJK,Tadjikistan,2007,2007,99.5125,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TJK,Tadjikistan,2007,2007,99.5125,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TZA,Tanzanie,2007,2007,65.857,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TZA,Tanzanie,2007,2007,65.857,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UGA,Ouganda,2007,2007,65.5086,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UGA,Ouganda,2007,2007,65.5086,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,YEM,Yémen,2007,2007,40.4662,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,YEM,Yémen,2007,2007,40.4662,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZMB,Zambie,2007,2007,60.7457,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZMB,Zambie,2007,2007,60.7457,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZWE,Zimbabwe,2007,2007,88.3283,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZWE,Zimbabwe,2007,2007,88.3283,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GRC,Grèce,2007,2007,95.9861,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GRC,Grèce,2007,2007,95.9861,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HUN,Hongrie,2007,2007,98.8152,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HUN,Hongrie,2007,2007,98.8152,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ITA,Italie,2007,2007,98.637,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ITA,Italie,2007,2007,98.637,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MEX,Mexique,2007,2007,91.355551,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MEX,Mexique,2007,2007,91.355551,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,POL,Pologne,2007,2007,99.0238,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,POL,Pologne,2007,2007,99.0238,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRT,Portugal,2007,2007,93.3245,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRT,Portugal,2007,2007,93.3245,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ESP,Espagne,2007,2007,97.260323,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ESP,Espagne,2007,2007,97.260323,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUR,Turquie,2007,2007,81.263827,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUR,Turquie,2007,2007,81.263827,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ALB,Albanie,2007,2007,98.7691,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ALB,Albanie,2007,2007,98.7691,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DZA,Algérie,2007,2007,66.4278,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DZA,Algérie,2007,2007,66.4278,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARG,Argentine,2007,2007,97.6775,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARG,Argentine,2007,2007,97.6775,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARM,Arménie,2007,2007,99.3239,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARM,Arménie,2007,2007,99.3239,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,AZE,Azerbaïdjan,2007,2007,99.222164,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,AZE,Azerbaïdjan,2007,2007,99.222164,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BHR,Bahreïn,2007,2007,86.4279,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BHR,Bahreïn,2007,2007,86.4279,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGD,Bangladesh,2007,2007,48.0451,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGD,Bangladesh,2007,2007,48.0451,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BLR,Bélarus,2007,2007,99.6506,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BLR,Bélarus,2007,2007,99.6506,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BEN,Bénin,2007,2007,27.9271,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BEN,Bénin,2007,2007,27.9271,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BOL,Bolivie,2007,2007,85.985939,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BOL,Bolivie,2007,2007,85.985939,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BWA,Botswana,2007,2007,82.9087,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BWA,Botswana,2007,2007,82.9087,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BRA,Brésil,2007,2007,90.228007,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BRA,Brésil,2007,2007,90.228007,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGR,Bulgarie,2007,2007,97.9347,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGR,Bulgarie,2007,2007,97.9347,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BFA,Burkina_Faso,2007,2007,21.579565,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BFA,Burkina_Faso,2007,2007,21.579565,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KHM,Cambodge,2007,2007,67.7155,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KHM,Cambodge,2007,2007,67.7155,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TCD,Tchad,2007,2007,20.8379,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TCD,Tchad,2007,2007,20.8379,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHL,Chili,2007,2007,96.4953,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHL,Chili,2007,2007,96.4953,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHN,Chine_(République_populaire_de),2007,2007,89.9984,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHN,Chine_(République_populaire_de),2007,2007,89.9984,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,COL,Colombie,2007,2007,92.845624,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,COL,Colombie,2007,2007,92.845624,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CRI,Costa_Rica,2007,2007,96.1665,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CRI,Costa_Rica,2007,2007,96.1665,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HRV,Croatie,2007,2007,98.0407,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HRV,Croatie,2007,2007,98.0407,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CUB,Cuba,2007,2007,99.7827,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CUB,Cuba,2007,2007,99.7827,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DOM,République_dominicaine,2007,2007,89.5082,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DOM,République_dominicaine,2007,2007,89.5082,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ECU,Équateur,2007,2007,81.680587,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ECU,Équateur,2007,2007,81.680587,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLV,El_Salvador,2007,2007,79.662128,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLV,El_Salvador,2007,2007,79.662128,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,EST,Estonie,2007,2007,99.8112,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,EST,Estonie,2007,2007,99.8112,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GAB,Gabon,2007,2007,82.1781,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GAB,Gabon,2007,2007,82.1781,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GHA,Ghana,2007,2007,58.2603,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GHA,Ghana,2007,2007,58.2603,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GTM,Guatemala,2007,2007,68.0186,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GTM,Guatemala,2007,2007,68.0186,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HND,Honduras,2007,2007,83.452774,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HND,Honduras,2007,2007,83.452774,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,IND,Inde,2007,2007,54.4765,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,IND,Inde,2007,2007,54.4765,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,JAM,Jamaïque,2007,2007,91.0942,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,JAM,Jamaïque,2007,2007,91.0942,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KAZ,Kazakhstan,2007,2007,99.4812,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KAZ,Kazakhstan,2007,2007,99.4812,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KWT,Koweït,2007,2007,93.118257,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KWT,Koweït,2007,2007,93.118257,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KGZ,Kirghizistan,2007,2007,99.0994,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KGZ,Kirghizistan,2007,2007,99.0994,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LVA,Lettonie,2007,2007,99.7868,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LVA,Lettonie,2007,2007,99.7868,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBN,Liban,2007,2007,85.967782,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBN,Liban,2007,2007,85.967782,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBR,Libéria,2007,2007,50.8919,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBR,Libéria,2007,2007,50.8919,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBY,Libye,2007,2007,78.4437,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBY,Libye,2007,2007,78.4437,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LTU,Lituanie,2007,2007,99.699,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LTU,Lituanie,2007,2007,99.699,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MKD,Ex-République_yougoslave_de_Macédoine,2007,2007,95.4143,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MKD,Ex-République_yougoslave_de_Macédoine,2007,2007,95.4143,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MWI,Malawi,2007,2007,64.6229,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MWI,Malawi,2007,2007,64.6229,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MYS,Malaisie,2007,2007,89.5581,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MYS,Malaisie,2007,2007,89.5581,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MRT,Mauritanie,2007,2007,48.2766,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MRT,Mauritanie,2007,2007,48.2766,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MUS,Maurice,2007,2007,84.6995,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MUS,Maurice,2007,2007,84.6995,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MDA,Moldova,2007,2007,98.894,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MDA,Moldova,2007,2007,98.894,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MNG,Mongolie,2007,2007,97.7237,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MNG,Mongolie,2007,2007,97.7237,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MAR,Maroc,2007,2007,43.2176,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MAR,Maroc,2007,2007,43.2176,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MOZ,Mozambique,2007,2007,32.9507,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MOZ,Mozambique,2007,2007,32.9507,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NAM,Namibie,2007,2007,87.3726,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NAM,Namibie,2007,2007,87.3726,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NPL,Népal,2007,2007,43.5584,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NPL,Népal,2007,2007,43.5584,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NGA,Nigéria,2007,2007,64.0956,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NGA,Nigéria,2007,2007,64.0956,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PSE,AutoritT_palestinienne_ou_Cisjordanie_et_bande_de_Gaza,2007,2007,90.333662,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PSE,AutoritT_palestinienne_ou_Cisjordanie_et_bande_de_Gaza,2007,2007,90.333662,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,OMN,Oman,2007,2007,77.4952,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,OMN,Oman,2007,2007,77.4952,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PAN,Panama,2007,2007,92.7682,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PAN,Panama,2007,2007,92.7682,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PNG,Papouasie-Nouvelle-Guinée,2007,2007,53.3615,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PNG,Papouasie-Nouvelle-Guinée,2007,2007,53.3615,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRY,Paraguay,2007,2007,93.45327,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRY,Paraguay,2007,2007,93.45327,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PER,Pérou,2007,2007,84.646878,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PER,Pérou,2007,2007,84.646878,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PHL,Philippines,2007,2007,93.677,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PHL,Philippines,2007,2007,93.677,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ROU,Roumanie,2007,2007,96.9228,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ROU,Roumanie,2007,2007,96.9228,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,RUS,Russie,2007,2007,99.3716,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,RUS,Russie,2007,2007,99.3716,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SAU,Arabie_saoudite,2007,2007,79.4134,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SAU,Arabie_saoudite,2007,2007,79.4134,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLE,Sierra_Leone,2007,2007,26.7709,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLE,Sierra_Leone,2007,2007,26.7709,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SGP,Singapour,2007,2007,91.577,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SGP,Singapour,2007,2007,91.577,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SVN,Slovénie,2007,2007,99.6462,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SVN,Slovénie,2007,2007,99.6462,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZAF,Afrique_du_Sud,2007,2007,87.1614,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZAF,Afrique_du_Sud,2007,2007,87.1614,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SYR,République_arabe_syrienne,2007,2007,76.4785,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SYR,République_arabe_syrienne,2007,2007,76.4785,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TJK,Tadjikistan,2007,2007,99.5125,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TJK,Tadjikistan,2007,2007,99.5125,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TZA,Tanzanie,2007,2007,65.857,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TZA,Tanzanie,2007,2007,65.857,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,THA,Thaïlande,2007,2007,92.556,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,THA,Thaïlande,2007,2007,92.556,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TTO,Trinité-et-Tobago,2007,2007,98.3104,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TTO,Trinité-et-Tobago,2007,2007,98.3104,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUN,Tunisie,2007,2007,69.0445,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUN,Tunisie,2007,2007,69.0445,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TKM,Turkménistan,2007,2007,99.3335,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TKM,Turkménistan,2007,2007,99.3335,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UGA,Ouganda,2007,2007,65.5086,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UGA,Ouganda,2007,2007,65.5086,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UKR,Ukraine,2007,2007,99.613,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UKR,Ukraine,2007,2007,99.613,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,URY,Uruguay,2007,2007,98.241934,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,URY,Uruguay,2007,2007,98.241934,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,VEN,Venezuela,2007,2007,94.929643,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,VEN,Venezuela,2007,2007,94.929643,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,YEM,Yémen,2007,2007,40.4662,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,YEM,Yémen,2007,2007,40.4662,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZMB,Zambie,2007,2007,60.7457,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZMB,Zambie,2007,2007,60.7457,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZWE,Zimbabwe,2007,2007,88.3283,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZWE,Zimbabwe,2007,2007,88.3283,WOMEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GRC,Grèce,2007,2007,98.215,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GRC,Grèce,2007,2007,98.215,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ITA,Italie,2007,2007,99.1248,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ITA,Italie,2007,2007,99.1248,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRT,Portugal,2007,2007,96.5767,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRT,Portugal,2007,2007,96.5767,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ESP,Espagne,2007,2007,98.633458,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ESP,Espagne,2007,2007,98.633458,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BHR,Bahreïn,2007,2007,90.3581,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BHR,Bahreïn,2007,2007,90.3581,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KWT,Koweït,2007,2007,95.151175,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KWT,Koweït,2007,2007,95.151175,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SGP,Singapour,2007,2007,97.2877,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SGP,Singapour,2007,2007,97.2877,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SVN,Slovénie,2007,2007,99.7141,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SVN,Slovénie,2007,2007,99.7141,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HUN,Hongrie,2007,2007,98.9826,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HUN,Hongrie,2007,2007,98.9826,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MEX,Mexique,2007,2007,94.441514,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MEX,Mexique,2007,2007,94.441514,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,POL,Pologne,2007,2007,99.6158,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,POL,Pologne,2007,2007,99.6158,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARG,Argentine,2007,2007,97.6093,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARG,Argentine,2007,2007,97.6093,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BWA,Botswana,2007,2007,82.7908,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BWA,Botswana,2007,2007,82.7908,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHL,Chili,2007,2007,96.5851,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHL,Chili,2007,2007,96.5851,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CRI,Costa_Rica,2007,2007,95.7305,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CRI,Costa_Rica,2007,2007,95.7305,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HRV,Croatie,2007,2007,99.462,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HRV,Croatie,2007,2007,99.462,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,EST,Estonie,2007,2007,99.7672,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,EST,Estonie,2007,2007,99.7672,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GAB,Gabon,2007,2007,90.1947,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GAB,Gabon,2007,2007,90.1947,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LVA,Lettonie,2007,2007,99.7731,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LVA,Lettonie,2007,2007,99.7731,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBN,Liban,2007,2007,93.378943,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBN,Liban,2007,2007,93.378943,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBY,Libye,2007,2007,94.4531,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBY,Libye,2007,2007,94.4531,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LTU,Lituanie,2007,2007,99.6628,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LTU,Lituanie,2007,2007,99.6628,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MYS,Malaisie,2007,2007,94.186,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MYS,Malaisie,2007,2007,94.186,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MUS,Maurice,2007,2007,90.2048,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MUS,Maurice,2007,2007,90.2048,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,OMN,Oman,2007,2007,89.3609,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,OMN,Oman,2007,2007,89.3609,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PAN,Panama,2007,2007,94.0162,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PAN,Panama,2007,2007,94.0162,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SAU,Arabie_saoudite,2007,2007,89.0601,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SAU,Arabie_saoudite,2007,2007,89.0601,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TTO,Trinité-et-Tobago,2007,2007,99.0947,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TTO,Trinité-et-Tobago,2007,2007,99.0947,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,URY,Uruguay,2007,2007,97.421692,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,URY,Uruguay,2007,2007,97.421692,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,VEN,Venezuela,2007,2007,95.381733,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,VEN,Venezuela,2007,2007,95.381733,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUR,Turquie,2007,2007,96.201856,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUR,Turquie,2007,2007,96.201856,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ALB,Albanie,2007,2007,99.3251,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ALB,Albanie,2007,2007,99.3251,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DZA,Algérie,2007,2007,84.2718,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DZA,Algérie,2007,2007,84.2718,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARM,Arménie,2007,2007,99.6824,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARM,Arménie,2007,2007,99.6824,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BLR,Bélarus,2007,2007,99.7912,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BLR,Bélarus,2007,2007,99.7912,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BOL,Bolivie,2007,2007,96.036257,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BOL,Bolivie,2007,2007,96.036257,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BRA,Brésil,2007,2007,89.772141,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BRA,Brésil,2007,2007,89.772141,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGR,Bulgarie,2007,2007,98.6441,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGR,Bulgarie,2007,2007,98.6441,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHN,Chine_(République_populaire_de),2007,2007,96.4602,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHN,Chine_(République_populaire_de),2007,2007,96.4602,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,COL,Colombie,2007,2007,92.429701,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,COL,Colombie,2007,2007,92.429701,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CUB,Cuba,2007,2007,99.8058,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CUB,Cuba,2007,2007,99.8058,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DOM,République_dominicaine,2007,2007,88.7781,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DOM,République_dominicaine,2007,2007,88.7781,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ECU,Équateur,2007,2007,87.259364,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ECU,Équateur,2007,2007,87.259364,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLV,El_Salvador,2007,2007,84.864069,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLV,El_Salvador,2007,2007,84.864069,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GTM,Guatemala,2007,2007,78.9642,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GTM,Guatemala,2007,2007,78.9642,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HND,Honduras,2007,2007,83.746025,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HND,Honduras,2007,2007,83.746025,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,JAM,Jamaïque,2007,2007,80.5404,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,JAM,Jamaïque,2007,2007,80.5404,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KAZ,Kazakhstan,2007,2007,99.7842,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KAZ,Kazakhstan,2007,2007,99.7842,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MKD,Ex-République_yougoslave_de_Macédoine,2007,2007,98.5956,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MKD,Ex-République_yougoslave_de_Macédoine,2007,2007,98.5956,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MAR,Maroc,2007,2007,68.7202,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MAR,Maroc,2007,2007,68.7202,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NAM,Namibie,2007,2007,88.5819,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NAM,Namibie,2007,2007,88.5819,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PSE,AutoritT_palestinienne_ou_Cisjordanie_et_bande_de_Gaza,2007,2007,97.193941,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PSE,AutoritT_palestinienne_ou_Cisjordanie_et_bande_de_Gaza,2007,2007,97.193941,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRY,Paraguay,2007,2007,95.712385,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRY,Paraguay,2007,2007,95.712385,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PER,Pérou,2007,2007,94.85703,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PER,Pérou,2007,2007,94.85703,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PHL,Philippines,2007,2007,93.1244,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PHL,Philippines,2007,2007,93.1244,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ROU,Roumanie,2007,2007,98.3321,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ROU,Roumanie,2007,2007,98.3321,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,RUS,Russie,2007,2007,99.7001,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,RUS,Russie,2007,2007,99.7001,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZAF,Afrique_du_Sud,2007,2007,88.8842,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZAF,Afrique_du_Sud,2007,2007,88.8842,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SYR,République_arabe_syrienne,2007,2007,89.7126,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SYR,République_arabe_syrienne,2007,2007,89.7126,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,THA,Thaïlande,2007,2007,95.8804,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,THA,Thaïlande,2007,2007,95.8804,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUN,Tunisie,2007,2007,86.3758,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUN,Tunisie,2007,2007,86.3758,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TKM,Turkménistan,2007,2007,99.6949,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TKM,Turkménistan,2007,2007,99.6949,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UKR,Ukraine,2007,2007,99.7853,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UKR,Ukraine,2007,2007,99.7853,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,AZE,Azerbaïdjan,2007,2007,99.799837,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,AZE,Azerbaïdjan,2007,2007,99.799837,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGD,Bangladesh,2007,2007,58.6746,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGD,Bangladesh,2007,2007,58.6746,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BEN,Bénin,2007,2007,53.1244,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BEN,Bénin,2007,2007,53.1244,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BFA,Burkina_Faso,2007,2007,36.680667,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BFA,Burkina_Faso,2007,2007,36.680667,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KHM,Cambodge,2007,2007,85.8248,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KHM,Cambodge,2007,2007,85.8248,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TCD,Tchad,2007,2007,43.0393,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TCD,Tchad,2007,2007,43.0393,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GHA,Ghana,2007,2007,71.6884,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GHA,Ghana,2007,2007,71.6884,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,IND,Inde,2007,2007,76.88,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,IND,Inde,2007,2007,76.88,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KGZ,Kirghizistan,2007,2007,99.5074,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KGZ,Kirghizistan,2007,2007,99.5074,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBR,Libéria,2007,2007,60.238,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBR,Libéria,2007,2007,60.238,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MWI,Malawi,2007,2007,79.2347,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MWI,Malawi,2007,2007,79.2347,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MRT,Mauritanie,2007,2007,63.302,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MRT,Mauritanie,2007,2007,63.302,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MDA,Moldova,2007,2007,99.6267,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MDA,Moldova,2007,2007,99.6267,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MNG,Mongolie,2007,2007,96.8207,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MNG,Mongolie,2007,2007,96.8207,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MOZ,Mozambique,2007,2007,57.1507,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MOZ,Mozambique,2007,2007,57.1507,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NPL,Népal,2007,2007,70.2773,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NPL,Népal,2007,2007,70.2773,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NGA,Nigéria,2007,2007,80.0796,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NGA,Nigéria,2007,2007,80.0796,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PNG,Papouasie-Nouvelle-Guinée,2007,2007,62.1415,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PNG,Papouasie-Nouvelle-Guinée,2007,2007,62.1415,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLE,Sierra_Leone,2007,2007,50.0013,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLE,Sierra_Leone,2007,2007,50.0013,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TJK,Tadjikistan,2007,2007,99.7724,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TJK,Tadjikistan,2007,2007,99.7724,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TZA,Tanzanie,2007,2007,78.9581,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TZA,Tanzanie,2007,2007,78.9581,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UGA,Ouganda,2007,2007,81.7898,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UGA,Ouganda,2007,2007,81.7898,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,YEM,Yémen,2007,2007,77.0371,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,YEM,Yémen,2007,2007,77.0371,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZMB,Zambie,2007,2007,80.7546,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZMB,Zambie,2007,2007,80.7546,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZWE,Zimbabwe,2007,2007,94.0702,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZWE,Zimbabwe,2007,2007,94.0702,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GRC,Grèce,2007,2007,98.215,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GRC,Grèce,2007,2007,98.215,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HUN,Hongrie,2007,2007,98.9826,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HUN,Hongrie,2007,2007,98.9826,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ITA,Italie,2007,2007,99.1248,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ITA,Italie,2007,2007,99.1248,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MEX,Mexique,2007,2007,94.441514,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MEX,Mexique,2007,2007,94.441514,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,POL,Pologne,2007,2007,99.6158,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,POL,Pologne,2007,2007,99.6158,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRT,Portugal,2007,2007,96.5767,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRT,Portugal,2007,2007,96.5767,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ESP,Espagne,2007,2007,98.633458,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ESP,Espagne,2007,2007,98.633458,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUR,Turquie,2007,2007,96.201856,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUR,Turquie,2007,2007,96.201856,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ALB,Albanie,2007,2007,99.3251,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ALB,Albanie,2007,2007,99.3251,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DZA,Algérie,2007,2007,84.2718,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DZA,Algérie,2007,2007,84.2718,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARG,Argentine,2007,2007,97.6093,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARG,Argentine,2007,2007,97.6093,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARM,Arménie,2007,2007,99.6824,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ARM,Arménie,2007,2007,99.6824,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,AZE,Azerbaïdjan,2007,2007,99.799837,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,AZE,Azerbaïdjan,2007,2007,99.799837,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BHR,Bahreïn,2007,2007,90.3581,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BHR,Bahreïn,2007,2007,90.3581,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGD,Bangladesh,2007,2007,58.6746,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGD,Bangladesh,2007,2007,58.6746,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BLR,Bélarus,2007,2007,99.7912,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BLR,Bélarus,2007,2007,99.7912,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BEN,Bénin,2007,2007,53.1244,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BEN,Bénin,2007,2007,53.1244,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BOL,Bolivie,2007,2007,96.036257,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BOL,Bolivie,2007,2007,96.036257,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BWA,Botswana,2007,2007,82.7908,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BWA,Botswana,2007,2007,82.7908,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BRA,Brésil,2007,2007,89.772141,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BRA,Brésil,2007,2007,89.772141,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGR,Bulgarie,2007,2007,98.6441,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BGR,Bulgarie,2007,2007,98.6441,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BFA,Burkina_Faso,2007,2007,36.680667,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,BFA,Burkina_Faso,2007,2007,36.680667,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KHM,Cambodge,2007,2007,85.8248,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KHM,Cambodge,2007,2007,85.8248,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TCD,Tchad,2007,2007,43.0393,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TCD,Tchad,2007,2007,43.0393,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHL,Chili,2007,2007,96.5851,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHL,Chili,2007,2007,96.5851,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHN,Chine_(République_populaire_de),2007,2007,96.4602,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CHN,Chine_(République_populaire_de),2007,2007,96.4602,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,COL,Colombie,2007,2007,92.429701,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,COL,Colombie,2007,2007,92.429701,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CRI,Costa_Rica,2007,2007,95.7305,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CRI,Costa_Rica,2007,2007,95.7305,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HRV,Croatie,2007,2007,99.462,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HRV,Croatie,2007,2007,99.462,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CUB,Cuba,2007,2007,99.8058,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,CUB,Cuba,2007,2007,99.8058,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DOM,République_dominicaine,2007,2007,88.7781,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,DOM,République_dominicaine,2007,2007,88.7781,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ECU,Équateur,2007,2007,87.259364,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ECU,Équateur,2007,2007,87.259364,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLV,El_Salvador,2007,2007,84.864069,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLV,El_Salvador,2007,2007,84.864069,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,EST,Estonie,2007,2007,99.7672,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,EST,Estonie,2007,2007,99.7672,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GAB,Gabon,2007,2007,90.1947,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GAB,Gabon,2007,2007,90.1947,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GHA,Ghana,2007,2007,71.6884,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GHA,Ghana,2007,2007,71.6884,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GTM,Guatemala,2007,2007,78.9642,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,GTM,Guatemala,2007,2007,78.9642,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HND,Honduras,2007,2007,83.746025,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,HND,Honduras,2007,2007,83.746025,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,IND,Inde,2007,2007,76.88,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,IND,Inde,2007,2007,76.88,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,JAM,Jamaïque,2007,2007,80.5404,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,JAM,Jamaïque,2007,2007,80.5404,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KAZ,Kazakhstan,2007,2007,99.7842,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KAZ,Kazakhstan,2007,2007,99.7842,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KWT,Koweït,2007,2007,95.151175,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KWT,Koweït,2007,2007,95.151175,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KGZ,Kirghizistan,2007,2007,99.5074,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,KGZ,Kirghizistan,2007,2007,99.5074,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LVA,Lettonie,2007,2007,99.7731,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LVA,Lettonie,2007,2007,99.7731,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBN,Liban,2007,2007,93.378943,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBN,Liban,2007,2007,93.378943,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBR,Libéria,2007,2007,60.238,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBR,Libéria,2007,2007,60.238,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBY,Libye,2007,2007,94.4531,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LBY,Libye,2007,2007,94.4531,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LTU,Lituanie,2007,2007,99.6628,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,LTU,Lituanie,2007,2007,99.6628,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MKD,Ex-République_yougoslave_de_Macédoine,2007,2007,98.5956,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MKD,Ex-République_yougoslave_de_Macédoine,2007,2007,98.5956,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MWI,Malawi,2007,2007,79.2347,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MWI,Malawi,2007,2007,79.2347,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MYS,Malaisie,2007,2007,94.186,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MYS,Malaisie,2007,2007,94.186,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MRT,Mauritanie,2007,2007,63.302,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MRT,Mauritanie,2007,2007,63.302,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MUS,Maurice,2007,2007,90.2048,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MUS,Maurice,2007,2007,90.2048,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MDA,Moldova,2007,2007,99.6267,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MDA,Moldova,2007,2007,99.6267,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MNG,Mongolie,2007,2007,96.8207,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MNG,Mongolie,2007,2007,96.8207,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MAR,Maroc,2007,2007,68.7202,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MAR,Maroc,2007,2007,68.7202,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MOZ,Mozambique,2007,2007,57.1507,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,MOZ,Mozambique,2007,2007,57.1507,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NAM,Namibie,2007,2007,88.5819,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NAM,Namibie,2007,2007,88.5819,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NPL,Népal,2007,2007,70.2773,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NPL,Népal,2007,2007,70.2773,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NGA,Nigéria,2007,2007,80.0796,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,NGA,Nigéria,2007,2007,80.0796,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PSE,AutoritT_palestinienne_ou_Cisjordanie_et_bande_de_Gaza,2007,2007,97.193941,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PSE,AutoritT_palestinienne_ou_Cisjordanie_et_bande_de_Gaza,2007,2007,97.193941,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,OMN,Oman,2007,2007,89.3609,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,OMN,Oman,2007,2007,89.3609,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PAN,Panama,2007,2007,94.0162,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PAN,Panama,2007,2007,94.0162,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PNG,Papouasie-Nouvelle-Guinée,2007,2007,62.1415,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PNG,Papouasie-Nouvelle-Guinée,2007,2007,62.1415,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRY,Paraguay,2007,2007,95.712385,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PRY,Paraguay,2007,2007,95.712385,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PER,Pérou,2007,2007,94.85703,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PER,Pérou,2007,2007,94.85703,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PHL,Philippines,2007,2007,93.1244,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,PHL,Philippines,2007,2007,93.1244,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ROU,Roumanie,2007,2007,98.3321,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ROU,Roumanie,2007,2007,98.3321,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,RUS,Russie,2007,2007,99.7001,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,RUS,Russie,2007,2007,99.7001,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SAU,Arabie_saoudite,2007,2007,89.0601,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SAU,Arabie_saoudite,2007,2007,89.0601,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLE,Sierra_Leone,2007,2007,50.0013,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SLE,Sierra_Leone,2007,2007,50.0013,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SGP,Singapour,2007,2007,97.2877,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SGP,Singapour,2007,2007,97.2877,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SVN,Slovénie,2007,2007,99.7141,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SVN,Slovénie,2007,2007,99.7141,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZAF,Afrique_du_Sud,2007,2007,88.8842,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZAF,Afrique_du_Sud,2007,2007,88.8842,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SYR,République_arabe_syrienne,2007,2007,89.7126,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,SYR,République_arabe_syrienne,2007,2007,89.7126,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TJK,Tadjikistan,2007,2007,99.7724,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TJK,Tadjikistan,2007,2007,99.7724,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TZA,Tanzanie,2007,2007,78.9581,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TZA,Tanzanie,2007,2007,78.9581,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,THA,Thaïlande,2007,2007,95.8804,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,THA,Thaïlande,2007,2007,95.8804,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TTO,Trinité-et-Tobago,2007,2007,99.0947,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TTO,Trinité-et-Tobago,2007,2007,99.0947,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUN,Tunisie,2007,2007,86.3758,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TUN,Tunisie,2007,2007,86.3758,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TKM,Turkménistan,2007,2007,99.6949,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,TKM,Turkménistan,2007,2007,99.6949,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UGA,Ouganda,2007,2007,81.7898,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UGA,Ouganda,2007,2007,81.7898,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UKR,Ukraine,2007,2007,99.7853,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,UKR,Ukraine,2007,2007,99.7853,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,URY,Uruguay,2007,2007,97.421692,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,URY,Uruguay,2007,2007,97.421692,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,VEN,Venezuela,2007,2007,95.381733,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,VEN,Venezuela,2007,2007,95.381733,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,YEM,Yémen,2007,2007,77.0371,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,YEM,Yémen,2007,2007,77.0371,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZMB,Zambie,2007,2007,80.7546,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZMB,Zambie,2007,2007,80.7546,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZWE,Zimbabwe,2007,2007,94.0702,MEN,EDU_1_2
+EDU_1_2,Taux d'alphabétisation,ZWE,Zimbabwe,2007,2007,94.0702,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GRC,Grèce,2007,2007,99.2733,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GRC,Grèce,2007,2007,99.2733,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ITA,Italie,2007,2007,99.8927,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ITA,Italie,2007,2007,99.8927,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRT,Portugal,2007,2007,99.6925,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRT,Portugal,2007,2007,99.6925,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ESP,Espagne,2007,2007,99.558109,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ESP,Espagne,2007,2007,99.558109,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BHR,Bahreïn,2007,2007,99.7972,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BHR,Bahreïn,2007,2007,99.7972,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KWT,Koweït,2007,2007,98.507793,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KWT,Koweït,2007,2007,98.507793,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SGP,Singapour,2007,2007,99.7874,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SGP,Singapour,2007,2007,99.7874,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SVN,Slovénie,2007,2007,99.8869,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SVN,Slovénie,2007,2007,99.8869,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HUN,Hongrie,2007,2007,98.9138,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HUN,Hongrie,2007,2007,98.9138,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MEX,Mexique,2007,2007,98.116114,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MEX,Mexique,2007,2007,98.116114,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,POL,Pologne,2007,2007,99.2067,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,POL,Pologne,2007,2007,99.2067,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARG,Argentine,2007,2007,99.3081,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARG,Argentine,2007,2007,99.3081,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BWA,Botswana,2007,2007,95.3129,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BWA,Botswana,2007,2007,95.3129,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHL,Chili,2007,2007,99.2222,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHL,Chili,2007,2007,99.2222,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CRI,Costa Rica,2007,2007,98.4619,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CRI,Costa Rica,2007,2007,98.4619,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HRV,Croatie,2007,2007,99.6624,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HRV,Croatie,2007,2007,99.6624,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,EST,Estonie,2007,2007,99.8411,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,EST,Estonie,2007,2007,99.8411,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GAB,Gabon,2007,2007,95.9435,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GAB,Gabon,2007,2007,95.9435,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LVA,Lettonie,2007,2007,99.7636,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LVA,Lettonie,2007,2007,99.7636,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBN,Liban,2007,2007,99.082298,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBN,Liban,2007,2007,99.082298,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBY,Libye,2007,2007,97.9985,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBY,Libye,2007,2007,97.9985,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LTU,Lituanie,2007,2007,99.7789,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LTU,Lituanie,2007,2007,99.7789,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MYS,Malaisie,2007,2007,98.3786,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MYS,Malaisie,2007,2007,98.3786,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MUS,Maurice,2007,2007,97.2145,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MUS,Maurice,2007,2007,97.2145,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,OMN,Oman,2007,2007,97.891,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,OMN,Oman,2007,2007,97.891,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PAN,Panama,2007,2007,96.1416,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PAN,Panama,2007,2007,96.1416,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SAU,Arabie saoudite,2007,2007,95.8553,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SAU,Arabie saoudite,2007,2007,95.8553,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TTO,Trinité-et-Tobago,2007,2007,99.5132,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TTO,Trinité-et-Tobago,2007,2007,99.5132,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,URY,Uruguay,2007,2007,99.019075,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,URY,Uruguay,2007,2007,99.019075,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,VEN,Venezuela,2007,2007,98.836097,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,VEN,Venezuela,2007,2007,98.836097,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUR,Turquie,2007,2007,94.289144,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUR,Turquie,2007,2007,94.289144,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ALB,Albanie,2007,2007,99.4592,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ALB,Albanie,2007,2007,99.4592,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DZA,Algérie,2007,2007,90.6245,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DZA,Algérie,2007,2007,90.6245,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARM,Arménie,2007,2007,99.8286,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARM,Arménie,2007,2007,99.8286,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BLR,Bélarus,2007,2007,99.8344,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BLR,Bélarus,2007,2007,99.8344,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BOL,Bolivie,2007,2007,99.144579,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BOL,Bolivie,2007,2007,99.144579,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BRA,Brésil,2007,2007,98.559428,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BRA,Brésil,2007,2007,98.559428,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGR,Bulgarie,2007,2007,97.446,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGR,Bulgarie,2007,2007,97.446,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHN,Chine (République populaire de),2007,2007,99.1035,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHN,Chine (République populaire de),2007,2007,99.1035,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,COL,Colombie,2007,2007,98.418998,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,COL,Colombie,2007,2007,98.418998,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CUB,Cuba,2007,2007,99.9797,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CUB,Cuba,2007,2007,99.9797,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DOM,République dominicaine,2007,2007,97.0388,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DOM,République dominicaine,2007,2007,97.0388,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ECU,Équateur,2007,2007,95.628935,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ECU,Équateur,2007,2007,95.628935,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLV,El Salvador,2007,2007,93.889485,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLV,El Salvador,2007,2007,93.889485,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GTM,Guatemala,2007,2007,82.9322,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GTM,Guatemala,2007,2007,82.9322,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HND,Honduras,2007,2007,95.054531,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HND,Honduras,2007,2007,95.054531,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,JAM,Jamaïque,2007,2007,97.8754,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,JAM,Jamaïque,2007,2007,97.8754,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KAZ,Kazakhstan,2007,2007,99.8643,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KAZ,Kazakhstan,2007,2007,99.8643,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MKD,Ex-République yougoslave de Macédoine,2007,2007,98.5239,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MKD,Ex-République yougoslave de Macédoine,2007,2007,98.5239,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MAR,Maroc,2007,2007,66.514,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MAR,Maroc,2007,2007,66.514,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NAM,Namibie,2007,2007,94.41,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NAM,Namibie,2007,2007,94.41,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PSE,AutoritT palestinienne ou Cisjordanie et bande de Gaza,2007,2007,98.921187,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PSE,AutoritT palestinienne ou Cisjordanie et bande de Gaza,2007,2007,98.921187,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRY,Paraguay,2007,2007,98.779158,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRY,Paraguay,2007,2007,98.779158,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PER,Pérou,2007,2007,96.705235,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PER,Pérou,2007,2007,96.705235,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PHL,Philippines,2007,2007,95.2924,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PHL,Philippines,2007,2007,95.2924,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ROU,Roumanie,2007,2007,97.566,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ROU,Roumanie,2007,2007,97.566,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,RUS,Russie,2007,2007,99.7562,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,RUS,Russie,2007,2007,99.7562,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZAF,Afrique du Sud,2007,2007,96.304,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZAF,Afrique du Sud,2007,2007,96.304,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SYR,République arabe syrienne,2007,2007,91.955,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SYR,République arabe syrienne,2007,2007,91.955,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,THA,Thaïlande,2007,2007,98.0909,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,THA,Thaïlande,2007,2007,98.0909,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUN,Tunisie,2007,2007,94.3031,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUN,Tunisie,2007,2007,94.3031,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TKM,Turkménistan,2007,2007,99.8574,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TKM,Turkménistan,2007,2007,99.8574,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UKR,Ukraine,2007,2007,99.8231,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UKR,Ukraine,2007,2007,99.8231,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,AZE,Azerbaïdjan,2007,2007,100.0,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,AZE,Azerbaïdjan,2007,2007,100.0,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGD,Bangladesh,2007,2007,73.1725,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGD,Bangladesh,2007,2007,73.1725,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BEN,Bénin,2007,2007,41.0913,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BEN,Bénin,2007,2007,41.0913,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BFA,Burkina Faso,2007,2007,33.125325,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BFA,Burkina Faso,2007,2007,33.125325,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KHM,Cambodge,2007,2007,82.7212,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KHM,Cambodge,2007,2007,82.7212,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TCD,Tchad,2007,2007,35.4353,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TCD,Tchad,2007,2007,35.4353,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GHA,Ghana,2007,2007,75.8052,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GHA,Ghana,2007,2007,75.8052,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,IND,Inde,2007,2007,77.0534,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,IND,Inde,2007,2007,77.0534,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KGZ,Kirghizistan,2007,2007,99.6985,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KGZ,Kirghizistan,2007,2007,99.6985,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBR,Libéria,2007,2007,75.7388,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBR,Libéria,2007,2007,75.7388,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MWI,Malawi,2007,2007,82.2747,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MWI,Malawi,2007,2007,82.2747,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MRT,Mauritanie,2007,2007,62.4946,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MRT,Mauritanie,2007,2007,62.4946,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MDA,Moldova,2007,2007,99.6883,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MDA,Moldova,2007,2007,99.6883,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MNG,Mongolie,2007,2007,97.2662,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MNG,Mongolie,2007,2007,97.2662,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MOZ,Mozambique,2007,2007,47.455,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MOZ,Mozambique,2007,2007,47.455,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NPL,Népal,2007,2007,73.0146,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NPL,Népal,2007,2007,73.0146,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NGA,Nigéria,2007,2007,84.7469,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NGA,Nigéria,2007,2007,84.7469,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PNG,Papouasie-Nouvelle-Guinée,2007,2007,65.4124,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PNG,Papouasie-Nouvelle-Guinée,2007,2007,65.4124,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLE,Sierra Leone,2007,2007,43.8659,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLE,Sierra Leone,2007,2007,43.8659,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TJK,Tadjikistan,2007,2007,99.8704,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TJK,Tadjikistan,2007,2007,99.8704,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TZA,Tanzanie,2007,2007,76.1675,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TZA,Tanzanie,2007,2007,76.1675,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UGA,Ouganda,2007,2007,84.2464,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UGA,Ouganda,2007,2007,84.2464,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,YEM,Yémen,2007,2007,66.7504,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,YEM,Yémen,2007,2007,66.7504,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZMB,Zambie,2007,2007,67.7812,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZMB,Zambie,2007,2007,67.7812,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZWE,Zimbabwe,2007,2007,88.3283,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZWE,Zimbabwe,2007,2007,88.3283,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GRC,Grèce,2007,2007,99.2733,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GRC,Grèce,2007,2007,99.2733,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HUN,Hongrie,2007,2007,98.9138,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HUN,Hongrie,2007,2007,98.9138,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ITA,Italie,2007,2007,99.8927,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ITA,Italie,2007,2007,99.8927,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MEX,Mexique,2007,2007,98.116114,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MEX,Mexique,2007,2007,98.116114,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,POL,Pologne,2007,2007,99.2067,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,POL,Pologne,2007,2007,99.2067,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRT,Portugal,2007,2007,99.6925,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRT,Portugal,2007,2007,99.6925,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ESP,Espagne,2007,2007,99.558109,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ESP,Espagne,2007,2007,99.558109,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUR,Turquie,2007,2007,94.289144,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUR,Turquie,2007,2007,94.289144,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ALB,Albanie,2007,2007,99.4592,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ALB,Albanie,2007,2007,99.4592,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DZA,Algérie,2007,2007,90.6245,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DZA,Algérie,2007,2007,90.6245,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARG,Argentine,2007,2007,99.3081,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARG,Argentine,2007,2007,99.3081,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARM,Arménie,2007,2007,99.8286,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARM,Arménie,2007,2007,99.8286,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,AZE,Azerbaïdjan,2007,2007,100.0,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,AZE,Azerbaïdjan,2007,2007,100.0,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BHR,Bahreïn,2007,2007,99.7972,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BHR,Bahreïn,2007,2007,99.7972,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGD,Bangladesh,2007,2007,73.1725,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGD,Bangladesh,2007,2007,73.1725,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BLR,Bélarus,2007,2007,99.8344,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BLR,Bélarus,2007,2007,99.8344,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BEN,Bénin,2007,2007,41.0913,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BEN,Bénin,2007,2007,41.0913,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BOL,Bolivie,2007,2007,99.144579,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BOL,Bolivie,2007,2007,99.144579,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BWA,Botswana,2007,2007,95.3129,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BWA,Botswana,2007,2007,95.3129,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BRA,Brésil,2007,2007,98.559428,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BRA,Brésil,2007,2007,98.559428,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGR,Bulgarie,2007,2007,97.446,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGR,Bulgarie,2007,2007,97.446,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BFA,Burkina Faso,2007,2007,33.125325,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BFA,Burkina Faso,2007,2007,33.125325,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KHM,Cambodge,2007,2007,82.7212,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KHM,Cambodge,2007,2007,82.7212,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TCD,Tchad,2007,2007,35.4353,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TCD,Tchad,2007,2007,35.4353,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHL,Chili,2007,2007,99.2222,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHL,Chili,2007,2007,99.2222,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHN,Chine (République populaire de),2007,2007,99.1035,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHN,Chine (République populaire de),2007,2007,99.1035,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,COL,Colombie,2007,2007,98.418998,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,COL,Colombie,2007,2007,98.418998,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CRI,Costa Rica,2007,2007,98.4619,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CRI,Costa Rica,2007,2007,98.4619,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HRV,Croatie,2007,2007,99.6624,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HRV,Croatie,2007,2007,99.6624,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CUB,Cuba,2007,2007,99.9797,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CUB,Cuba,2007,2007,99.9797,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DOM,République dominicaine,2007,2007,97.0388,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DOM,République dominicaine,2007,2007,97.0388,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ECU,Équateur,2007,2007,95.628935,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ECU,Équateur,2007,2007,95.628935,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLV,El Salvador,2007,2007,93.889485,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLV,El Salvador,2007,2007,93.889485,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,EST,Estonie,2007,2007,99.8411,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,EST,Estonie,2007,2007,99.8411,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GAB,Gabon,2007,2007,95.9435,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GAB,Gabon,2007,2007,95.9435,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GHA,Ghana,2007,2007,75.8052,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GHA,Ghana,2007,2007,75.8052,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GTM,Guatemala,2007,2007,82.9322,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GTM,Guatemala,2007,2007,82.9322,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HND,Honduras,2007,2007,95.054531,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HND,Honduras,2007,2007,95.054531,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,IND,Inde,2007,2007,77.0534,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,IND,Inde,2007,2007,77.0534,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,JAM,Jamaïque,2007,2007,97.8754,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,JAM,Jamaïque,2007,2007,97.8754,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KAZ,Kazakhstan,2007,2007,99.8643,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KAZ,Kazakhstan,2007,2007,99.8643,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KWT,Koweït,2007,2007,98.507793,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KWT,Koweït,2007,2007,98.507793,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KGZ,Kirghizistan,2007,2007,99.6985,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KGZ,Kirghizistan,2007,2007,99.6985,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LVA,Lettonie,2007,2007,99.7636,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LVA,Lettonie,2007,2007,99.7636,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBN,Liban,2007,2007,99.082298,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBN,Liban,2007,2007,99.082298,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBR,Libéria,2007,2007,75.7388,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBR,Libéria,2007,2007,75.7388,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBY,Libye,2007,2007,97.9985,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBY,Libye,2007,2007,97.9985,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LTU,Lituanie,2007,2007,99.7789,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LTU,Lituanie,2007,2007,99.7789,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MKD,Ex-République yougoslave de Macédoine,2007,2007,98.5239,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MKD,Ex-République yougoslave de Macédoine,2007,2007,98.5239,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MWI,Malawi,2007,2007,82.2747,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MWI,Malawi,2007,2007,82.2747,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MYS,Malaisie,2007,2007,98.3786,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MYS,Malaisie,2007,2007,98.3786,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MRT,Mauritanie,2007,2007,62.4946,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MRT,Mauritanie,2007,2007,62.4946,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MUS,Maurice,2007,2007,97.2145,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MUS,Maurice,2007,2007,97.2145,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MDA,Moldova,2007,2007,99.6883,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MDA,Moldova,2007,2007,99.6883,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MNG,Mongolie,2007,2007,97.2662,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MNG,Mongolie,2007,2007,97.2662,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MAR,Maroc,2007,2007,66.514,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MAR,Maroc,2007,2007,66.514,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MOZ,Mozambique,2007,2007,47.455,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MOZ,Mozambique,2007,2007,47.455,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NAM,Namibie,2007,2007,94.41,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NAM,Namibie,2007,2007,94.41,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NPL,Népal,2007,2007,73.0146,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NPL,Népal,2007,2007,73.0146,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NGA,Nigéria,2007,2007,84.7469,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NGA,Nigéria,2007,2007,84.7469,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PSE,AutoritT palestinienne ou Cisjordanie et bande de Gaza,2007,2007,98.921187,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PSE,AutoritT palestinienne ou Cisjordanie et bande de Gaza,2007,2007,98.921187,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,OMN,Oman,2007,2007,97.891,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,OMN,Oman,2007,2007,97.891,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PAN,Panama,2007,2007,96.1416,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PAN,Panama,2007,2007,96.1416,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PNG,Papouasie-Nouvelle-Guinée,2007,2007,65.4124,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PNG,Papouasie-Nouvelle-Guinée,2007,2007,65.4124,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRY,Paraguay,2007,2007,98.779158,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRY,Paraguay,2007,2007,98.779158,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PER,Pérou,2007,2007,96.705235,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PER,Pérou,2007,2007,96.705235,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PHL,Philippines,2007,2007,95.2924,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PHL,Philippines,2007,2007,95.2924,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ROU,Roumanie,2007,2007,97.566,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ROU,Roumanie,2007,2007,97.566,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,RUS,Russie,2007,2007,99.7562,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,RUS,Russie,2007,2007,99.7562,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SAU,Arabie saoudite,2007,2007,95.8553,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SAU,Arabie saoudite,2007,2007,95.8553,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLE,Sierra Leone,2007,2007,43.8659,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLE,Sierra Leone,2007,2007,43.8659,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SGP,Singapour,2007,2007,99.7874,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SGP,Singapour,2007,2007,99.7874,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SVN,Slovénie,2007,2007,99.8869,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SVN,Slovénie,2007,2007,99.8869,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZAF,Afrique du Sud,2007,2007,96.304,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZAF,Afrique du Sud,2007,2007,96.304,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SYR,République arabe syrienne,2007,2007,91.955,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SYR,République arabe syrienne,2007,2007,91.955,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TJK,Tadjikistan,2007,2007,99.8704,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TJK,Tadjikistan,2007,2007,99.8704,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TZA,Tanzanie,2007,2007,76.1675,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TZA,Tanzanie,2007,2007,76.1675,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,THA,Thaïlande,2007,2007,98.0909,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,THA,Thaïlande,2007,2007,98.0909,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TTO,Trinité-et-Tobago,2007,2007,99.5132,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TTO,Trinité-et-Tobago,2007,2007,99.5132,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUN,Tunisie,2007,2007,94.3031,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUN,Tunisie,2007,2007,94.3031,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TKM,Turkménistan,2007,2007,99.8574,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TKM,Turkménistan,2007,2007,99.8574,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UGA,Ouganda,2007,2007,84.2464,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UGA,Ouganda,2007,2007,84.2464,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UKR,Ukraine,2007,2007,99.8231,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UKR,Ukraine,2007,2007,99.8231,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,URY,Uruguay,2007,2007,99.019075,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,URY,Uruguay,2007,2007,99.019075,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,VEN,Venezuela,2007,2007,98.836097,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,VEN,Venezuela,2007,2007,98.836097,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,YEM,Yémen,2007,2007,66.7504,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,YEM,Yémen,2007,2007,66.7504,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZMB,Zambie,2007,2007,67.7812,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZMB,Zambie,2007,2007,67.7812,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZWE,Zimbabwe,2007,2007,88.3283,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZWE,Zimbabwe,2007,2007,88.3283,WOMEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GRC,Grèce,2007,2007,99.3606,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GRC,Grèce,2007,2007,99.3606,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ITA,Italie,2007,2007,99.8787,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ITA,Italie,2007,2007,99.8787,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRT,Portugal,2007,2007,99.6266,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRT,Portugal,2007,2007,99.6266,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ESP,Espagne,2007,2007,99.580008,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ESP,Espagne,2007,2007,99.580008,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BHR,Bahreïn,2007,2007,99.7531,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BHR,Bahreïn,2007,2007,99.7531,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KWT,Koweït,2007,2007,98.39884,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KWT,Koweït,2007,2007,98.39884,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SGP,Singapour,2007,2007,99.6647,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SGP,Singapour,2007,2007,99.6647,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SVN,Slovénie,2007,2007,99.811,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SVN,Slovénie,2007,2007,99.811,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HUN,Hongrie,2007,2007,98.2028,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HUN,Hongrie,2007,2007,98.2028,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MEX,Mexique,2007,2007,98.198882,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MEX,Mexique,2007,2007,98.198882,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,POL,Pologne,2007,2007,99.7218,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,POL,Pologne,2007,2007,99.7218,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARG,Argentine,2007,2007,98.9252,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARG,Argentine,2007,2007,98.9252,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BWA,Botswana,2007,2007,92.9417,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BWA,Botswana,2007,2007,92.9417,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHL,Chili,2007,2007,98.9069,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHL,Chili,2007,2007,98.9069,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CRI,Costa Rica,2007,2007,97.5879,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CRI,Costa Rica,2007,2007,97.5879,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HRV,Croatie,2007,2007,99.6383,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HRV,Croatie,2007,2007,99.6383,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,EST,Estonie,2007,2007,99.7445,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,EST,Estonie,2007,2007,99.7445,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GAB,Gabon,2007,2007,97.9768,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GAB,Gabon,2007,2007,97.9768,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LVA,Lettonie,2007,2007,99.6773,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LVA,Lettonie,2007,2007,99.6773,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBN,Liban,2007,2007,98.396058,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBN,Liban,2007,2007,98.396058,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBY,Libye,2007,2007,99.7189,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBY,Libye,2007,2007,99.7189,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LTU,Lituanie,2007,2007,99.7587,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LTU,Lituanie,2007,2007,99.7587,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MYS,Malaisie,2007,2007,98.2226,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MYS,Malaisie,2007,2007,98.2226,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MUS,Maurice,2007,2007,95.2961,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MUS,Maurice,2007,2007,95.2961,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,OMN,Oman,2007,2007,98.8241,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,OMN,Oman,2007,2007,98.8241,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PAN,Panama,2007,2007,96.5004,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PAN,Panama,2007,2007,96.5004,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SAU,Arabie saoudite,2007,2007,98.0876,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SAU,Arabie saoudite,2007,2007,98.0876,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TTO,Trinité-et-Tobago,2007,2007,99.5012,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TTO,Trinité-et-Tobago,2007,2007,99.5012,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,URY,Uruguay,2007,2007,98.4888,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,URY,Uruguay,2007,2007,98.4888,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,VEN,Venezuela,2007,2007,97.974405,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,VEN,Venezuela,2007,2007,97.974405,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUR,Turquie,2007,2007,98.584559,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUR,Turquie,2007,2007,98.584559,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ALB,Albanie,2007,2007,99.3083,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ALB,Albanie,2007,2007,99.3083,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DZA,Algérie,2007,2007,94.2054,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DZA,Algérie,2007,2007,94.2054,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARM,Arménie,2007,2007,99.7114,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARM,Arménie,2007,2007,99.7114,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BLR,Bélarus,2007,2007,99.7275,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BLR,Bélarus,2007,2007,99.7275,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BOL,Bolivie,2007,2007,99.753609,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BOL,Bolivie,2007,2007,99.753609,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BRA,Brésil,2007,2007,97.056875,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BRA,Brésil,2007,2007,97.056875,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGR,Bulgarie,2007,2007,97.508,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGR,Bulgarie,2007,2007,97.508,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHN,Chine (République populaire de),2007,2007,99.4023,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHN,Chine (République populaire de),2007,2007,99.4023,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,COL,Colombie,2007,2007,97.482878,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,COL,Colombie,2007,2007,97.482878,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CUB,Cuba,2007,2007,99.9827,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CUB,Cuba,2007,2007,99.9827,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DOM,République dominicaine,2007,2007,94.9517,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DOM,République dominicaine,2007,2007,94.9517,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ECU,Équateur,2007,2007,95.218309,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ECU,Équateur,2007,2007,95.218309,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLV,El Salvador,2007,2007,93.219222,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLV,El Salvador,2007,2007,93.219222,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GTM,Guatemala,2007,2007,88.1182,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GTM,Guatemala,2007,2007,88.1182,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HND,Honduras,2007,2007,92.695262,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HND,Honduras,2007,2007,92.695262,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,JAM,Jamaïque,2007,2007,90.8668,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,JAM,Jamaïque,2007,2007,90.8668,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KAZ,Kazakhstan,2007,2007,99.7863,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KAZ,Kazakhstan,2007,2007,99.7863,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MKD,Ex-République yougoslave de Macédoine,2007,2007,98.9016,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MKD,Ex-République yougoslave de Macédoine,2007,2007,98.9016,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MAR,Maroc,2007,2007,83.8458,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MAR,Maroc,2007,2007,83.8458,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NAM,Namibie,2007,2007,90.9174,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NAM,Namibie,2007,2007,90.9174,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PSE,AutoritT palestinienne ou Cisjordanie et bande de Gaza,2007,2007,99.147186,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PSE,AutoritT palestinienne ou Cisjordanie et bande de Gaza,2007,2007,99.147186,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRY,Paraguay,2007,2007,98.80972,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRY,Paraguay,2007,2007,98.80972,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PER,Pérou,2007,2007,98.013259,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PER,Pérou,2007,2007,98.013259,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PHL,Philippines,2007,2007,93.5676,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PHL,Philippines,2007,2007,93.5676,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ROU,Roumanie,2007,2007,97.2725,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ROU,Roumanie,2007,2007,97.2725,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,RUS,Russie,2007,2007,99.6376,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,RUS,Russie,2007,2007,99.6376,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZAF,Afrique du Sud,2007,2007,94.5572,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZAF,Afrique du Sud,2007,2007,94.5572,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SYR,République arabe syrienne,2007,2007,95.3588,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SYR,République arabe syrienne,2007,2007,95.3588,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,THA,Thaïlande,2007,2007,98.263,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,THA,Thaïlande,2007,2007,98.263,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUN,Tunisie,2007,2007,96.9968,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUN,Tunisie,2007,2007,96.9968,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TKM,Turkménistan,2007,2007,99.7881,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TKM,Turkménistan,2007,2007,99.7881,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UKR,Ukraine,2007,2007,99.7522,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UKR,Ukraine,2007,2007,99.7522,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,AZE,Azerbaïdjan,2007,2007,100.0,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,AZE,Azerbaïdjan,2007,2007,100.0,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGD,Bangladesh,2007,2007,71.1439,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGD,Bangladesh,2007,2007,71.1439,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BEN,Bénin,2007,2007,63.3581,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BEN,Bénin,2007,2007,63.3581,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BFA,Burkina Faso,2007,2007,46.733742,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BFA,Burkina Faso,2007,2007,46.733742,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KHM,Cambodge,2007,2007,89.5998,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KHM,Cambodge,2007,2007,89.5998,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TCD,Tchad,2007,2007,53.4058,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TCD,Tchad,2007,2007,53.4058,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GHA,Ghana,2007,2007,79.679,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GHA,Ghana,2007,2007,79.679,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,IND,Inde,2007,2007,86.7095,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,IND,Inde,2007,2007,86.7095,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KGZ,Kirghizistan,2007,2007,99.5047,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KGZ,Kirghizistan,2007,2007,99.5047,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBR,Libéria,2007,2007,67.873,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBR,Libéria,2007,2007,67.873,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MWI,Malawi,2007,2007,83.6939,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MWI,Malawi,2007,2007,83.6939,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MRT,Mauritanie,2007,2007,70.0056,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MRT,Mauritanie,2007,2007,70.0056,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MDA,Moldova,2007,2007,99.6861,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MDA,Moldova,2007,2007,99.6861,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MNG,Mongolie,2007,2007,93.6534,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MNG,Mongolie,2007,2007,93.6534,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MOZ,Mozambique,2007,2007,58.4309,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MOZ,Mozambique,2007,2007,58.4309,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NPL,Népal,2007,2007,85.2894,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NPL,Népal,2007,2007,85.2894,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NGA,Nigéria,2007,2007,88.5961,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NGA,Nigéria,2007,2007,88.5961,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PNG,Papouasie-Nouvelle-Guinée,2007,2007,62.7704,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PNG,Papouasie-Nouvelle-Guinée,2007,2007,62.7704,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLE,Sierra Leone,2007,2007,64.4448,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLE,Sierra Leone,2007,2007,64.4448,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TJK,Tadjikistan,2007,2007,99.8537,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TJK,Tadjikistan,2007,2007,99.8537,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TZA,Tanzanie,2007,2007,78.9272,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TZA,Tanzanie,2007,2007,78.9272,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UGA,Ouganda,2007,2007,88.3223,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UGA,Ouganda,2007,2007,88.3223,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,YEM,Yémen,2007,2007,93.4062,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,YEM,Yémen,2007,2007,93.4062,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZMB,Zambie,2007,2007,82.365,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZMB,Zambie,2007,2007,82.365,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZWE,Zimbabwe,2007,2007,94.0702,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZWE,Zimbabwe,2007,2007,94.0702,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GRC,Grèce,2007,2007,99.3606,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GRC,Grèce,2007,2007,99.3606,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HUN,Hongrie,2007,2007,98.2028,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HUN,Hongrie,2007,2007,98.2028,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ITA,Italie,2007,2007,99.8787,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ITA,Italie,2007,2007,99.8787,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MEX,Mexique,2007,2007,98.198882,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MEX,Mexique,2007,2007,98.198882,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,POL,Pologne,2007,2007,99.7218,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,POL,Pologne,2007,2007,99.7218,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRT,Portugal,2007,2007,99.6266,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRT,Portugal,2007,2007,99.6266,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ESP,Espagne,2007,2007,99.580008,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ESP,Espagne,2007,2007,99.580008,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUR,Turquie,2007,2007,98.584559,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUR,Turquie,2007,2007,98.584559,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ALB,Albanie,2007,2007,99.3083,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ALB,Albanie,2007,2007,99.3083,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DZA,Algérie,2007,2007,94.2054,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DZA,Algérie,2007,2007,94.2054,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARG,Argentine,2007,2007,98.9252,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARG,Argentine,2007,2007,98.9252,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARM,Arménie,2007,2007,99.7114,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ARM,Arménie,2007,2007,99.7114,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,AZE,Azerbaïdjan,2007,2007,100.0,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,AZE,Azerbaïdjan,2007,2007,100.0,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BHR,Bahreïn,2007,2007,99.7531,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BHR,Bahreïn,2007,2007,99.7531,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGD,Bangladesh,2007,2007,71.1439,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGD,Bangladesh,2007,2007,71.1439,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BLR,Bélarus,2007,2007,99.7275,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BLR,Bélarus,2007,2007,99.7275,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BEN,Bénin,2007,2007,63.3581,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BEN,Bénin,2007,2007,63.3581,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BOL,Bolivie,2007,2007,99.753609,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BOL,Bolivie,2007,2007,99.753609,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BWA,Botswana,2007,2007,92.9417,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BWA,Botswana,2007,2007,92.9417,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BRA,Brésil,2007,2007,97.056875,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BRA,Brésil,2007,2007,97.056875,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGR,Bulgarie,2007,2007,97.508,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BGR,Bulgarie,2007,2007,97.508,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BFA,Burkina Faso,2007,2007,46.733742,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,BFA,Burkina Faso,2007,2007,46.733742,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KHM,Cambodge,2007,2007,89.5998,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KHM,Cambodge,2007,2007,89.5998,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TCD,Tchad,2007,2007,53.4058,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TCD,Tchad,2007,2007,53.4058,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHL,Chili,2007,2007,98.9069,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHL,Chili,2007,2007,98.9069,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHN,Chine (République populaire de),2007,2007,99.4023,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CHN,Chine (République populaire de),2007,2007,99.4023,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,COL,Colombie,2007,2007,97.482878,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,COL,Colombie,2007,2007,97.482878,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CRI,Costa Rica,2007,2007,97.5879,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CRI,Costa Rica,2007,2007,97.5879,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HRV,Croatie,2007,2007,99.6383,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HRV,Croatie,2007,2007,99.6383,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CUB,Cuba,2007,2007,99.9827,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,CUB,Cuba,2007,2007,99.9827,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DOM,République dominicaine,2007,2007,94.9517,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,DOM,République dominicaine,2007,2007,94.9517,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ECU,Équateur,2007,2007,95.218309,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ECU,Équateur,2007,2007,95.218309,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLV,El Salvador,2007,2007,93.219222,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLV,El Salvador,2007,2007,93.219222,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,EST,Estonie,2007,2007,99.7445,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,EST,Estonie,2007,2007,99.7445,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GAB,Gabon,2007,2007,97.9768,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GAB,Gabon,2007,2007,97.9768,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GHA,Ghana,2007,2007,79.679,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GHA,Ghana,2007,2007,79.679,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GTM,Guatemala,2007,2007,88.1182,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,GTM,Guatemala,2007,2007,88.1182,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HND,Honduras,2007,2007,92.695262,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,HND,Honduras,2007,2007,92.695262,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,IND,Inde,2007,2007,86.7095,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,IND,Inde,2007,2007,86.7095,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,JAM,Jamaïque,2007,2007,90.8668,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,JAM,Jamaïque,2007,2007,90.8668,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KAZ,Kazakhstan,2007,2007,99.7863,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KAZ,Kazakhstan,2007,2007,99.7863,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KWT,Koweït,2007,2007,98.39884,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KWT,Koweït,2007,2007,98.39884,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KGZ,Kirghizistan,2007,2007,99.5047,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,KGZ,Kirghizistan,2007,2007,99.5047,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LVA,Lettonie,2007,2007,99.6773,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LVA,Lettonie,2007,2007,99.6773,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBN,Liban,2007,2007,98.396058,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBN,Liban,2007,2007,98.396058,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBR,Libéria,2007,2007,67.873,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBR,Libéria,2007,2007,67.873,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBY,Libye,2007,2007,99.7189,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LBY,Libye,2007,2007,99.7189,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LTU,Lituanie,2007,2007,99.7587,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,LTU,Lituanie,2007,2007,99.7587,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MKD,Ex-République yougoslave de Macédoine,2007,2007,98.9016,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MKD,Ex-République yougoslave de Macédoine,2007,2007,98.9016,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MWI,Malawi,2007,2007,83.6939,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MWI,Malawi,2007,2007,83.6939,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MYS,Malaisie,2007,2007,98.2226,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MYS,Malaisie,2007,2007,98.2226,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MRT,Mauritanie,2007,2007,70.0056,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MRT,Mauritanie,2007,2007,70.0056,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MUS,Maurice,2007,2007,95.2961,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MUS,Maurice,2007,2007,95.2961,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MDA,Moldova,2007,2007,99.6861,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MDA,Moldova,2007,2007,99.6861,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MNG,Mongolie,2007,2007,93.6534,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MNG,Mongolie,2007,2007,93.6534,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MAR,Maroc,2007,2007,83.8458,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MAR,Maroc,2007,2007,83.8458,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MOZ,Mozambique,2007,2007,58.4309,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,MOZ,Mozambique,2007,2007,58.4309,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NAM,Namibie,2007,2007,90.9174,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NAM,Namibie,2007,2007,90.9174,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NPL,Népal,2007,2007,85.2894,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NPL,Népal,2007,2007,85.2894,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NGA,Nigéria,2007,2007,88.5961,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,NGA,Nigéria,2007,2007,88.5961,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PSE,AutoritT palestinienne ou Cisjordanie et bande de Gaza,2007,2007,99.147186,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PSE,AutoritT palestinienne ou Cisjordanie et bande de Gaza,2007,2007,99.147186,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,OMN,Oman,2007,2007,98.8241,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,OMN,Oman,2007,2007,98.8241,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PAN,Panama,2007,2007,96.5004,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PAN,Panama,2007,2007,96.5004,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PNG,Papouasie-Nouvelle-Guinée,2007,2007,62.7704,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PNG,Papouasie-Nouvelle-Guinée,2007,2007,62.7704,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRY,Paraguay,2007,2007,98.80972,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PRY,Paraguay,2007,2007,98.80972,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PER,Pérou,2007,2007,98.013259,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PER,Pérou,2007,2007,98.013259,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PHL,Philippines,2007,2007,93.5676,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,PHL,Philippines,2007,2007,93.5676,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ROU,Roumanie,2007,2007,97.2725,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ROU,Roumanie,2007,2007,97.2725,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,RUS,Russie,2007,2007,99.6376,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,RUS,Russie,2007,2007,99.6376,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SAU,Arabie saoudite,2007,2007,98.0876,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SAU,Arabie saoudite,2007,2007,98.0876,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLE,Sierra Leone,2007,2007,64.4448,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SLE,Sierra Leone,2007,2007,64.4448,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SGP,Singapour,2007,2007,99.6647,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SGP,Singapour,2007,2007,99.6647,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SVN,Slovénie,2007,2007,99.811,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SVN,Slovénie,2007,2007,99.811,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZAF,Afrique du Sud,2007,2007,94.5572,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZAF,Afrique du Sud,2007,2007,94.5572,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SYR,République arabe syrienne,2007,2007,95.3588,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,SYR,République arabe syrienne,2007,2007,95.3588,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TJK,Tadjikistan,2007,2007,99.8537,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TJK,Tadjikistan,2007,2007,99.8537,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TZA,Tanzanie,2007,2007,78.9272,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TZA,Tanzanie,2007,2007,78.9272,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,THA,Thaïlande,2007,2007,98.263,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,THA,Thaïlande,2007,2007,98.263,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TTO,Trinité-et-Tobago,2007,2007,99.5012,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TTO,Trinité-et-Tobago,2007,2007,99.5012,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUN,Tunisie,2007,2007,96.9968,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TUN,Tunisie,2007,2007,96.9968,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TKM,Turkménistan,2007,2007,99.7881,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,TKM,Turkménistan,2007,2007,99.7881,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UGA,Ouganda,2007,2007,88.3223,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UGA,Ouganda,2007,2007,88.3223,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UKR,Ukraine,2007,2007,99.7522,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,UKR,Ukraine,2007,2007,99.7522,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,URY,Uruguay,2007,2007,98.4888,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,URY,Uruguay,2007,2007,98.4888,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,VEN,Venezuela,2007,2007,97.974405,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,VEN,Venezuela,2007,2007,97.974405,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,YEM,Yémen,2007,2007,93.4062,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,YEM,Yémen,2007,2007,93.4062,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZMB,Zambie,2007,2007,82.365,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZMB,Zambie,2007,2007,82.365,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZWE,Zimbabwe,2007,2007,94.0702,MEN,EDU_1_2
+EDU_4_5,Taux d'alphabétisation des jeunes,ZWE,Zimbabwe,2007,2007,94.0702,MEN,EDU_1_2
