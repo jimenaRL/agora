@@ -1,6 +1,7 @@
 # coding: utf-8
 
 import os
+import unidecode
 import pandas as pd
 
 import sys
@@ -240,11 +241,13 @@ TO_USE = {
 
 for f in FILES:
 
-    os.path = os.path.join(WRITE_BASE_PATH, os.path.split(f)[0])
+    pre_path = os.path.join(WRITE_BASE_PATH, os.path.split(f)[0])
 
     df = pd.read_csv(os.path.join(READ_BASE_PATH, f), encoding=ENCODING)
     df.rename(index=str, columns={'INDICATOR': 'IND'}, inplace=True)
     df.drop(TO_DROP, axis=1, inplace=True)
+
+    df['Pays'] = df['Pays'].apply(lambda x: x.replace(" ", "_"))
 
     indicatives = {tuple(_) for _ in df[['Indicateur', 'IND', 'Unit']].as_matrix().tolist()}
     for ind_name, ind_code, unit in indicatives:
@@ -262,6 +265,7 @@ for f in FILES:
                 ind_df['Formulation'] = formulation
             else:
                 ind_df['Formulation'] = ind_df['Indicateur']
+            ind_df['Formulation'] = ind_df['Formulation'].apply(lambda x: x.replace(" ", "_").replace(",", ""))
 
             # process data
             treatment_fn = locals()[TO_USE[ind_code]['treatment']]
@@ -270,7 +274,7 @@ for f in FILES:
             # print ""
             # print ind_code
             # print ind_name
-            print ind_df_treated.head(10)
+            # print ind_df_treated.head(10)
             ind_name_uni = unidecode.unidecode(ind_name.replace(",", "") \
                                                .replace("'", "_") \
                                                .replace(" ", "_"))
