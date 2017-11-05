@@ -1,0 +1,454 @@
+﻿35b - Antenatal care coverage  at least four visits
+
+Indicator Name,Region,Country Code,Country,Year,Sex,Value,LowerBound,UpperBound,NatureDataID,OriginDataID,Footnote1,Footnote2,Footnote3,Footnote4,Footnote5,Footnote6,Coverage
+Antenatal care coverage  at least four visits,Southern Asia,4,Afghanistan,2010,Female,16.1,-,-,1,1,Source: DHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,4,Afghanistan,2010,Female,14.6,-,-,1,1,Source: MICS_2010-2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,4,Afghanistan,2011,Female,14.6,-,-,1,1,MICS_2010-2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,4,Afghanistan,2013,Female,22.7,-,-,1,1,Source: Living Conditions Survey_2013-2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,4,Afghanistan,2015,Female,17.8,-,-,1,1,Source: DHS KIR(Prelim)_2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,1999,Female,10.5,-,-,1,1,Source: DHS_1999-2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,2000,Female,10.5,-,-,1,1,DHS_1999-2000,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,2007,Female,20.6,-,-,1,1,Source: DHS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,2010,Female,23.4,-,-,1,1,Source: Maternal Mortality and Health Care Survey (Prelim)_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,1996,Female,5.8,-,-,1,1,Source: DHS_1996-1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,2001,Female,11.6,-,-,1,1,Source: DHS_2001,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,2004,Female,15.9,-,-,1,1,Source: DHS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,2011,Female,25.5,-,-,1,1,Source: DHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,1997,Female,5.8,-,-,1,1,DHS_1996-1997,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,2013,Female,24.7,-,-,1,1,Source: MICS: Progotir Pathey Approved Final_2012-2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,50,Bangladesh,2014,Female,31.2,-,-,1,1,Source: DHS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,64,Bhutan,2010,Female,77.3,-,-,1,1,Source: MICS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,64,Bhutan,2012,Female,81.5,-,-,1,1,Source: National Health Survey_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,64,Bhutan,2015,Female,85,-,-,1,1,Source: National Nutrition Survey_2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,144,Sri Lanka,2007,Female,92.5,-,-,1,1,DHS_2006-2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,144,Sri Lanka,2006,Female,92.5,-,-,1,1,Source: DHS_2006-2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,356,India,1999,Female,29.5,-,-,1,1,NFHS_1998-1999,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,356,India,2005,Female,37,-,-,1,1,Source: NFHS_2005-2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,356,India,1998,Female,29.5,-,-,1,1,Source: NFHS_1998-1999,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,356,India,2006,Female,37,-,-,1,1,NFHS_2005-2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,356,India,2013,Female,45.4,-,-,1,1,Source: Rapid Survey on Children_2013-2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,364,Iran (Islamic Republic of),2005,Female,94.3,-,-,1,1,Source: MoH_2005-2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,462,Maldives,1999,Female,65,-,-,1,1,Source: MoH_1999,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,462,Maldives,2009,Female,85.1,-,-,1,1,Source: DHS_2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,462,Maldives,2004,Female,91,-,-,1,1,Source: MoH_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,524,Nepal,1996,Female,8.8,-,-,1,1,Source: DHS_1996,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,524,Nepal,2001,Female,14.3,-,-,1,1,Source: DHS_2001,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,524,Nepal,2006,Female,29.4,-,-,1,1,Source: DHS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,524,Nepal,2011,Female,50.1,-,-,1,1,Source: DHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,524,Nepal,2014,Female,59.5,-,-,1,1,Source: MICS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,586,Pakistan,2007,Female,28.4,-,-,1,1,DHS_2006-2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,586,Pakistan,2006,Female,28.4,-,-,1,1,Source: DHS_2006-2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,586,Pakistan,2012,Female,36.6,-,-,1,1,Source: PAK_DHS_2012-2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Southern Asia,586,Pakistan,2013,Female,36.6,-,-,1,1,DHS_2012-2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,8,Albania,2008,Female,66.8,-,-,1,1,Source: DHS_2008-2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,8,Albania,2009,Female,66.8,-,-,1,1,DHS_2008-2009,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,8,Albania,2002,Female,41.1,-,-,1,1,Source: Other NS_2002,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,36,Australia,2008,Female,92,-,-,1,1,Source: Other NS_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,70,Bosnia and Herzegovina,2011,Female,84.2,-,-,1,1,Source: MICS_2011-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,70,Bosnia and Herzegovina,2012,Female,84.2,-,-,1,1,MICS_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,112,Belarus,2012,Female,99.7,-,-,1,1,Source: MICS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,124,Canada,2007,Female,99,-,-,1,1,Other NS_2006-2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,124,Canada,2006,Female,99,-,-,1,1,Source: Other NS_2006-2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,191,Croatia,2014,Female,93.3,-,-,1,1,Source: Deliveries in Health Institutions_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,233,Estonia,2014,Female,96.8,-,-,1,1,Source: Medical Birth Registry_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,250,France,2010,Female,98.9,-,-,1,1,Source: Enquête nationale périnatale_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,276,Germany,2014,Female,99.3,-,-,1,1,Source: QUAG_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,380,Italy,2003,Female,68.1,-,-,1,1,Source: MoH_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,442,Luxembourg,2011,Female,97.3,-,-,1,1,Source: NHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,498,Republic of Moldova,2005,Female,88.8,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,498,Republic of Moldova,1997,Female,87.4,-,-,1,1,Source: Other NS_1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,498,Republic of Moldova,2012,Female,95.4,-,-,1,1,Source: 2012 Moldova MICS(Reanalyzed)_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,499,Montenegro,2013,Female,86.6,-,-,1,1,Source: MICS_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,642,Romania,1999,Female,59.1,-,-,1,1,Source: Other NS_1999,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,642,Romania,2004,Female,76,-,-,1,1,Source: Other NS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,688,Serbia,2010,Female,94.2,-,-,1,1,Source: MICS_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,688,Serbia,2014,Female,93.9,-,-,1,1,Source: MICS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,804,Ukraine,2007,Female,74.8,-,-,1,1,Source: DHS_2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,804,Ukraine,2012,Female,87.2,-,-,1,1,Source: MICS_2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,807,The former Yugoslav Republic of Macedonia,2011,Female,93.9,-,-,1,1,Source: MICS_2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Developed regions,840,United States of America,2011,Female,96.6,-,-,1,1,Source: /WHO_Health Situation in the Americas_Basic Indicators_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,12,Algeria,2012,Female,67.3,-,-,1,1,Source: MICS_2012-2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,12,Algeria,2013,Female,67.3,-,-,1,1,MICS_2012-2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,504,Morocco,2003,Female,30.5,-,-,1,1,Source: DHS_2003-2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,504,Morocco,2010,Female,55.3,-,-,1,1,Other NS 2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,504,Morocco,2004,Female,30.5,-,-,1,1,DHS_2003-2004,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,504,Morocco,1995,Female,12,-,-,1,1,Source: DHS_1995,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,504,Morocco,2011,Female,55.3,-,-,1,1,Source: ENPSF_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,788,Tunisia,2006,Female,67.5,-,-,1,1,Source: MICS_2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,788,Tunisia,2011,Female,85.1,-,-,1,1,Source: MICS_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,788,Tunisia,2012,Female,85.1,-,-,1,1,MICS_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,818,Egypt,2003,Female,55.6,-,-,1,1,Source: DHS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,818,Egypt,2008,Female,66,-,-,1,1,Source: DHS_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,818,Egypt,2000,Female,36.7,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,818,Egypt,2005,Female,58.5,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,818,Egypt,1998,Female,33.1,-,-,1,1,Source: DHS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,818,Egypt,1995,Female,28.3,-,-,1,1,Source: DHS_1995,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,818,Egypt,1997,Female,31.8,-,-,1,1,Source: DHS_1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Northern Africa,818,Egypt,2014,Female,82.8,-,-,1,1,Source: DHS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Oceania,90,Solomon Islands,2007,Female,64.6,-,-,1,1,Source: DHS_2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Oceania,242,Fiji,2013,Female,93.6,-,-,1,1,Source: National Immunisation Coverage Survey_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Oceania,296,Kiribati,2009,Female,70.8,-,-,1,1,Source: DHS 2009 Final Report_2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Oceania,520,Nauru,2007,Female,40.2,-,-,1,1,Source: DHS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Oceania,548,Vanuatu,2013,Female,51.8,-,-,1,1,Source: DHS_2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Oceania,584,Marshall Islands,2007,Female,77.1,-,-,1,1,Source: DHS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Oceania,585,Palau,2007,Female,88,-,-,1,1,Source: Other NS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Oceania,585,Palau,2010,Female,81,-,-,1,1,Source: WHO Western Pacific Country Health Information Profile_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Oceania,598,Papua New Guinea,2006,Female,54.9,-,-,1,1,Source: DHS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Oceania,776,Tonga,2012,Female,70.4,-,-,1,1,Source: DHS_2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Oceania,798,Tuvalu,2007,Female,67.3,-,-,1,1,Source: DHS_2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Oceania,882,Samoa,2009,Female,58.4,-,-,1,1,Source: DHS_2009,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Oceania,882,Samoa,2014,Female,72.9,-,-,1,1,Source: DHS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,24,Angola,1996,Female,31.5,-,-,1,1,Source: MICS_1996,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,72,Botswana,2007,Female,73.3,-,-,1,1,Source: Botswana Family Health Survey IV Report _2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,108,Burundi,2010,Female,33.4,-,-,1,1,Source: DHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,120,Cameroon,1998,Female,52.4,-,-,1,1,Source: DHS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,120,Cameroon,2004,Female,60.4,-,-,1,1,Source: DHS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,120,Cameroon,2011,Female,62.2,-,-,1,1,Source: DHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,120,Cameroon,2014,Female,58.8,-,-,1,1,Source: MICS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,132,Cabo Verde,2005,Female,72.3,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,132,Cabo Verde,1998,Female,63.9,-,-,1,1,Source: Other NS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,140,Central African Republic,2010,Female,38.1,-,-,1,1,Source: MICS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,140,Central African Republic,1995,Female,39.7,-,-,1,1,DHS_1994-1995,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,148,Chad,2010,Female,23.1,-,-,1,1,Source: MICS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,148,Chad,1996,Female,14.8,-,-,1,1,Source: DHS_1996-1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,148,Chad,2004,Female,17.8,-,-,1,1,Source: DHS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,148,Chad,1997,Female,14.8,-,-,1,1,DHS_1996-1997,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,148,Chad,2014,Female,31,-,-,1,1,Source: DHS_2014-2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,148,Chad,2015,Female,31,-,-,1,1,DHS KIR 2014-15_2014-2015,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,174,Comoros,1996,Female,52,-,-,1,1,Source: DHS_1996,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,174,Comoros,2012,Female,48.9,-,-,1,1,Source: DHS - MICS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,178,Congo,2005,Female,74.7,-,-,1,1,Source: Enquête Congolaise auprès des Ménages (ECOM) 2005(Reanalyzed)_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,178,Congo,2011,Female,78.9,-,-,1,1,Source: DHS_2011-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,178,Congo,2012,Female,78.9,-,-,1,1,DHS_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,178,Congo,2014,Female,79,-,-,1,1,Source: MICS KFR_2014-2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,178,Congo,2015,Female,79,-,-,1,1,MICS KFR_2014-2015,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,180,Democratic Republic of the Congo,2007,Female,46.7,-,-,1,1,Source: DHS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,180,Democratic Republic of the Congo,2010,Female,44.7,-,-,1,1,Source: MICS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,180,Democratic Republic of the Congo,2013,Female,48,-,-,1,1,Source: DHS_2013-2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,180,Democratic Republic of the Congo,2014,Female,48,-,-,1,1,DHS_2013-2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,204,Benin,1996,Female,53.7,-,-,1,1,Source: DHS_1996,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,204,Benin,2001,Female,61.6,-,-,1,1,Source: DHS_2001,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,204,Benin,2006,Female,60.5,-,-,1,1,Source: DHS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,204,Benin,2011,Female,58.2,-,-,1,1,Source: DHS_2011-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,204,Benin,2012,Female,58.2,-,-,1,1,DHS_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,204,Benin,2014,Female,58.8,-,-,1,1,Source: MICS_Key Findings Report(Prelim)_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,226,Equatorial Guinea,2011,Female,66.9,-,-,1,1,Source: DHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,231,Ethiopia,2000,Female,10.4,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,231,Ethiopia,2005,Female,12.2,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,231,Ethiopia,2011,Female,19.1,-,-,1,1,Source: DHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,231,Ethiopia,2014,Female,32.1,-,-,1,1,Source: Mini DHS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,231,Ethiopia,2016,Female,31.8,-,-,1,1,Source: DHS KIR(Prelim)_2016,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,232,Eritrea,2010,Female,57.4,-,-,1,1,Source: Eritrean Population and Health Survey_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,232,Eritrea,1995,Female,26.6,-,-,1,1,Source: DHS_1995,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,232,Eritrea,2002,Female,40.9,-,-,1,1,Source: DHS_2002,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,262,Djibouti,2002,Female,7.1,-,-,1,1,Source: Other NS_2002,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,262,Djibouti,2012,Female,22.6,-,-,1,1,Source: EDSF-PAPFAM 2012-Djibouti(Prelim)_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,266,Gabon,2000,Female,63.3,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,266,Gabon,2012,Female,77.6,-,-,1,1,Source: DHS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,270,Gambia,2005,Female,72.9,-,-,1,1,Source: MICS_2005-2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,270,Gambia,2010,Female,72,-,-,1,1,Source: MICS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,270,Gambia,2013,Female,77.6,-,-,1,1,Source: DHS_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,288,Ghana,2003,Female,69.4,-,-,1,1,Source: DHS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,288,Ghana,2008,Female,78.2,-,-,1,1,Source: DHS _2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,288,Ghana,2007,Female,76.7,-,-,1,1,Source: Other NS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,288,Ghana,1998,Female,62.3,-,-,1,1,Source: DHS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,288,Ghana,2006,Female,73.3,-,-,1,1,Source: MICS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,288,Ghana,2011,Female,86.6,-,-,1,1,Source: MICS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,288,Ghana,2014,Female,87.3,-,-,1,1,Source: DHS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,324,Guinea,1999,Female,46.3,-,-,1,1,Source: DHS_1999,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,324,Guinea,2005,Female,48.8,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,324,Guinea,2007,Female,50.3,-,-,1,1,Source: Other NS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,324,Guinea,2012,Female,56.6,-,-,1,1,Source: EDS-MICS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,384,Côte d'Ivoire,1999,Female,35.6,-,-,1,1,DHS_1998-1999,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,384,Côte d'Ivoire,2005,Female,45.3,-,-,1,1,Source: Other NS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,384,Côte d'Ivoire,1998,Female,35.6,-,-,1,1,Source: DHS_1998-1999,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,384,Côte d'Ivoire,2011,Female,44.2,-,-,1,1,Source: DHS_2011-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,384,Côte d'Ivoire,2012,Female,44.2,-,-,1,1,DHS_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,404,Kenya,2003,Female,52.3,-,-,1,1,Source: DHS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,404,Kenya,2008,Female,47.1,-,-,1,1,Source: DHS_2008-2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,404,Kenya,2009,Female,47.1,-,-,1,1,DHS_2008-2009,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,404,Kenya,1998,Female,60.8,-,-,1,1,Source: DHS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,404,Kenya,2014,Female,57.6,-,-,1,1,Source: DHS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,426,Lesotho,2009,Female,70.4,-,-,1,1,Source: DHS(Reanalyzed)_2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,426,Lesotho,2004,Female,69.6,-,-,1,1,Source: DHS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,426,Lesotho,2014,Female,74.4,-,-,1,1,Source: DHS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,430,Liberia,2007,Female,66,-,-,1,1,Source: DHS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,430,Liberia,2013,Female,78.1,-,-,1,1,Source: DHS_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,450,Madagascar,2003,Female,39.9,-,-,1,1,Source: DHS_2003-2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,450,Madagascar,2008,Female,49.3,-,-,1,1,Source: DHS_2008-2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,450,Madagascar,2009,Female,49.3,-,-,1,1,DHS_2008-2009,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,450,Madagascar,2004,Female,39.9,-,-,1,1,DHS_2003-2004,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,450,Madagascar,1997,Female,39.7,-,-,1,1,Source: DHS_1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,450,Madagascar,2012,Female,51.1,-,-,1,1,Source: ENSOMD_2012-2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,450,Madagascar,2013,Female,51.1,-,-,1,1,ENSOMD_2012-2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,454,Malawi,2000,Female,56,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,454,Malawi,2010,Female,45.5,-,-,1,1,Source: DHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,454,Malawi,2004,Female,57.1,-,-,1,1,Source: DHS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,454,Malawi,2013,Female,44.7,-,-,1,1,Source: MICS_2013-2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,454,Malawi,2014,Female,44.7,-,-,1,1,MICS_2013-2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,454,Malawi,2015,Female,50.6,-,-,1,1,Source: DHS (Prelim)_2015-2016,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,466,Mali,2010,Female,34.9,-,-,1,1,MICS 2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,466,Mali,1996,Female,25.8,-,-,1,1,DHS_1995-1996,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,466,Mali,2001,Female,29.9,-,-,1,1,Source: DHS_2001,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,466,Mali,2006,Female,35.4,-,-,1,1,Source: DHS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,466,Mali,1995,Female,25.8,-,-,1,1,Source: DHS_1995-1996,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,466,Mali,2015,Female,38,-,-,1,1,Source: MICS KFR_2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,478,Mauritania,2000,Female,16.4,-,-,1,1,Source: DHS_2000-2001,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,478,Mauritania,2001,Female,16.4,-,-,1,1,DHS_2000-2001,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,478,Mauritania,2011,Female,48.4,-,-,1,1,Source: MICS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,478,Mauritania,2015,Female,63,-,-,1,1,Source: MICS_2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,508,Mozambique,2003,Female,53.1,-,-,1,1,Source: DHS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,508,Mozambique,2011,Female,50.6,-,-,1,1,Source: DHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,508,Mozambique,1997,Female,37.3,-,-,1,1,Source: DHS_1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,516,Namibia,2000,Female,69.1,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,516,Namibia,2007,Female,70.4,-,-,1,1,DHS_2006-2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,516,Namibia,2006,Female,70.4,-,-,1,1,Source: DHS_2006-2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,516,Namibia,2013,Female,62.5,-,-,1,1,Source: DHS_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,562,Niger,1998,Female,11.4,-,-,1,1,Source: DHS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,562,Niger,2006,Female,14.9,-,-,1,1,Source: DHS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,562,Niger,2012,Female,32.8,-,-,1,1,Source: EDSN_MICS(Reanalyzed)_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,562,Niger,2015,Female,38,-,-,1,1,Source: NOTE PROVISOIRE DE SYNTHESE DE L#quote#ETUDE NATIONALE D#quote#EVALUATION D#quote#INDICATEURS SOCIO-ECONOMIQUES ET DEMOGRAPHIQUES (ENISED)_2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,566,Nigeria,1999,Female,47.3,-,-,1,1,Source: DHS_1999,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,566,Nigeria,2003,Female,47.4,-,-,1,1,Source: DHS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,566,Nigeria,2008,Female,44.8,-,-,1,1,Source: DHS_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,566,Nigeria,2011,Female,56.6,-,-,1,1,Source: MICS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,566,Nigeria,2013,Female,51.1,-,-,1,1,Source: DHS_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,624,Guinea-Bissau,2010,Female,67.6,-,-,1,1,Source: MICS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,624,Guinea-Bissau,2014,Female,64.9,-,-,1,1,Source: MICS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,646,Rwanda,2008,Female,23.9,-,-,1,1,Interim DHS_2007-2008,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,646,Rwanda,2000,Female,10.4,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,646,Rwanda,2005,Female,13.3,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,646,Rwanda,2007,Female,23.9,-,-,1,1,Source: Interim DHS_2007-2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,646,Rwanda,2010,Female,35.4,-,-,1,1,Source: DHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,646,Rwanda,2014,Female,43.9,-,-,1,1,Source: DHS_2014-2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,646,Rwanda,2015,Female,43.9,-,-,1,1,DHS (Prelim)_2014-2015,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,678,Sao Tome and Principe,2008,Female,72.4,-,-,1,1,Source: DHS_2008-2009,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,678,Sao Tome and Principe,2009,Female,72.4,-,-,1,1,DHS_2008-2009,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,678,Sao Tome and Principe,2014,Female,83.6,-,-,1,1,Source: MICS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,686,Senegal,2005,Female,39.8,-,-,1,1,Source: DHS_2005,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,686,Senegal,2010,Female,50,-,-,1,1,Source: DHS-MICS_2010-2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,686,Senegal,2011,Female,50,-,-,1,1,DHS-MICS_2010-2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,686,Senegal,1997,Female,16.6,-,-,1,1,Source: DHS_1997,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,686,Senegal,2012,Female,46.5,-,-,1,1,Source: Continuous DHS 2014(Reanalyzed)_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,686,Senegal,2013,Female,46.5,-,-,1,1,Continuous DHS 2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,686,Senegal,2014,Female,48.1,-,-,1,1,Source: DHS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,686,Senegal,2015,Female,46.7,-,-,1,1,Source: Continuous DHS_2015,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,694,Sierra Leone,2008,Female,56.1,-,-,1,1,Source: DHS_2008,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,694,Sierra Leone,2010,Female,74.7,-,-,1,1,Source: MICS_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,694,Sierra Leone,2013,Female,76,-,-,1,1,Source: DHS_2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,706,Somalia,2006,Female,6.3,-,-,1,1,Source: MICS_2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,710,South Africa,2003,Female,56.1,-,-,1,1,Source: DHS_2003,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,710,South Africa,2008,Female,87.1,-,-,1,1,Source: South African National HIV Prevalence  Incidence  Behaviour and Communication Survey  2008: The health of our children_2008,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,710,South Africa,1998,Female,73.1,-,-,1,1,Source: DHS_1998,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,716,Zimbabwe,1999,Female,64.3,-,-,1,1,Source: DHS_1999,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,716,Zimbabwe,2005,Female,71.1,-,-,1,1,Source: DHS_2005-2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,716,Zimbabwe,2009,Female,56.8,-,-,1,1,Source: MICS_2009,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,716,Zimbabwe,2010,Female,64.8,-,-,1,1,Source: DHS_2010-2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,716,Zimbabwe,2006,Female,71.1,-,-,1,1,DHS_2005-2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,716,Zimbabwe,2011,Female,64.8,-,-,1,1,DHS_2010-2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,716,Zimbabwe,2014,Female,70.1,-,-,1,1,Source: MICS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,716,Zimbabwe,2015,Female,75.7,-,-,1,1,Source: DHS_2015,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,728,South Sudan,2010,Female,17.3,-,-,1,1,Source: South Sudan MICS 2010_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,729,Sudan,2010,Female,47.1,-,-,1,1,Source: SHHS_revised_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,729,Sudan,2014,Female,50.7,-,-,1,1,Source: MICS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,748,Swaziland,2007,Female,79.3,-,-,1,1,DHS_2006-2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,748,Swaziland,2010,Female,76.6,-,-,1,1,Source: MICS_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,748,Swaziland,2006,Female,79.3,-,-,1,1,Source: DHS_2006-2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,748,Swaziland,2014,Female,76.1,-,-,1,1,Source: MICS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,768,Togo,2010,Female,54.9,-,-,1,1,Source: MICS_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,768,Togo,1998,Female,46.3,-,-,1,1,Source: DHS_1998,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,768,Togo,2013,Female,57.2,-,-,1,1,Source: DHS_2013-2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,768,Togo,2014,Female,57.2,-,-,1,1,DHS_2013-2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,800,Uganda,2000,Female,41.9,-,-,1,1,Source: DHS_2000-2001,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,800,Uganda,2001,Female,41.9,-,-,1,1,DHS_2000-2001,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,800,Uganda,2006,Female,47.2,-,-,1,1,Source: DHS_2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,800,Uganda,1995,Female,47.2,-,-,1,1,Source: DHS_1995,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,800,Uganda,2011,Female,47.6,-,-,1,1,Source: DHS_2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,834,United Republic of Tanzania,1999,Female,69.9,-,-,1,1,Source: DHS_1999,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,834,United Republic of Tanzania,2005,Female,61.5,-,-,1,1,DHS_2004-2005,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,834,United Republic of Tanzania,2010,Female,42.8,-,-,1,1,Source: DHS _2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,834,United Republic of Tanzania,1996,Female,69.5,-,-,1,1,Source: DHS_1996,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,834,United Republic of Tanzania,2004,Female,61.5,-,-,1,1,Source: DHS_2004-2005,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,834,United Republic of Tanzania,2015,Female,50.7,-,-,1,1,Source: DHS_MIS_2015-2016,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,854,Burkina Faso,1999,Female,22.7,-,-,1,1,DHS_1998-1999,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,854,Burkina Faso,2003,Female,17.6,-,-,1,1,Source: DHS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,854,Burkina Faso,2010,Female,33.7,-,-,1,1,Source: DHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,854,Burkina Faso,1998,Female,22.7,-,-,1,1,Source: DHS_1998-1999,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,894,Zambia,2007,Female,60.3,-,-,1,1,Source: DHS_2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,894,Zambia,1996,Female,71.3,-,-,1,1,Source: DHS_1996,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,894,Zambia,2002,Female,71.6,-,-,1,1,Source: DHS_2002,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,894,Zambia,2013,Female,55.5,-,-,1,1,Source: DHS_2013-2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Sub-Saharan Africa,894,Zambia,2014,Female,55.5,-,-,1,1,DHS_2013-2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,28,Antigua and Barbuda,2013,Female,100,-,-,1,1,Source: /WHO_Health Situation in the Americas_Basic Indicators_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,32,Argentina,2005,Female,89.3,-,-,1,1,Other NS_2004-2005,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,32,Argentina,2004,Female,89.3,-,-,1,1,Source: Other NS_2004-2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,32,Argentina,2011,Female,89.8,-,-,1,1,Source: MICS(Reanalyzed)_2011-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,32,Argentina,2012,Female,89.8,-,-,1,1,MICS(Reanalyzed)_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,44,Bahamas,2013,Female,85,-,-,1,1,Source: /WHO_Health Situation in the Americas_Basic Indicators_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,52,Barbados,2012,Female,87.9,-,-,1,1,Source: MICS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2003,Female,57.9,-,-,1,1,Source: DHS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2008,Female,72.1,-,-,1,1,Source: DHS_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,68,Bolivia (Plurinational State of),1998,Female,48,-,-,1,1,Source: DHS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2012,Female,75.3,-,-,1,1,Source: Encuesta de Evaluación de Salud y Nutrición 2012  Informe de Resultados_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,76,Brazil,2005,Female,87,-,-,1,1,Source: MoH_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,76,Brazil,2007,Female,88.7,-,-,1,1,Source: MoH_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,76,Brazil,2009,Female,90.5,-,-,1,1,Source: MoH_SINASC (Prelim)_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,76,Brazil,1996,Female,75.9,-,-,1,1,Source: DHS_1996,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,76,Brazil,2006,Female,89,-,-,1,1,Source: MoH_PNDS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,76,Brazil,2011,Female,89.83,-,-,1,1,Source: MoH SINASC(Reanalyzed)_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,76,Brazil,2012,Female,88.7,-,-,1,1,Source: MS/SVS/DASIS - Sistema de Informações sobre Nacidos Vivos - SINASC  Brasil. (http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvuf.def) (database accessed 16 October 2014)._2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,84,Belize,2011,Female,83.1,-,-,1,1,Source: MICS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,84,Belize,2015,Female,92.6,-,-,1,1,Source: MICS(Prelim)_2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,170,Colombia,2000,Female,81,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,170,Colombia,2005,Female,83.1,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,170,Colombia,2010,Female,88.6,-,-,1,1,Source: DHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,188,Costa Rica,2008,Female,85.8,-,-,1,1,Source: Other NS_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,188,Costa Rica,2011,Female,90.2,-,-,1,1,Source: MICS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,192,Cuba,2009,Female,99,-,-,1,1,Source: Other NS_2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,192,Cuba,2010,Female,100,-,-,1,1,Source: Sistema de Información Estadístico de Servicios Externos_2010-2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,192,Cuba,2011,Female,100,-,-,1,1,Source: Sistema de Información Estadístico de Servicios Externos_2010-2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,192,Cuba,2012,Female,100,-,-,1,1,Source: Ministerio de Salud Pública. Anuario Estadístico de Salud 2011. La Habana; 2014._2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,192,Cuba,2014,Female,97.8,-,-,1,1,Source: MICS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,214,Dominican Republic,2007,Female,94.5,-,-,1,1,Source: DHS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,214,Dominican Republic,1996,Female,87.6,-,-,1,1,Source: DHS_1996,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,214,Dominican Republic,2002,Female,93.5,-,-,1,1,Source: DHS_2002,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,214,Dominican Republic,2013,Female,95.4,-,-,1,1,Source: DHS_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,214,Dominican Republic,2014,Female,92.9,-,-,1,1,Source: MICS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,218,Ecuador,2004,Female,57.5,-,-,1,1,Source: Other NS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,222,El Salvador,2003,Female,78.3,-,-,1,1,Source: Other NS_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,222,El Salvador,2008,Female,78.3,-,-,1,1,Other NS_2008,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,222,El Salvador,2002,Female,71.2,-,-,1,1,Source: Other NS_2002-2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,222,El Salvador,2014,Female,90.1,-,-,1,1,Source: MICS Final_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,320,Guatemala,2014,Female,86.2,-,-,1,1,Source: DHS(Prelim)_2014-2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,320,Guatemala,2015,Female,86.2,-,-,1,1,DHS(Prelim)_2014-2015,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,328,Guyana,2009,Female,78.5,-,-,1,1,Source: DHS_2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,328,Guyana,2014,Female,86.7,-,-,1,1,Source: MICS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,332,Haiti,2000,Female,44.2,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,332,Haiti,2005,Female,53.8,-,-,1,1,Source: DHS_2005-2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,332,Haiti,2006,Female,53.8,-,-,1,1,DHS_2005-2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,332,Haiti,1995,Female,35.6,-,-,1,1,DHS_1994-1995,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,332,Haiti,2012,Female,67.3,-,-,1,1,Source: DHS_2012_2010-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,340,Honduras,2005,Female,80.8,-,-,1,1,Source: DHS_2005-2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,340,Honduras,2001,Female,58.6,-,-,1,1,Source: Other NS_2001,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,340,Honduras,2006,Female,80.8,-,-,1,1,DHS_2005-2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,340,Honduras,2011,Female,88.9,-,-,1,1,Source: DHS_2011-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,340,Honduras,2012,Female,88.9,-,-,1,1,DHS_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,388,Jamaica,2008,Female,87,-,-,1,1,Source: Reproductive Health Survey Jamaica_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,388,Jamaica,2011,Female,85.6,-,-,1,1,Source: MICS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,388,Jamaica,1997,Female,87.2,-,-,1,1,Source: Other NS_1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,484,Mexico,2009,Female,86.3,-,-,1,1,Source: Encuesta Nacional de la Dinámica Demográfica_2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,484,Mexico,2006,Female,88.3,-,-,1,1,Source: Other NS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,484,Mexico,2012,Female,91,-,-,1,1,Source: Encuesta Nacional de Salud y Nutrición_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,558,Nicaragua,2007,Female,77.7,-,-,1,1,DHS_2006-2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,558,Nicaragua,1998,Female,61.6,-,-,1,1,Source: DHS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,558,Nicaragua,2001,Female,71.6,-,-,1,1,Source: DHS_2001,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,558,Nicaragua,2006,Female,77.7,-,-,1,1,Source: DHS_2006-2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,558,Nicaragua,2011,Female,87.8,-,-,1,1,Source: ENDESA(Prelim)_2011-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,558,Nicaragua,2012,Female,87.8,-,-,1,1,ENDESA(Prelim)_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,591,Panama,2013,Female,87.9,-,-,1,1,Source: MICS Resultados principales_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,600,Paraguay,2008,Female,90.5,-,-,1,1,Source: Other NS_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,600,Paraguay,2004,Female,78.8,-,-,1,1,Source: Other NS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2000,Female,69,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2009,Female,92.5,-,-,1,1,Source: DHS_2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2010,Female,92.9,-,-,1,1,Source: DHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,1996,Female,54,-,-,1,1,Source: DHS_1996,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2004,Female,87.4,-,-,1,1,Source: DHS_2004-2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2004,Female,87,-,-,1,1,Source: DHS_2004,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2006,Female,87.4,-,-,1,1,DHS_2004-2006,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2011,Female,94.2,-,-,1,1,Source: DHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2012,Female,94.4,-,-,1,1,Source: DHS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2013,Female,95.1,-,-,1,1,Source: DHS_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,604,Peru,2014,Female,94.7,-,-,1,1,Source: DHS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,662,Saint Lucia,2012,Female,90.3,-,-,1,1,Source: MICS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,670,Saint Vincent and the Grenadines,2009,Female,99.5,-,-,1,1,Source: /WHO_Health Situation in the Americas_Basic Indicators_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,740,Suriname,2010,Female,66.8,-,-,1,1,Source: MICS_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,780,Trinidad and Tobago,2013,Female,100,-,-,1,1,Source: /WHO_Health Situation in the Americas_Basic Indicators_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,858,Uruguay,2007,Female,90,-,-,1,1,Source: Encuesta de lactancia  estado nutricional y alimentacion complementaria_2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,858,Uruguay,2012,Female,76.8,-,-,1,1,Source: MICS_2012-2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,858,Uruguay,2013,Female,76.8,-,-,1,1,MICS_2012-2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Latin America and the Caribbean,862,Venezuela (Bolivarian Republic of),2012,Female,61,-,-,1,1,Source: /WHO_Health Situation in the Americas_Basic Indicators_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,31,Azerbaijan,1996,Female,30.4,-,-,1,1,Source: Other NS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,31,Azerbaijan,2001,Female,30.4,-,-,1,1,Other NS_2003,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,31,Azerbaijan,2006,Female,45.2,-,-,1,1,Source: DHS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,31,Azerbaijan,2011,Female,66.1,-,-,1,1,Source: DHS_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,51,Armenia,2000,Female,64.7,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,51,Armenia,2005,Female,70.9,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,51,Armenia,2010,Female,92.8,-,-,1,1,Source: DHS _2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,51,Armenia,2015,Female,96,-,-,1,1,Source: DHS (Prelim)_2015-2016,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,268,Georgia,2000,Female,75,-,-,1,1,-,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,268,Georgia,2005,Female,75,-,-,1,1,Source: Other NS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,268,Georgia,2010,Female,90.2,-,-,1,1,Source: RHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,268,Georgia,2012,Female,84.2,-,-,1,1,Other NS 2012-2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,268,Georgia,2013,Female,84.6,-,-,1,1,Source: HEALTH CARE Statistical Yearbook 2013_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,268,Georgia,2014,Female,86.9,-,-,1,1,Source: STATISTICAL YEARBOOK_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,398,Kazakhstan,1999,Female,70,-,-,1,1,Source: DHS_1999,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,398,Kazakhstan,2010,Female,87,-,-,1,1,Source: MICS_2010-2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,398,Kazakhstan,1995,Female,81.9,-,-,1,1,Source: DHS_1995,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,398,Kazakhstan,2011,Female,87,-,-,1,1,MICS_2010-2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,398,Kazakhstan,2015,Female,95.3,-,-,1,1,Source: MICS_2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,417,Kyrgyzstan,1997,Female,81.1,-,-,1,1,Source: DHS_1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,417,Kyrgyzstan,2012,Female,83.6,-,-,1,1,Source: DHS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,417,Kyrgyzstan,2014,Female,94.6,-,-,1,1,Source: MICS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,762,Tajikistan,2007,Female,49.4,-,-,1,1,Source: Other NS_2007,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,762,Tajikistan,2012,Female,52.5,-,-,1,1,Source: DHS_2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,795,Turkmenistan,2000,Female,82.8,-,-,1,1,Source: DHS_2000,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,795,Turkmenistan,2015,Female,96.4,-,-,1,1,Source: MICS_2015-2016,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Caucasus and Central Asia,860,Uzbekistan,1996,Female,78.5,-,-,1,1,Source: DHS_1996,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,48,Bahrain,2013,Female,100,-,-,1,1,Source: Health Summary Statistics_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,275,State of Palestine,2010,Female,94,-,-,1,1,Source: Palestinian Family Survey_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,275,State of Palestine,2014,Female,95.5,-,-,1,1,Source: MICS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,368,Iraq,2011,Female,49.6,-,-,1,1,Source: MICS _2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,400,Jordan,2007,Female,94.1,-,-,1,1,Source: DHS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,400,Jordan,1997,Female,86.2,-,-,1,1,Source: DHS_1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,400,Jordan,2002,Female,90.9,-,-,1,1,Source: DHS_2002,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,400,Jordan,2012,Female,94.5,-,-,1,1,Source: DHS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,512,Oman,2008,Female,96.4,-,-,1,1,Source: National Reproductive Health Survey_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,512,Oman,2007,Female,86.3,-,-,1,1,Source: Other NS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,512,Oman,2006,Female,83.3,-,-,1,1,Source: Other NS_2006,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,512,Oman,2012,Female,80.4,-,-,1,1,Source: Situation Analysis_2015,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,512,Oman,2014,Female,93.8,-,-,1,1,Source: MICS Key Findings Report_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,634,Qatar,2012,Female,84.5,-,-,1,1,Source: MICS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,760,Syrian Arab Republic,2009,Female,63.7,-,-,1,1,Source: PAPFAM - Syrian Household Health Survey_2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,792,Turkey,2003,Female,53.9,-,-,1,1,Source: DHS_2003,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,792,Turkey,2008,Female,73.7,-,-,1,1,Source: DHS_2008,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,792,Turkey,1998,Female,42,-,-,1,1,Source: DHS_1998,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,792,Turkey,2013,Female,88.9,-,-,1,1,Source: DHS_2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,887,Yemen,2003,Female,13.9,-,-,1,1,Source: The Yemen Family Health Survey  Principal Report _2003,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,887,Yemen,1997,Female,11.4,-,-,1,1,Source: Yemen Demographic Health Survey_1997,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Western Asia,887,Yemen,2013,Female,25.1,-,-,1,1,Source: DHS_2013,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,96,Brunei Darussalam,2012,Female,93.2,-,-,1,1,Source: HIB_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,104,Myanmar,2007,Female,73.4,-,-,1,1,Source: Other NS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,104,Myanmar,2001,Female,65.9,-,-,1,1,Source: Other NS_2001,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,104,Myanmar,2015,Female,58.6,-,-,1,1,Source: DHS(Prelim)_2015-2016,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,116,Cambodia,2000,Female,8.9,-,-,1,1,Source: DHS_2000,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,116,Cambodia,2005,Female,27,-,-,1,1,Source: DHS_2005,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,116,Cambodia,2010,Female,59.4,-,-,1,1,Source: DHS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,116,Cambodia,2014,Female,75.6,-,-,1,1,Source: DHS_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,360,Indonesia,2003,Female,81,-,-,1,1,DHS_2002-2003,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,360,Indonesia,2007,Female,81.5,-,-,1,1,Source: DHS_2007,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,360,Indonesia,1997,Female,70.4,-,-,1,1,Source: DHS_1997,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,360,Indonesia,2002,Female,81,-,-,1,1,Source: DHS_2002-2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,360,Indonesia,2012,Female,87.8,-,-,1,1,Source: DHS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,360,Indonesia,2013,Female,83.5,-,-,1,1,Source: RISKESDAS 2013_Basic Health Research_2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,418,Lao People's Democratic Republic,2011,Female,36.9,-,-,1,1,Source: MICS_DHS_Lao Social Indicator Survey (LSIS)_2011-2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,418,Lao People's Democratic Republic,2012,Female,36.9,-,-,1,1,MICS_DHS_Lao Social Indicator Survey (LSIS)_2011-2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,608,Philippines,2003,Female,70.4,-,-,1,1,Source: DHS_2003,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,608,Philippines,2008,Female,77.8,-,-,1,1,Source: DHS_2008,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,608,Philippines,1998,Female,77,-,-,1,1,Source: DHS_1998,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,608,Philippines,2011,Female,78.1,-,-,1,1,Source: Family Health Survey_2011,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,608,Philippines,2013,Female,84.3,-,-,1,1,Source: DHS_2013,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,626,Timor-Leste,2003,Female,29.6,-,-,1,1,Source: DHS_2003,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,626,Timor-Leste,2009,Female,55.1,-,-,1,1,Source: DHS_2009-2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,626,Timor-Leste,2010,Female,55.1,-,-,1,1,DHS_2009-2010,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,704,Viet Nam,2010,Female,59.6,-,-,1,1,-,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,704,Viet Nam,2011,Female,59.6,-,-,1,1,Source: MICS_2010-2011,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,704,Viet Nam,1997,Female,15.2,-,-,1,1,Source: DHS_1997,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,704,Viet Nam,2002,Female,29.3,-,-,1,1,Source: DHS_2002,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,704,Viet Nam,2014,Female,73.7,-,-,1,1,Source: MICS_2014,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,764,Thailand,2009,Female,79.6,-,-,1,1,Source: Reproductive Health_2009,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,South-eastern Asia,764,Thailand,2012,Female,93.4,-,-,1,1,Source: MICS_2012,-,-,-,-,-,-
+Antenatal care coverage  at least four visits,Eastern Asia,408,Democratic People's Republic of Korea,2009,Female,93.5,-,-,1,1,Source: MICS_2009,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Eastern Asia,410,Republic of Korea,2012,Female,96.8,-,-,1,1,Source: NHS_2012,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Eastern Asia,496,Mongolia,2010,Female,81.4,-,-,1,1,Source: MICS_2010,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Eastern Asia,496,Mongolia,2013,Female,89.6,-,-,1,1,Source: MICS_2013-2014,0,0,0,-,-,-
+Antenatal care coverage  at least four visits,Eastern Asia,496,Mongolia,2014,Female,89.6,-,-,1,1,MICS_2013-2014,-,-,-,-,-,-

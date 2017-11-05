@@ -1,0 +1,30 @@
+pays,année,formulation,Hommes,Femmes,Moyenne,différence en minutes,value,map_value
+France,1986,Différence temps journalier physiologique,11:12:00,11:25:00,11:18:00,-13,-13 minutes,0.07222222222
+France,1986,"Différence temps journalier dédié au travail, études, formation",5:47:00,3:16:00,4:30:00,151,+151 minutes,0.8388888889
+France,1986,Différence par jour temps domestique,2:07:00,5:07:00,3:39:00,-180,-180 minutes,1
+France,1986,Différence par jour temps domestique ménage et courses,1:10:00,4:10:00,2:42:00,-180,-180 minutes,1
+France,1986,Différence par jour temps soins aux enfants,0:10:00,0:42:00,0:26:00,-32,-32 minutes,0.1777777778
+France,1986,Différence par jour temps domestique jardinage et bricolage,0:47:00,0:15:00,0:31:00,32,+32 minutes,0.1777777778
+France,1986,Différences temps libre par jour,4:09:00,3:28:00,3:48:00,41,+41 minutes,0.2277777778
+France,1986,Différences temps passé en trajet et transports ,0:45:00,0:44:00,0:45:00,1,+1 minutes,0.005555555556
+France,1999,Différence temps journalier physiologique,11:16:00,11:33:00,11:24:00,-17,-17 minutes,0.09444444444
+France,1999,"Différence temps journalier dédié au travail, études, formation",5:30:00,3:27:00,4:28:00,123,+123 minutes,0.6833333333
+France,1999,Différence par jour temps domestique,2:13:00,4:36:00,3:25:00,-143,-143 minutes,0.7944444444
+France,1999,Différence par jour temps domestique ménage et courses,1:15:00,3:40:00,2:28:00,-145,-145 minutes,0.8055555556
+France,1999,Différence par jour temps soins aux enfants,0:11:00,0:38:00,0:25:00,-27,-27 minutes,0.15
+France,1999,Différence par jour temps domestique jardinage et bricolage,0:47:00,0:18:00,0:32:00,29,+29 minutes,0.1611111111
+France,1999,Différences temps libre par jour,4:25:00,3:46:00,4:06:00,39,+39 minutes,0.2166666667
+France,1999,Différences temps passé en trajet et transports ,0:36:00,0:38:00,0:37:00,-2,-2 minutes,0.01111111111
+France,2010,Différence temps journalier physiologique,11:17:00,11:36:00,11:26:00,-19,-19 minutes,0.1055555556
+France,2010,"Différence temps journalier dédié au travail, études, formation",5:15:00,3:31:00,4:22:00,104,+104 minutes,0.5777777778
+France,2010,Différence par jour temps domestique,2:13:00,4:01:00,3:07:00,-108,-108 minutes,0.6
+France,2010,Différence par jour temps domestique ménage et courses,1:17:00,3:01:00,2:10:00,-104,-104 minutes,0.5777777778
+France,2010,Différence par jour temps soins aux enfants,0:19:00,0:45:00,0:32:00,-26,-26 minutes,0.1444444444
+France,2010,Différence par jour temps domestique jardinage et bricolage,0:37:00,0:15:00,0:25:00,22,+22 minutes,0.1222222222
+France,2010,Différences temps libre par jour,4:28:00,3:58:00,4:13:00,30,+30 minutes,0.1666666667
+France,2010,Différences temps passé en trajet et transports ,0:48:00,0:55:00,0:51:00,-7,-7 minutes,0.03888888889
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,-,
