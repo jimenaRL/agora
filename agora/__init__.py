@@ -9,3 +9,7 @@ def uniencode(s):
 
 def encode(s):
     return s.replace(",", "").replace("'", "_").replace(" ", "_")
+
+
+def decode(s):
+    return str(s).replace('_', ' ').replace('__', ' ')
