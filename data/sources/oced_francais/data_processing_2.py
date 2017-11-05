@@ -1,12 +1,13 @@
 # coding: utf-8
 
 import os
-import unidecode
 import pandas as pd
 
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
+
+from agora import encode, unidecode
 
 SORT_CRITERIA = ['Pays', 'YEAR', 'Formulation']
 OUT_VALUES = SORT_CRITERIA + ['Value', 'Map_Value']
@@ -137,7 +138,7 @@ for f in FILES:
     df.rename(index=str, columns=RENAME, inplace=True)
     df.drop(TO_DROP, axis=1, inplace=True, errors='ignore')
 
-    df['Pays'] = df['Pays'].apply(lambda x: x.replace(" ", "_"))
+    df['Pays'] = df['Pays'].apply(lambda x: encode(x))
 
     indicatives = {tuple(_) for _ in df[['Indicateur', 'IND']].as_matrix().tolist()}
     for ind_name, ind_code in indicatives:
@@ -161,7 +162,7 @@ for f in FILES:
                 ind_df['Formulation'] = formulation
             else:
                 ind_df['Formulation'] = ind_df['Indicateur']
-            ind_df['Formulation'] = ind_df['Formulation'].apply(lambda x: x.replace(" ", "_").replace(",", ""))
+            ind_df['Formulation'] = ind_df['Formulation'].apply(lambda x: encode(x))
 
             # process data
             treatment_fn = locals()[TO_USE[ind_code]['treatment']]
@@ -169,10 +170,7 @@ for f in FILES:
 
             ind_df_treated.drop_duplicates()
             print ind_df_treated.head(10)
-            ind_name_uni = unidecode.unidecode(ind_name.replace(",", "")
-                                               .replace("'", "_")
-                                               .replace(" ", "_"))
-            # ind_df_treated.to_csv(os.path.join(pre_path, ind_name_uni+'.tsv'),
+            # ind_df_treated.to_csv(os.path.join(pre_path, unidecode(ind_name)(ind_name)+'.tsv'),
             #                       index=False,
             #                       header=False,
             #                       sep="\t")

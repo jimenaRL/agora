@@ -1,12 +1,11 @@
 # coding: utf-8
 
 import os
-import unidecode
 import pandas as pd
-
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
+from agora import encode, unidecode
 
 SORT_CRITERIA = ['Pays', 'TIME', 'Formulation']
 OUT_VALUES = SORT_CRITERIA + ['Value', 'Map_Value']
@@ -68,7 +67,7 @@ def by_sex_pourcentage(df):
     merged_sex['difference'] = merged_sex['Value_women'] - merged_sex['Value_men']
     merged_sex['Map_Value'] = merged_sex['difference'].apply(lambda x: float(x)/100.).abs()
     merged_sex['Value'] = merged_sex['difference'].apply(
-                            lambda x: "%s%1.1f%%" % ('+' if x >= 0 else '-', abs(x)))
+        lambda x: "%s%1.1f%%" % ('+' if x >= 0 else '-', abs(x)))
 
     return merged_sex[OUT_VALUES]
 
@@ -94,145 +93,145 @@ FILES = [
 TO_USE = {
 
     ### emploie ###
-    'EMP1':{
-        'treatment':'by_sex_pourcentage',
+    'EMP1': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EMP3':{
-        'treatment':'by_sex_pourcentage',
+    'EMP3': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EMP5':{
-        'treatment':'by_sex_pourcentage',
+    'EMP5': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EMP8':{
-        'treatment':'by_sex_pourcentage',
+    'EMP8': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EMP9':{
-        'treatment':'ecart_pourcentage',
+    'EMP9': {
+        'treatment': 'ecart_pourcentage',
         'formulation': 'Salaire des femmes par rapport aux hommes',
     },
-    'EMP10':{
-        'treatment':'by_sex_pourcentage',
+    'EMP10': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EMP12_P':{
-        'treatment':'women_pourcentage',
+    'EMP12_P': {
+        'treatment': 'women_pourcentage',
         'formulation': '',
     },
-    'EMP12_T':{
-        'treatment':'women_pourcentage',
+    'EMP12_T': {
+        'treatment': 'women_pourcentage',
         'formulation': '',
     },
-    'EMP13_A':{
-        'treatment':'by_sex_pourcentage',
+    'EMP13_A': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EMP13_I':{
-        'treatment':'by_sex_pourcentage',
+    'EMP13_I': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
     'EMP13_S': {
         'treatment': 'by_sex_pourcentage',
         'formulation': "Différence de la part de l'emploi des femmes par rapport aux hommes dans les services"
     },
-    'EMP17':{
-        'treatment':'women_pourcentage',
+    'EMP17': {
+        'treatment': 'women_pourcentage',
         'formulation': '',
     },
 
     ### entreprenariat ###
-    'ENT1':{
-        'treatment':'by_sex_pourcentage',
+    'ENT1': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'ENT2':{
-        'treatment':'by_sex_pourcentage',
+    'ENT2': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'ENT3':{
-        'treatment':'women_pourcentage',
+    'ENT3': {
+        'treatment': 'women_pourcentage',
         'formulation': '',
     },
-    'ENT4':{
-        'treatment':'women_pourcentage',
+    'ENT4': {
+        'treatment': 'women_pourcentage',
         'formulation': '',
     },
-    'ENT5':{
-        'treatment':'by_sex_pourcentage',
+    'ENT5': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'ENT8':{
-        'treatment':'by_sex_pourcentage',
+    'ENT8': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'ENT9':{
-        'treatment':'by_sex_pourcentage',
+    'ENT9': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'ENT10':{
-        'treatment':'by_sex_pourcentage',
+    'ENT10': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'ENT11':{
-        'treatment':'by_sex_pourcentage',
+    'ENT11': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'ENT12':{
-        'treatment':'by_sex_pourcentage',
+    'ENT12': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'ENT13':{
-        'treatment':'by_sex_pourcentage',
+    'ENT13': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'SELF_TERTIARY_EDU':{
-        'treatment':'by_sex_pourcentage',
+    'SELF_TERTIARY_EDU': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'GAL_TRAINING':{
-        'treatment':'by_sex_pourcentage',
+    'GAL_TRAINING': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'GAL_MONEY':{
-        'treatment':'by_sex_pourcentage',
+    'GAL_MONEY': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'SELF_YOUNG_SELF':{
-        'treatment':'by_sex_pourcentage',
+    'SELF_YOUNG_SELF': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'GAL_RISK':{
-        'treatment':'by_sex_pourcentage',
+    'GAL_RISK': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
 
 
     ### education ###
-    'EDU_11_READ':{
-        'treatment':'by_sex_pourcentage',
+    'EDU_11_READ': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EDU_11_MATH':{
-        'treatment':'by_sex_pourcentage',
+    'EDU_11_MATH': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EDU_11_SCI':{
-        'treatment':'by_sex_pourcentage',
+    'EDU_11_SCI': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EDU_12_READ':{
-        'treatment':'by_sex_pourcentage',
+    'EDU_12_READ': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EDU_12_MATH':{
-        'treatment':'by_sex_pourcentage',
+    'EDU_12_MATH': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
-    'EDU_12_SCI':{
-        'treatment':'by_sex_pourcentage',
+    'EDU_12_SCI': {
+        'treatment': 'by_sex_pourcentage',
         'formulation': '',
     },
 
@@ -247,7 +246,7 @@ for f in FILES:
     df.rename(index=str, columns={'INDICATOR': 'IND'}, inplace=True)
     df.drop(TO_DROP, axis=1, inplace=True)
 
-    df['Pays'] = df['Pays'].apply(lambda x: x.replace(" ", "_"))
+    df['Pays'] = df['Pays'].apply(lambda x: encode(x))
 
     indicatives = {tuple(_) for _ in df[['Indicateur', 'IND', 'Unit']].as_matrix().tolist()}
     for ind_name, ind_code, unit in indicatives:
@@ -265,7 +264,7 @@ for f in FILES:
                 ind_df['Formulation'] = formulation
             else:
                 ind_df['Formulation'] = ind_df['Indicateur']
-            ind_df['Formulation'] = ind_df['Formulation'].apply(lambda x: x.replace(" ", "_").replace(",", ""))
+            ind_df['Formulation'] = ind_df['Formulation'].apply(lambda x: encode(x))
 
             # process data
             treatment_fn = locals()[TO_USE[ind_code]['treatment']]
@@ -275,10 +274,7 @@ for f in FILES:
             # print ind_code
             # print ind_name
             # print ind_df_treated.head(10)
-            ind_name_uni = unidecode.unidecode(ind_name.replace(",", "") \
-                                               .replace("'", "_") \
-                                               .replace(" ", "_"))
-            ind_df_treated.to_csv(os.path.join(pre_path, ind_name_uni+'.tsv'),
-                                  index=False,
-                                  header=False,
-                                  sep="\t")
+            # ind_df_treated.to_csv(os.path.join(pre_path, unidecode(ind_name)+'.tsv'),
+            #                       index=False,
+            #                       header=False,
+            #                       sep="\t")

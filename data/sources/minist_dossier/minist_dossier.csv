@@ -1,0 +1,41 @@
+categorie,année,pays,nom,formulation,value,map_value,source
+travail,2013,France,"Étudiants univertisitaires, part des femmes","Étudiants universitaires, part des femmes",55%,0.1,
+travail,2013,France,"Diplômés universités, part des femmes","Diplômés universités, part des femmes",59%,0.18,
+travail,2013,France,"Employés universitaires grade C, part des femmes","Employés universitaires grade C, part des femmes",44%,0.12,
+travail,2013,France,"Employés universitaires grade A, part des femmes","Employés universitaires grade A, part des femmes",21%,0.58,
+travail,2014,France,"Employés cadres techniques, part des femmes","Employés cadres techniques, part des femmes",16.98%,0.6604,
+travail,2014,France,"Employés de la Direction Techniques National, part des femmes","Employés DTN (directrice technique nationale), part des femmes",12.50%,0.75,
+travail,2016,France,"Présidentes d'entreprise (PDG), part des femmes","Présidentes d'entreprise (PDG), part des femmes",3%,0.94,
+travail,2016,France,"Membres exécutifs d'entreprise, part des femmes","Membres exécutifs d'entreprise, part des femmes",15%,0.7,
+travail,2016,France,Entreprise Membres non exécutifs,"Membres non exécutifs d'entreprise, part des femmes",44%,0.12,
+politique,2015,France,Pourcentage de femmes parmi les maires,"Maires de France, part des femmes",16%,0.68,
+politique,2015,France,Conseils municipaux Conseillères femmes,"Conseilleurs municipaux, part des femmes",40.30%,0.194,
+politique,2015,France,Conseils régionaux Présidence Femmes,"Présidentes de conseils régionaux, part des femmes",17.60%,0.648,
+politique,2015,France,Conseils régionaux Conseillères Femmes,"Conseilleurs régionaux, part des femmes",47.80%,0.044,
+politique,2015,France,Conseils départementaux Présidence Femmes,"Présidentes de conseils départementaux, part des femmes",9.90%,0.802,
+politique,2015,France,Conseils départementaux Conseillères Femmes,"Conseilleurs départementaux, part des femmes",50%,0,
+politique,2016,France,Conseils régional Affaires Sociales ,"Conseilleurs régionaux en affaires sociale, part des femmes",100%,1,
+politique,2016,France,Conseils régional Education_Lycée ,"Conseilleurs régionaux en éducation, part des femmes ",54%,0.08,
+politique,2016,France,Conseils régional Budget/Finance ,"Conseilleurs régionaux en budget/finance, part des femmes",11.10%,0.778,
+politique,2016,France,Conseils régional Transport ,"Conseilleurs régionaux en transport, part des femmes ",8.30%,0.834,
+culture,2016,France,Culture Direction/Présidence Musées Nationaux  : ,"Directeurs des musées nationaux, part des femmes",41%,0.18,Ministère cuture et com
+culture,2016,France, Artistes dans spectacles Cirque," Artistes dans spectacles cirque, part des femmes",16%,0.68,Ministère cuture et com
+culture,2016,France, Artistes dans spectacles Danse," Artistes dans spectacles danse, part des femmes",31%,0.38,Ministère cuture et com
+culture,2016,France, Artistes dans spectacles Théâtre," Artistes dans spectacles théâtre, part des femmes",27%,0.46,Ministère cuture et com
+culture,2016,France, Artistes dans Lieux Musicaux Compositrices," Artistes compositeurs, part des femmes",1%,0.98,Source SACD Classique
+culture,2016,France, Artistes dans Lieux Musicaux Cheffes d'orchestre," Artistes chefs d'orchestre, part des femmes",4%,0.92,Source SACD Classique
+culture,2016,France, Artistes dans Lieux Musicaux Solistes," Artistes solistes, part des femmes",28%,0.44,Source SACD Classique
+culture,2016,France, Artistes dans Lieux Musicaux Mise en scène Opéra," Artistes travaillant dans la mise en scène opéra, part des femmes",26%,0.48,Source SACD Classique
+média,2014,France,Journaux Télévision ,"Présentateurs dans les journaux télévision, part des femmes ",20%,0.6,CSA
+média,2014,France,Journaux Radio ,"Présentateurs dans les journaux radio, part des femmes ",18%,0.64,
+média,2014,France,prmi les expertEs invités dans les médias,Pourcentage des femmes parmi les experts invités dans les médias,20%,0.2,
+société,2016,France,Pourcentage des femmes ayant subi une attitude sexiste,Pourcentage des femmes ayant subi une attitude sexiste,80%,0.8,
+culture,2016,France,Culture Direction/Présidence Audiovisuel Public  : ,"Directeurs des  entreprises de l'audiovisuel public, part des femmes",60%,0.6,Ministère cuture et com
+culture,2016,France,Culture Direction/Présidence Arts plastique spectacle Vivant  : ,"Directeurs des établissement spectacle vivant, part des femmes",8%,0.08,Ministère cuture et com
+,,,,,,,
+,,,,,,,
+,,,,,,,
+status,,,,,,,
+OK,,,,,,,
+lien de base,,,,,,,
+https://drive.google.com/file/d/0B7WOaycN9eQrNlJrUnYtZ0lmN0U/view?usp=sharing,,,,,,,
