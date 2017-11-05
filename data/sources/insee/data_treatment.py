@@ -8,7 +8,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-from agora import encode, uniencode
+from agora import encode
 
 READ_BASE_PATH = "/Users/JRLetelier/perso/agora/data/sources/insee/pretraited"
 WRITE_BASE_PATH = "/Users/JRLetelier/perso/agora/data/m4l/insee"
