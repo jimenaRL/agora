@@ -1,0 +1,947 @@
+﻿44 - Proportion of seats held by women in national parliament
+
+Indicator Name,Region,Country Code,Country,Year,Sex,Value,LowerBound,UpperBound,NatureDataID,OriginDataID,Footnote1,Footnote2,Footnote3,Footnote4,Footnote5,Footnote6,Coverage
+Women’s share of government ministerial positions,Southern Asia,4,Afghanistan,2008,Female,3.7037037037037,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,4,Afghanistan,2005,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,4,Afghanistan,2010,Female,7.4074074074074,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,4,Afghanistan,2012,Female,12,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,4,Afghanistan,2014,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,50,Bangladesh,2008,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,50,Bangladesh,2005,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,50,Bangladesh,2010,Female,16,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,50,Bangladesh,2012,Female,1430,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,50,Bangladesh,2014,Female,6.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,64,Bhutan,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,64,Bhutan,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,64,Bhutan,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,64,Bhutan,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,64,Bhutan,2014,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,144,Sri Lanka,2008,Female,5.6603773584906,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,144,Sri Lanka,2005,Female,10.25641025641,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,144,Sri Lanka,2010,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,144,Sri Lanka,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,144,Sri Lanka,2014,Female,7.14,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,356,India,2008,Female,10.25641025641,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,356,India,2005,Female,3.448275862069,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,356,India,2010,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,356,India,2012,Female,9.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,356,India,2014,Female,22.22,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,364,Iran (Islamic Republic of),2008,Female,3.2258064516129,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,364,Iran (Islamic Republic of),2005,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,364,Iran (Islamic Republic of),2010,Female,3.030303030303,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,364,Iran (Islamic Republic of),2012,Female,9.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,364,Iran (Islamic Republic of),2014,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,462,Maldives,2008,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,462,Maldives,2005,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,462,Maldives,2010,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,462,Maldives,2012,Female,21.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,462,Maldives,2014,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,524,Nepal,2008,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,524,Nepal,2005,Female,7.4074074074074,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,524,Nepal,2010,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,524,Nepal,2012,Female,15.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,524,Nepal,2014,Female,13.64,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,586,Pakistan,2008,Female,3.5714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,586,Pakistan,2005,Female,5.5555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,586,Pakistan,2010,Female,7.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,586,Pakistan,2012,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Southern Asia,586,Pakistan,2014,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,8,Albania,2008,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,8,Albania,2005,Female,5.2631578947368,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,8,Albania,2010,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,8,Albania,2012,Female,6.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,8,Albania,2014,Female,35,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,20,Andorra,2008,Female,37.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,20,Andorra,2005,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,20,Andorra,2010,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,20,Andorra,2012,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,20,Andorra,2014,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,36,Australia,2008,Female,24.137931034483,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,36,Australia,2005,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,36,Australia,2010,Female,23.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,36,Australia,2012,Female,20.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,36,Australia,2014,Female,17.24,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,40,Austria,2008,Female,38.461538461538,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,40,Austria,2005,Female,35.294117647059,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,40,Austria,2010,Female,38.461538461538,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,40,Austria,2012,Female,46.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,40,Austria,2014,Female,30.77,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,56,Belgium,2008,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,56,Belgium,2005,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,56,Belgium,2010,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,56,Belgium,2012,Female,41.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,56,Belgium,2014,Female,23.08,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,70,Bosnia and Herzegovina,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,70,Bosnia and Herzegovina,2005,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,70,Bosnia and Herzegovina,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,70,Bosnia and Herzegovina,2012,Female,6.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,70,Bosnia and Herzegovina,2014,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,100,Bulgaria,2008,Female,23.529411764706,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,100,Bulgaria,2005,Female,23.809523809524,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,100,Bulgaria,2010,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,100,Bulgaria,2012,Female,18.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,100,Bulgaria,2014,Female,35,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,112,Belarus,2008,Female,6.4516129032258,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,112,Belarus,2005,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,112,Belarus,2010,Female,3.2258064516129,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,112,Belarus,2012,Female,3.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,112,Belarus,2014,Female,10.71,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,124,Canada,2008,Female,16,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,124,Canada,2005,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,124,Canada,2010,Female,29.72972972973,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,124,Canada,2012,Female,26.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,124,Canada,2014,Female,30.77,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,191,Croatia,2008,Female,23.529411764706,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,191,Croatia,2005,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,191,Croatia,2010,Female,15.789473684211,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,191,Croatia,2012,Female,19,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,191,Croatia,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,196,Cyprus,2008,Female,18.181818181818,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,196,Cyprus,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,196,Cyprus,2010,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,196,Cyprus,2012,Female,27.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,196,Cyprus,2014,Female,9.09,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,203,Czech Republic,2008,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,203,Czech Republic,2005,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,203,Czech Republic,2010,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,203,Czech Republic,2012,Female,13.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,203,Czech Republic,2014,Female,18.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,208,Denmark,2008,Female,36.842105263158,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,208,Denmark,2005,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,208,Denmark,2010,Female,42.105263157895,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,208,Denmark,2012,Female,39.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,208,Denmark,2014,Female,26.32,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,233,Estonia,2008,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,233,Estonia,2005,Female,15.384615384615,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,233,Estonia,2010,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,233,Estonia,2012,Female,8.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,233,Estonia,2014,Female,46.15,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,246,Finland,2008,Female,57.894736842105,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,246,Finland,2005,Female,47.058823529412,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,246,Finland,2010,Female,63.157894736842,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,246,Finland,2012,Female,50,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,246,Finland,2014,Female,62.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,250,France,2008,Female,46.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,250,France,2005,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,250,France,2010,Female,26.315789473684,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,250,France,2012,Female,20.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,250,France,2014,Female,50,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,276,Germany,2008,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,276,Germany,2005,Female,46.153846153846,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,276,Germany,2010,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,276,Germany,2012,Female,33.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,276,Germany,2014,Female,33.33,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,300,Greece,2008,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,300,Greece,2005,Female,5.5555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,300,Greece,2010,Female,31.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,300,Greece,2012,Female,5.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,300,Greece,2014,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,348,Hungary,2008,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,348,Hungary,2005,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,348,Hungary,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,348,Hungary,2012,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,348,Hungary,2014,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,352,Iceland,2008,Female,36.363636363636,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,352,Iceland,2005,Female,27.272727272727,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,352,Iceland,2010,Female,45.454545454545,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,352,Iceland,2012,Female,50,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,352,Iceland,2014,Female,44.44,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,372,Ireland,2008,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,372,Ireland,2005,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,372,Ireland,2010,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,372,Ireland,2012,Female,14.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,372,Ireland,2014,Female,28.57,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,376,Israel,2008,Female,12,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,376,Israel,2005,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,376,Israel,2010,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,376,Israel,2012,Female,10.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,376,Israel,2014,Female,18.18,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,380,Italy,2008,Female,24,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,380,Italy,2005,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,380,Italy,2010,Female,21.739130434783,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,380,Italy,2012,Female,16.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,380,Italy,2014,Female,43.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,392,Japan,2008,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,392,Japan,2005,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,392,Japan,2010,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,392,Japan,2012,Female,11.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,392,Japan,2014,Female,22.22,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,428,Latvia,2008,Female,22.222222222222,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,428,Latvia,2005,Female,23.529411764706,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,428,Latvia,2010,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,428,Latvia,2012,Female,30.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,428,Latvia,2014,Female,23.08,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,438,Liechtenstein,2008,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,438,Liechtenstein,2005,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,438,Liechtenstein,2010,Female,40,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,438,Liechtenstein,2012,Female,40,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,438,Liechtenstein,2014,Female,50,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,440,Lithuania,2008,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,440,Lithuania,2005,Female,15.384615384615,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,440,Lithuania,2010,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,440,Lithuania,2012,Female,14.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,440,Lithuania,2014,Female,21.43,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,442,Luxembourg,2008,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,442,Luxembourg,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,442,Luxembourg,2010,Female,26.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,442,Luxembourg,2012,Female,26.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,442,Luxembourg,2014,Female,26.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,470,Malta,2008,Female,15.384615384615,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,470,Malta,2005,Female,15.384615384615,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,470,Malta,2010,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,470,Malta,2012,Female,22.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,470,Malta,2014,Female,7.14,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,492,Monaco,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,492,Monaco,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,492,Monaco,2010,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,492,Monaco,2012,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,492,Monaco,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,498,Republic of Moldova,2008,Female,10.526315789474,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,498,Republic of Moldova,2005,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,498,Republic of Moldova,2010,Female,5.2631578947368,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,498,Republic of Moldova,2012,Female,5.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,498,Republic of Moldova,2014,Female,27.78,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,499,Montenegro,2008,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,499,Montenegro,2010,Female,5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,499,Montenegro,2012,Female,5.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,499,Montenegro,2014,Female,16.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,528,Netherlands,2008,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,528,Netherlands,2005,Female,36,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,528,Netherlands,2010,Female,23.529411764706,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,528,Netherlands,2012,Female,33.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,528,Netherlands,2014,Female,46.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,554,New Zealand,2008,Female,32.142857142857,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,554,New Zealand,2005,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,554,New Zealand,2010,Female,28.571428571429,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,554,New Zealand,2012,Female,28.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,554,New Zealand,2014,Female,33.33,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,578,Norway,2008,Female,55.555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,578,Norway,2005,Female,44.444444444444,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,578,Norway,2010,Female,52.631578947368,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,578,Norway,2012,Female,52.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,578,Norway,2014,Female,47.06,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,616,Poland,2008,Female,26.315789473684,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,616,Poland,2005,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,616,Poland,2010,Female,27.777777777778,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,616,Poland,2012,Female,22.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,616,Poland,2014,Female,27.78,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,620,Portugal,2008,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,620,Portugal,2005,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,620,Portugal,2010,Female,31.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,620,Portugal,2012,Female,18.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,620,Portugal,2014,Female,28.57,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,642,Romania,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,642,Romania,2005,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,642,Romania,2010,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,642,Romania,2012,Female,16.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,642,Romania,2014,Female,14.29,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,643,Russian Federation,2008,Female,9.5238095238095,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,643,Russian Federation,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,643,Russian Federation,2010,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,643,Russian Federation,2012,Female,15.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,643,Russian Federation,2014,Female,6.45,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,674,San Marino,2008,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,674,San Marino,2005,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,674,San Marino,2010,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,674,San Marino,2012,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,674,San Marino,2014,Female,11.11,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,688,Serbia,2008,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,688,Serbia,2010,Female,19.230769230769,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,688,Serbia,2012,Female,15,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,688,Serbia,2014,Female,22.22,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,703,Slovakia,2008,Female,13.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,703,Slovakia,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,703,Slovakia,2010,Female,13.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,703,Slovakia,2012,Female,14.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,703,Slovakia,2014,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,705,Slovenia,2008,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,705,Slovenia,2005,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,705,Slovenia,2010,Female,22.222222222222,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,705,Slovenia,2012,Female,7.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,705,Slovenia,2014,Female,43.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,724,Spain,2008,Female,43.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,724,Spain,2005,Female,50,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,724,Spain,2010,Female,52.941176470588,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,724,Spain,2012,Female,30.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,724,Spain,2014,Female,30.77,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,752,Sweden,2008,Female,47.619047619048,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,752,Sweden,2005,Female,52.380952380952,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,752,Sweden,2010,Female,45,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,752,Sweden,2012,Female,52.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,752,Sweden,2014,Female,52.17,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,756,Switzerland,2008,Female,42.857142857143,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,756,Switzerland,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,756,Switzerland,2010,Female,42.857142857143,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,756,Switzerland,2012,Female,42.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,756,Switzerland,2014,Female,42.86,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,804,Ukraine,2008,Female,4.3478260869565,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,804,Ukraine,2005,Female,5.5555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,804,Ukraine,2010,Female,4.3478260869565,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,804,Ukraine,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,804,Ukraine,2014,Female,10.53,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,807,The former Yugoslav Republic of Macedonia,2008,Female,13.636363636364,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,807,The former Yugoslav Republic of Macedonia,2005,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,807,The former Yugoslav Republic of Macedonia,2010,Female,9.5238095238095,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,807,The former Yugoslav Republic of Macedonia,2012,Female,13.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,807,The former Yugoslav Republic of Macedonia,2014,Female,8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,826,United Kingdom of Great Britain and Northern Ireland,2008,Female,22.727272727273,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,826,United Kingdom of Great Britain and Northern Ireland,2005,Female,28.571428571429,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,826,United Kingdom of Great Britain and Northern Ireland,2010,Female,22.58064516129,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,826,United Kingdom of Great Britain and Northern Ireland,2012,Female,17.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,826,United Kingdom of Great Britain and Northern Ireland,2014,Female,22.73,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,840,United States of America,2008,Female,23.809523809524,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,840,United States of America,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,840,United States of America,2010,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,840,United States of America,2012,Female,27.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Developed regions,840,United States of America,2014,Female,26.09,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,12,Algeria,2008,Female,10.810810810811,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,12,Algeria,2005,Female,10.526315789474,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,12,Algeria,2010,Female,3.5714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,12,Algeria,2012,Female,3.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,12,Algeria,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,434,Libya,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,434,Libya,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,434,Libya,2012,Female,8.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,504,Morocco,2008,Female,19.230769230769,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,504,Morocco,2005,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,504,Morocco,2010,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,504,Morocco,2012,Female,3.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,504,Morocco,2014,Female,15.79,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,788,Tunisia,2008,Female,7.1428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,788,Tunisia,2005,Female,7.1428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,788,Tunisia,2010,Female,3.8461538461538,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,788,Tunisia,2012,Female,6.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,788,Tunisia,2014,Female,10.53,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,818,Egypt,2008,Female,6.4516129032258,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,818,Egypt,2005,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,818,Egypt,2010,Female,9.375,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,818,Egypt,2012,Female,10.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Northern Africa,818,Egypt,2014,Female,11.76,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,90,Solomon Islands,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,90,Solomon Islands,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,90,Solomon Islands,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,90,Solomon Islands,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,90,Solomon Islands,2014,Female,4.35,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,242,Fiji,2008,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,242,Fiji,2005,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,242,Fiji,2010,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,242,Fiji,2012,Female,11.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,242,Fiji,2014,Female,13.33,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,296,Kiribati,2008,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,296,Kiribati,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,296,Kiribati,2010,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,296,Kiribati,2012,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,296,Kiribati,2014,Female,21.43,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,520,Nauru,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,520,Nauru,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,520,Nauru,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,520,Nauru,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,520,Nauru,2014,Female,16.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,548,Vanuatu,2008,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,548,Vanuatu,2005,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,548,Vanuatu,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,548,Vanuatu,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,548,Vanuatu,2014,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,583,Micronesia (Federated States of),2008,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,583,Micronesia (Federated States of),2010,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,583,Micronesia (Federated States of),2012,Female,22.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,583,Micronesia (Federated States of),2014,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,584,Marshall Islands,2008,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,584,Marshall Islands,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,584,Marshall Islands,2010,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,584,Marshall Islands,2012,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,584,Marshall Islands,2014,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,585,Palau,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,585,Palau,2005,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,585,Palau,2010,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,585,Palau,2012,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,585,Palau,2014,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,598,Papua New Guinea,2008,Female,3.5714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,598,Papua New Guinea,2010,Female,3.7037037037037,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,598,Papua New Guinea,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,598,Papua New Guinea,2014,Female,3.13,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,776,Tonga,2010,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,776,Tonga,2012,Female,8.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,776,Tonga,2014,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,798,Tuvalu,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,798,Tuvalu,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,798,Tuvalu,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,798,Tuvalu,2012,Female,14.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,798,Tuvalu,2014,Female,14.29,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,882,Samoa,2008,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,882,Samoa,2005,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,882,Samoa,2010,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,882,Samoa,2012,Female,770,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Oceania,882,Samoa,2014,Female,7.69,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,24,Angola,2008,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,24,Angola,2005,Female,5.7142857142857,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,24,Angola,2010,Female,27.777777777778,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,24,Angola,2012,Female,29,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,24,Angola,2014,Female,22.22,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,72,Botswana,2008,Female,27.777777777778,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,72,Botswana,2005,Female,26.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,72,Botswana,2010,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,72,Botswana,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,72,Botswana,2014,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,108,Burundi,2008,Female,29.62962962963,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,108,Burundi,2005,Female,10.714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,108,Burundi,2010,Female,28.571428571429,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,108,Burundi,2012,Female,34.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,108,Burundi,2014,Female,34.78,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,120,Cameroon,2008,Female,11.627906976744,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,120,Cameroon,2005,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,120,Cameroon,2010,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,120,Cameroon,2012,Female,14,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,120,Cameroon,2014,Female,14,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,132,Cabo Verde,2008,Female,35.714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,132,Cabo Verde,2005,Female,18.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,132,Cabo Verde,2010,Female,53.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,132,Cabo Verde,2012,Female,47.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,132,Cabo Verde,2014,Female,52.94,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,140,Central African Republic,2008,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,140,Central African Republic,2005,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,140,Central African Republic,2010,Female,12,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,140,Central African Republic,2012,Female,20.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,140,Central African Republic,2014,Female,24.14,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,148,Chad,2008,Female,17.241379310345,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,148,Chad,2005,Female,11.538461538462,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,148,Chad,2010,Female,6.8965517241379,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,148,Chad,2012,Female,12.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,148,Chad,2014,Female,13.64,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,174,Comoros,2008,Female,8.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,174,Comoros,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,174,Comoros,2012,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,174,Comoros,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,178,Congo,2008,Female,13.157894736842,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,178,Congo,2005,Female,14.705882352941,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,178,Congo,2010,Female,13.513513513514,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,178,Congo,2012,Female,13.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,178,Congo,2014,Female,10.53,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,180,Democratic Republic of the Congo,2008,Female,12.121212121212,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,180,Democratic Republic of the Congo,2005,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,180,Democratic Republic of the Congo,2010,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,180,Democratic Republic of the Congo,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,180,Democratic Republic of the Congo,2014,Female,8.11,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,204,Benin,2008,Female,22.222222222222,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,204,Benin,2005,Female,19.047619047619,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,204,Benin,2010,Female,13.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,204,Benin,2012,Female,30.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,204,Benin,2014,Female,14.81,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,226,Equatorial Guinea,2008,Female,14,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,226,Equatorial Guinea,2005,Female,4.5454545454545,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,226,Equatorial Guinea,2010,Female,3.7037037037037,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,226,Equatorial Guinea,2012,Female,8.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,226,Equatorial Guinea,2014,Female,8.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,231,Ethiopia,2008,Female,9.5238095238095,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,231,Ethiopia,2005,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,231,Ethiopia,2010,Female,7.4074074074074,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,231,Ethiopia,2012,Female,9.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,231,Ethiopia,2014,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,232,Eritrea,2008,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,232,Eritrea,2005,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,232,Eritrea,2010,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,232,Eritrea,2012,Female,23.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,232,Eritrea,2014,Female,16.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,262,Djibouti,2008,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,262,Djibouti,2005,Female,5.2631578947368,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,262,Djibouti,2010,Female,10.526315789474,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,262,Djibouti,2012,Female,13,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,262,Djibouti,2014,Female,5.26,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,266,Gabon,2008,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,266,Gabon,2005,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,266,Gabon,2010,Female,20.689655172414,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,266,Gabon,2012,Female,14.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,266,Gabon,2014,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,270,Gambia,2008,Female,27.777777777778,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,270,Gambia,2005,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,270,Gambia,2010,Female,31.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,270,Gambia,2012,Female,31.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,270,Gambia,2014,Female,21.05,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,288,Ghana,2008,Female,15.909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,288,Ghana,2005,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,288,Ghana,2010,Female,21.621621621622,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,288,Ghana,2012,Female,18.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,288,Ghana,2014,Female,23.08,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,324,Guinea,2008,Female,15.789473684211,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,324,Guinea,2005,Female,15.384615384615,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,324,Guinea,2010,Female,16.129032258065,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,324,Guinea,2012,Female,12.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,324,Guinea,2014,Female,14.71,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,384,Côte d'Ivoire,2008,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,384,Côte d'Ivoire,2005,Female,17.073170731707,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,384,Côte d'Ivoire,2010,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,384,Côte d'Ivoire,2012,Female,13.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,384,Côte d'Ivoire,2014,Female,16.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,404,Kenya,2005,Female,10.344827586207,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,404,Kenya,2010,Female,15,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,404,Kenya,2012,Female,15.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,404,Kenya,2014,Female,30,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,426,Lesotho,2008,Female,31.578947368421,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,426,Lesotho,2005,Female,27.777777777778,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,426,Lesotho,2010,Female,31.578947368421,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,426,Lesotho,2012,Female,36.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,426,Lesotho,2014,Female,21.74,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,430,Liberia,2008,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,430,Liberia,2005,Female,13.636363636364,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,430,Liberia,2010,Female,30.434782608696,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,430,Liberia,2012,Female,22.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,430,Liberia,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,450,Madagascar,2008,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,450,Madagascar,2005,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,450,Madagascar,2010,Female,17.241379310345,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,450,Madagascar,2012,Female,26.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,450,Madagascar,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,454,Malawi,2008,Female,23.809523809524,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,454,Malawi,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,454,Malawi,2010,Female,27.272727272727,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,454,Malawi,2012,Female,21.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,454,Malawi,2014,Female,11.11,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,466,Mali,2008,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,466,Mali,2005,Female,18.518518518519,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,466,Mali,2010,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,466,Mali,2012,Female,13.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,466,Mali,2014,Female,16.13,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,478,Mauritania,2008,Female,12,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,478,Mauritania,2005,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,478,Mauritania,2010,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,478,Mauritania,2012,Female,11.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,478,Mauritania,2014,Female,26.92,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,480,Mauritius,2008,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,480,Mauritius,2005,Female,8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,480,Mauritius,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,480,Mauritius,2012,Female,8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,480,Mauritius,2014,Female,12,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,508,Mozambique,2008,Female,25.925925925926,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,508,Mozambique,2005,Female,13.04347826087,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,508,Mozambique,2010,Female,25.925925925926,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,508,Mozambique,2012,Female,27.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,508,Mozambique,2014,Female,28.57,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,516,Namibia,2008,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,516,Namibia,2005,Female,19.047619047619,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,516,Namibia,2010,Female,24,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,516,Namibia,2012,Female,22.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,516,Namibia,2014,Female,21.74,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,562,Niger,2008,Female,25.806451612903,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,562,Niger,2005,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,562,Niger,2010,Female,22.58064516129,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,562,Niger,2012,Female,26.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,562,Niger,2014,Female,12.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,566,Nigeria,2008,Female,22.727272727273,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,566,Nigeria,2005,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,566,Nigeria,2010,Female,9.6774193548387,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,566,Nigeria,2012,Female,28.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,566,Nigeria,2014,Female,24.14,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,624,Guinea-Bissau,2008,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,624,Guinea-Bissau,2005,Female,37.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,624,Guinea-Bissau,2010,Female,23.529411764706,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,624,Guinea-Bissau,2012,Female,18.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,624,Guinea-Bissau,2014,Female,31.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,646,Rwanda,2008,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,646,Rwanda,2005,Female,35.714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,646,Rwanda,2010,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,646,Rwanda,2012,Female,32,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,646,Rwanda,2014,Female,35.48,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,678,Sao Tome and Principe,2008,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,678,Sao Tome and Principe,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,678,Sao Tome and Principe,2010,Female,38.461538461538,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,678,Sao Tome and Principe,2012,Female,9.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,678,Sao Tome and Principe,2014,Female,7.69,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,686,Senegal,2008,Female,17.857142857143,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,686,Senegal,2005,Female,20.588235294118,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,686,Senegal,2010,Female,12.903225806452,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,686,Senegal,2012,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,686,Senegal,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,690,Seychelles,2008,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,690,Seychelles,2005,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,690,Seychelles,2010,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,690,Seychelles,2012,Female,22.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,690,Seychelles,2014,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,694,Sierra Leone,2005,Female,13.04347826087,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,694,Sierra Leone,2010,Female,8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,694,Sierra Leone,2012,Female,7.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,694,Sierra Leone,2014,Female,6.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,706,Somalia,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,706,Somalia,2012,Female,5.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,706,Somalia,2014,Female,8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,710,South Africa,2008,Female,44.827586206897,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,710,South Africa,2005,Female,41.379310344828,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,710,South Africa,2010,Female,34.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,710,South Africa,2012,Female,40,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,710,South Africa,2014,Female,41.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,716,Zimbabwe,2008,Female,16.279069767442,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,716,Zimbabwe,2005,Female,14.705882352941,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,716,Zimbabwe,2010,Female,18.604651162791,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,716,Zimbabwe,2012,Female,13.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,716,Zimbabwe,2014,Female,11.54,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,728,South Sudan,2014,Female,22.73,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,729,Sudan,2008,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,729,Sudan,2005,Female,2.5641025641026,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,729,Sudan,2010,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,729,Sudan,2012,Female,9.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,729,Sudan,2014,Female,15.15,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,748,Swaziland,2008,Female,18.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,748,Swaziland,2005,Female,13.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,748,Swaziland,2010,Female,26.315789473684,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,748,Swaziland,2012,Female,23.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,748,Swaziland,2014,Female,26.32,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,768,Togo,2008,Female,9.5238095238095,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,768,Togo,2005,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,768,Togo,2010,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,768,Togo,2012,Female,23.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,768,Togo,2014,Female,20.69,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,800,Uganda,2008,Female,28,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,800,Uganda,2005,Female,23.4375,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,800,Uganda,2010,Female,32,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,800,Uganda,2012,Female,32.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,800,Uganda,2014,Female,29.63,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,834,United Republic of Tanzania,2008,Female,20.689655172414,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,834,United Republic of Tanzania,2005,Female,15.384615384615,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,834,United Republic of Tanzania,2010,Female,26.923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,834,United Republic of Tanzania,2012,Female,27.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,834,United Republic of Tanzania,2014,Female,32.26,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,854,Burkina Faso,2008,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,854,Burkina Faso,2005,Female,14.814814814815,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,854,Burkina Faso,2010,Female,17.857142857143,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,854,Burkina Faso,2012,Female,12,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,854,Burkina Faso,2014,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,894,Zambia,2008,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,894,Zambia,2005,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,894,Zambia,2010,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,894,Zambia,2012,Female,11.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Sub-Saharan Africa,894,Zambia,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,28,Antigua and Barbuda,2008,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,28,Antigua and Barbuda,2005,Female,15.384615384615,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,28,Antigua and Barbuda,2010,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,28,Antigua and Barbuda,2012,Female,11.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,28,Antigua and Barbuda,2014,Female,7.69,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,32,Argentina,2008,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,32,Argentina,2005,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,32,Argentina,2010,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,32,Argentina,2012,Female,17.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,32,Argentina,2014,Female,22.22,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,44,Bahamas,2008,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,44,Bahamas,2005,Female,26.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,44,Bahamas,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,44,Bahamas,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,44,Bahamas,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,52,Barbados,2008,Female,27.777777777778,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,52,Barbados,2005,Female,29.411764705882,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,52,Barbados,2010,Female,5.5555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,52,Barbados,2012,Female,11.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,52,Barbados,2014,Female,11.76,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2008,Female,23.529411764706,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2005,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2010,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2012,Female,45.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,68,Bolivia (Plurinational State of),2014,Female,28.57,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,76,Brazil,2008,Female,11.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,76,Brazil,2005,Female,11.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,76,Brazil,2010,Female,7.1428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,76,Brazil,2012,Female,27,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,76,Brazil,2014,Female,15.38,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,84,Belize,2008,Female,18.181818181818,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,84,Belize,2005,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,84,Belize,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,84,Belize,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,84,Belize,2014,Female,13.33,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,152,Chile,2008,Female,40.909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,152,Chile,2005,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,152,Chile,2010,Female,45.454545454545,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,152,Chile,2012,Female,18.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,152,Chile,2014,Female,34.78,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,170,Colombia,2008,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,170,Colombia,2005,Female,35.714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,170,Colombia,2010,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,170,Colombia,2012,Female,33.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,170,Colombia,2014,Female,29.41,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,188,Costa Rica,2008,Female,29.411764705882,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,188,Costa Rica,2005,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,188,Costa Rica,2010,Female,35,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,188,Costa Rica,2012,Female,29.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,188,Costa Rica,2014,Female,40.91,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,192,Cuba,2008,Female,18.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,192,Cuba,2005,Female,16.216216216216,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,192,Cuba,2010,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,192,Cuba,2012,Female,22.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,192,Cuba,2014,Female,31.03,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,212,Dominica,2008,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,212,Dominica,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,212,Dominica,2010,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,212,Dominica,2012,Female,13.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,212,Dominica,2014,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,214,Dominican Republic,2008,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,214,Dominican Republic,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,214,Dominican Republic,2010,Female,8.695652173913,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,214,Dominican Republic,2012,Female,13,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,214,Dominican Republic,2014,Female,19.23,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,218,Ecuador,2008,Female,35.294117647059,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,218,Ecuador,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,218,Ecuador,2010,Female,32.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,218,Ecuador,2012,Female,40,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,218,Ecuador,2014,Female,23.68,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,222,El Salvador,2008,Female,38.888888888889,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,222,El Salvador,2005,Female,35.294117647059,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,222,El Salvador,2010,Female,15.384615384615,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,222,El Salvador,2012,Female,11.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,222,El Salvador,2014,Female,21.43,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,308,Grenada,2008,Female,50,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,308,Grenada,2005,Female,46.153846153846,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,308,Grenada,2010,Female,18.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,308,Grenada,2012,Female,21.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,308,Grenada,2014,Female,46.15,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,320,Guatemala,2008,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,320,Guatemala,2005,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,320,Guatemala,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,320,Guatemala,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,320,Guatemala,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,328,Guyana,2008,Female,26.315789473684,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,328,Guyana,2005,Female,22.222222222222,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,328,Guyana,2010,Female,31.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,328,Guyana,2012,Female,29.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,328,Guyana,2014,Female,29.41,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,332,Haiti,2008,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,332,Haiti,2005,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,332,Haiti,2010,Female,22.222222222222,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,332,Haiti,2012,Female,16.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,332,Haiti,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,340,Honduras,2008,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,340,Honduras,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,340,Honduras,2010,Female,35.714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,340,Honduras,2012,Female,17.6,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,340,Honduras,2014,Female,17.39,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,388,Jamaica,2008,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,388,Jamaica,2005,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,388,Jamaica,2010,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,388,Jamaica,2012,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,388,Jamaica,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,484,Mexico,2008,Female,15.789473684211,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,484,Mexico,2005,Female,9.4339622641509,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,484,Mexico,2010,Female,10.526315789474,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,484,Mexico,2012,Female,21.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,484,Mexico,2014,Female,17.65,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,558,Nicaragua,2008,Female,33.333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,558,Nicaragua,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,558,Nicaragua,2010,Female,38.461538461538,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,558,Nicaragua,2012,Female,46.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,558,Nicaragua,2014,Female,47.06,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,591,Panama,2008,Female,23.076923076923,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,591,Panama,2005,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,591,Panama,2010,Female,26.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,591,Panama,2012,Female,29.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,591,Panama,2014,Female,27.78,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,600,Paraguay,2008,Female,18.918918918919,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,600,Paraguay,2005,Female,30.769230769231,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,600,Paraguay,2010,Female,21.739130434783,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,600,Paraguay,2012,Female,7.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,600,Paraguay,2014,Female,7.69,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,604,Peru,2008,Female,29.411764705882,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,604,Peru,2005,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,604,Peru,2010,Female,22.222222222222,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,604,Peru,2012,Female,16.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,604,Peru,2014,Female,22.22,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,659,Saint Kitts and Nevis,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,659,Saint Kitts and Nevis,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,659,Saint Kitts and Nevis,2012,Female,11.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,659,Saint Kitts and Nevis,2014,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,662,Saint Lucia,2005,Female,8.3333333333333,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,662,Saint Lucia,2010,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,662,Saint Lucia,2012,Female,15.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,662,Saint Lucia,2014,Female,15.38,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,670,Saint Vincent and the Grenadines,2008,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,670,Saint Vincent and the Grenadines,2005,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,670,Saint Vincent and the Grenadines,2010,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,670,Saint Vincent and the Grenadines,2012,Female,18.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,670,Saint Vincent and the Grenadines,2014,Female,9.09,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,740,Suriname,2008,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,740,Suriname,2005,Female,11.764705882353,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,740,Suriname,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,740,Suriname,2012,Female,11.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,740,Suriname,2014,Female,5.56,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,780,Trinidad and Tobago,2008,Female,36.363636363636,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,780,Trinidad and Tobago,2005,Female,18.181818181818,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,780,Trinidad and Tobago,2010,Female,34.48275862069,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,780,Trinidad and Tobago,2012,Female,18.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,780,Trinidad and Tobago,2014,Female,9.68,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,858,Uruguay,2008,Female,28.571428571429,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,858,Uruguay,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,858,Uruguay,2010,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,858,Uruguay,2012,Female,7.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,858,Uruguay,2014,Female,14.29,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,862,Venezuela (Bolivarian Republic of),2008,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,862,Venezuela (Bolivarian Republic of),2005,Female,13.636363636364,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,862,Venezuela (Bolivarian Republic of),2010,Female,25.925925925926,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,862,Venezuela (Bolivarian Republic of),2012,Female,37.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Latin America and the Caribbean,862,Venezuela (Bolivarian Republic of),2014,Female,23.33,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,31,Azerbaijan,2008,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,31,Azerbaijan,2005,Female,15,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,31,Azerbaijan,2010,Female,2.9411764705882,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,31,Azerbaijan,2012,Female,2.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,31,Azerbaijan,2014,Female,2.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,51,Armenia,2008,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,51,Armenia,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,51,Armenia,2010,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,51,Armenia,2012,Female,10.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,51,Armenia,2014,Female,11.11,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,268,Georgia,2008,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,268,Georgia,2005,Female,22.222222222222,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,268,Georgia,2010,Female,5.5555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,268,Georgia,2012,Female,15.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,268,Georgia,2014,Female,15.79,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,398,Kazakhstan,2008,Female,5.5555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,398,Kazakhstan,2005,Female,17.647058823529,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,398,Kazakhstan,2010,Female,5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,398,Kazakhstan,2012,Female,15.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,398,Kazakhstan,2014,Female,13.33,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,417,Kyrgyzstan,2008,Female,18.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,417,Kyrgyzstan,2005,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,417,Kyrgyzstan,2010,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,417,Kyrgyzstan,2012,Female,10.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,417,Kyrgyzstan,2014,Female,15,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,762,Tajikistan,2008,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,762,Tajikistan,2005,Female,3.125,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,762,Tajikistan,2010,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,762,Tajikistan,2012,Female,6.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,762,Tajikistan,2014,Female,11.11,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,795,Turkmenistan,2008,Female,7.1428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,795,Turkmenistan,2005,Female,9.5238095238095,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,795,Turkmenistan,2010,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,795,Turkmenistan,2012,Female,9.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,795,Turkmenistan,2014,Female,5.71,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,860,Uzbekistan,2008,Female,5.2631578947368,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,860,Uzbekistan,2005,Female,3.5714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,860,Uzbekistan,2010,Female,3.2258064516129,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,860,Uzbekistan,2012,Female,10.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Caucasus and Central Asia,860,Uzbekistan,2014,Female,10.53,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,48,Bahrain,2008,Female,4.3478260869565,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,48,Bahrain,2005,Female,8.695652173913,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,48,Bahrain,2010,Female,10.714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,48,Bahrain,2012,Female,11.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,48,Bahrain,2014,Female,4.55,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,368,Iraq,2008,Female,10.25641025641,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,368,Iraq,2005,Female,18.75,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,368,Iraq,2010,Female,10.25641025641,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,368,Iraq,2012,Female,3.8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,368,Iraq,2014,Female,6.06,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,400,Jordan,2008,Female,14.814814814815,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,400,Jordan,2005,Female,10.714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,400,Jordan,2010,Female,6.8965517241379,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,400,Jordan,2012,Female,6.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,400,Jordan,2014,Female,11.11,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,414,Kuwait,2008,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,414,Kuwait,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,414,Kuwait,2010,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,414,Kuwait,2012,Female,6.3,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,414,Kuwait,2014,Female,6.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,422,Lebanon,2008,Female,4.5454545454545,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,422,Lebanon,2005,Female,6.8965517241379,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,422,Lebanon,2010,Female,6.8965517241379,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,422,Lebanon,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,422,Lebanon,2014,Female,4.35,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,512,Oman,2008,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,512,Oman,2005,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,512,Oman,2010,Female,9.375,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,512,Oman,2012,Female,6.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,512,Oman,2014,Female,6.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,634,Qatar,2008,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,634,Qatar,2005,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,634,Qatar,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,634,Qatar,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,634,Qatar,2014,Female,5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,682,Saudi Arabia,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,682,Saudi Arabia,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,682,Saudi Arabia,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,682,Saudi Arabia,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,682,Saudi Arabia,2014,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,760,Syrian Arab Republic,2008,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,760,Syrian Arab Republic,2005,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,760,Syrian Arab Republic,2010,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,760,Syrian Arab Republic,2012,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,760,Syrian Arab Republic,2014,Female,5.88,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,784,United Arab Emirates,2008,Female,8,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,784,United Arab Emirates,2005,Female,5.5555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,784,United Arab Emirates,2010,Female,16.666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,784,United Arab Emirates,2012,Female,18.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,784,United Arab Emirates,2014,Female,16.67,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,792,Turkey,2008,Female,4.1666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,792,Turkey,2005,Female,4.3478260869565,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,792,Turkey,2010,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,792,Turkey,2012,Female,4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,792,Turkey,2014,Female,4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,887,Yemen,2008,Female,5.7142857142857,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,887,Yemen,2005,Female,2.8571428571429,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,887,Yemen,2010,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,887,Yemen,2012,Female,8.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Western Asia,887,Yemen,2014,Female,9.68,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,96,Brunei Darussalam,2008,Female,7.1428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,96,Brunei Darussalam,2005,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,96,Brunei Darussalam,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,96,Brunei Darussalam,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,96,Brunei Darussalam,2014,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,104,Myanmar,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,104,Myanmar,2010,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,104,Myanmar,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,104,Myanmar,2014,Female,5.26,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,116,Cambodia,2008,Female,6.8965517241379,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,116,Cambodia,2005,Female,7.1428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,116,Cambodia,2010,Female,9.6774193548387,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,116,Cambodia,2012,Female,4.9,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,116,Cambodia,2014,Female,6.98,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,360,Indonesia,2008,Female,10.810810810811,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,360,Indonesia,2005,Female,10.810810810811,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,360,Indonesia,2010,Female,14.285714285714,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,360,Indonesia,2012,Female,11.4,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,360,Indonesia,2014,Female,22.86,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,418,Lao People's Democratic Republic,2008,Female,11.111111111111,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,418,Lao People's Democratic Republic,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,418,Lao People's Democratic Republic,2010,Female,10.344827586207,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,418,Lao People's Democratic Republic,2012,Female,11.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,418,Lao People's Democratic Republic,2014,Female,10.34,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,458,Malaysia,2008,Female,9.375,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,458,Malaysia,2005,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,458,Malaysia,2010,Female,6.6666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,458,Malaysia,2012,Female,6.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,458,Malaysia,2014,Female,5.71,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,608,Philippines,2008,Female,9.0909090909091,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,608,Philippines,2005,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,608,Philippines,2010,Female,13.636363636364,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,608,Philippines,2012,Female,18.2,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,608,Philippines,2014,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,626,Timor-Leste,2008,Female,25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,626,Timor-Leste,2005,Female,22.222222222222,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,626,Timor-Leste,2010,Female,21.428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,626,Timor-Leste,2012,Female,23.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,626,Timor-Leste,2014,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,702,Singapore,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,702,Singapore,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,702,Singapore,2010,Female,5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,702,Singapore,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,702,Singapore,2014,Female,5.56,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,704,Viet Nam,2008,Female,4.1666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,704,Viet Nam,2005,Female,11.538461538462,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,704,Viet Nam,2010,Female,4.1666666666667,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,704,Viet Nam,2012,Female,9.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,704,Viet Nam,2014,Female,9.09,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,764,Thailand,2008,Female,10,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,764,Thailand,2005,Female,7.6923076923077,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,764,Thailand,2010,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,764,Thailand,2012,Female,8.7,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,South-eastern Asia,764,Thailand,2014,Female,4.17,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,156,China,2008,Female,8.5714285714286,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,156,China,2005,Female,6.25,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,156,China,2010,Female,11.538461538462,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,156,China,2012,Female,11.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,156,China,2014,Female,11.54,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,408,Democratic People's Republic of Korea,2008,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,408,Democratic People's Republic of Korea,2010,Female,5.7142857142857,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,408,Democratic People's Republic of Korea,2012,Female,0,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,410,Republic of Korea,2008,Female,5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,410,Republic of Korea,2005,Female,5.5555555555556,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,410,Republic of Korea,2010,Female,12.5,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,410,Republic of Korea,2012,Female,11.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,410,Republic of Korea,2014,Female,5.88,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,496,Mongolia,2008,Female,20,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,496,Mongolia,2005,Female,5.8823529411765,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,496,Mongolia,2010,Female,7.1428571428571,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,496,Mongolia,2012,Female,7.1,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,Eastern Asia,496,Mongolia,2014,Female,11.11,-,-,1,1,-,-,-,-,-,-,-
+Women’s share of government ministerial positions,-,891,Serbia and Montenegro,2005,Female,0,-,-,1,1,-,-,-,-,-,-,-
