@@ -1,5 +1,5 @@
 France	1986.0	Différence_temps_journalier_physiologique	-13_minutes	0.07222222222
-France	1986.0	Différence_temps_journalier_dédié_au_travail_études_formation	+151_minutes	0.8388888889
+France	1986.0	Différence_temps_journalier_dédié_au_travail---_études---_formation	+151_minutes	0.8388888889
 France	1986.0	Différence_par_jour_temps_domestique	-180_minutes	1.0
 France	1986.0	Différence_par_jour_temps_domestique_ménage_et_courses	-180_minutes	1.0
 France	1986.0	Différence_par_jour_temps_soins_aux_enfants	-32_minutes	0.1777777778
@@ -7,7 +7,7 @@ France	1986.0	Différence_par_jour_temps_domestique_jardinage_et_bricolage	+32_m
 France	1986.0	Différences_temps_libre_par_jour	+41_minutes	0.2277777778
 France	1986.0	Différences_temps_passé_en_trajet_et_transports_	+1_minutes	0.005555555556
 France	1999.0	Différence_temps_journalier_physiologique	-17_minutes	0.09444444444
-France	1999.0	Différence_temps_journalier_dédié_au_travail_études_formation	+123_minutes	0.6833333333
+France	1999.0	Différence_temps_journalier_dédié_au_travail---_études---_formation	+123_minutes	0.6833333333
 France	1999.0	Différence_par_jour_temps_domestique	-143_minutes	0.7944444444
 France	1999.0	Différence_par_jour_temps_domestique_ménage_et_courses	-145_minutes	0.8055555556
 France	1999.0	Différence_par_jour_temps_soins_aux_enfants	-27_minutes	0.15
@@ -15,7 +15,7 @@ France	1999.0	Différence_par_jour_temps_domestique_jardinage_et_bricolage	+29_m
 France	1999.0	Différences_temps_libre_par_jour	+39_minutes	0.2166666667
 France	1999.0	Différences_temps_passé_en_trajet_et_transports_	-2_minutes	0.01111111111
 France	2010.0	Différence_temps_journalier_physiologique	-19_minutes	0.1055555556
-France	2010.0	Différence_temps_journalier_dédié_au_travail_études_formation	+104_minutes	0.5777777778
+France	2010.0	Différence_temps_journalier_dédié_au_travail---_études---_formation	+104_minutes	0.5777777778
 France	2010.0	Différence_par_jour_temps_domestique	-108_minutes	0.6
 France	2010.0	Différence_par_jour_temps_domestique_ménage_et_courses	-104_minutes	0.5777777778
 France	2010.0	Différence_par_jour_temps_soins_aux_enfants	-26_minutes	0.1444444444

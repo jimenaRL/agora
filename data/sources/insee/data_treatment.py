@@ -22,7 +22,7 @@ for path in paths:
     print path
     df = pd.read_csv(path)[OUT_VALUES].dropna()
     df['pays'] = df['pays'].apply(lambda x: encode(x))
-    df['value'] = df['value'].apply(lambda x: encode(x))
+    df['value'] = df['value'].apply(lambda x: encode(str(x)))
     df['formulation'] = df['formulation'].apply(lambda x: encode(x))
     out_path = os.path.join(
         WRITE_BASE_PATH,
