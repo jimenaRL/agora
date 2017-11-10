@@ -1,0 +1,51 @@
+pays,année,formulation,,,value,map_value,"élèves, étudiants, stagiaires non rémunérés",femmes ou hommes au foyer,autres
+France,2014,"Population immigrée depuis Portugal, part de femmes parmi les actifs ayant un emploi",Portugal,0.4584286147,0.5075648222,0.4731991899,0.5181222707,0.9741679873,0.5210118019
+France,2014,"Population immigrée depuis Italie, part de femmes parmi les actifs ayant un emploi",Italie,0.4324723247,0.520208605,0.4963313923,0.5499242297,0.9772382398,0.5417522245
+France,2014,"Population immigrée depuis Espagne, part de femmes parmi les actifs ayant un emploi",Espagne,0.5019183168,0.5384202523,0.5658183886,0.5386740331,0.9776572871,0.5587225275
+France,2014,"Population immigrée depuis Autres pays de l'Union Européenne à 27, part de femmes parmi les 0.45842861470293",Autres pays de l'Union Européenne à 27,0.5075449453,0.5880113161,0.568136196,0.5602438299,0.9577337488,0.5144214921
+France,2014,"Population immigrée depuis Autres pays d'Europe, part de femmes parmi les actifs ayant un emploi",Autres pays d'Europe,0.5344318014,0.5856529303,0.5353699644,0.5612234878,0.9663955119,0.5208838261
+France,2014,"Population immigrée depuis Algérie, part de femmes parmi les actifs ayant un emploi",Algérie,0.4039136927,0.4953695737,0.3601742839,0.516703958,0.9789969753,0.4957107741
+France,2014,"Population immigrée depuis Maroc, part de femmes parmi les actifs ayant un emploi",Maroc,0.3829007542,0.5142349679,0.3206271478,0.4820693269,0.984439135,0.5204456045
+France,2014,"Population immigrée depuis Tunisie, part de femmes parmi les actifs ayant un emploi",Tunisie,0.3029561184,0.4003337242,0.3655189246,0.5069301848,0.9783242538,0.4011474183
+France,2014,"Population immigrée depuis Autres pays d'Afrique, part de femmes parmi les actifs ayant un emploi",Autres pays d'Afrique,0.4787852362,0.5680672815,0.3967826124,0.5113364872,0.9580007954,0.4907055193
+France,2014,"Population immigrée depuis Turquie, part de femmes parmi les actifs ayant un emploi",Turquie,0.260226275,0.4314373843,0.3908929627,0.5342580916,0.9791764656,0.474874146
+France,2014,"Population immigrée depuis Portugal, part de femmes parmi les chômeurs",Portugal,0.5075648222,0.51%,0.01512964448,,,
+France,2014,"Population immigrée depuis Italie, part de femmes parmi les chômeurs",Italie,0.520208605,0.52%,0.04041720991,,,
+France,2014,"Population immigrée depuis Espagne, part de femmes parmi les chômeurs",Espagne,0.5384202523,0.54%,0.07684050452,,,
+France,2014,"Population immigrée depuis Autres pays de l'Union Européenne à 27, part de femmes parmi les chômeurs",Autres pays de l'Union Européenne à 27,0.5880113161,0.59%,0.1760226322,,,
+France,2014,"Population immigrée depuis Autres pays d'Europe, part de femmes parmi les chômeurs",Autres pays d'Europe,0.5856529303,0.59%,0.1713058606,,,
+France,2014,"Population immigrée depuis Algérie, part de femmes parmi les chômeurs",Algérie,0.4953695737,0.5%,0.009260852562,,,
+France,2014,"Population immigrée depuis Maroc, part de femmes parmi les chômeurs",Maroc,0.5142349679,0.51%,0.02846993589,,,
+France,2014,"Population immigrée depuis Tunisie, part de femmes parmi les chômeurs",Tunisie,0.4003337242,0.4%,0.1993325516,,,
+France,2014,"Population immigrée depuis Autres pays d'Afrique, part de femmes parmi les chômeurs",Autres pays d'Afrique,0.5680672815,0.57%,0.1361345629,,,
+France,2014,"Population immigrée depuis Turquie, part de femmes parmi les chômeurs",Turquie,0.4314373843,0.43%,0.1371252313,,,
+France,2014,"Population immigrée depuis Portugal, part de femmes parmi les retraités",Portugal,0.4731991899,0.47%,0.05360162013,,,
+France,2014,"Population immigrée depuis Italie, part de femmes parmi les retraités",Italie,0.4963313923,0.5%,0.007337215391,,,
+France,2014,"Population immigrée depuis Espagne, part de femmes parmi les retraités",Espagne,0.5658183886,0.57%,0.1316367773,,,
+France,2014,"Population immigrée depuis Autres pays de l'Union Européenne à 27, part de femmes parmi les retraités",Autres pays de l'Union Européenne à 27,0.568136196,0.57%,0.136272392,,,
+France,2014,"Population immigrée depuis Autres pays d'Europe, part de femmes parmi les retraités",Autres pays d'Europe,0.5353699644,0.54%,0.07073992881,,,
+France,2014,"Population immigrée depuis Algérie, part de femmes parmi les retraités",Algérie,0.3601742839,0.36%,0.2796514323,,,
+France,2014,"Population immigrée depuis Maroc, part de femmes parmi les retraités",Maroc,0.3206271478,0.32%,0.3587457045,,,
+France,2014,"Population immigrée depuis Tunisie, part de femmes parmi les retraités",Tunisie,0.3655189246,0.37%,0.2689621508,,,
+France,2014,"Population immigrée depuis Autres pays d'Afrique, part de femmes parmi les retraités",Autres pays d'Afrique,0.3967826124,0.4%,0.2064347752,,,
+France,2014,"Population immigrée depuis Turquie, part de femmes parmi les retraités",Turquie,0.3908929627,0.39%,0.2182140745,,,
+France,2014,"Population immigrée depuis Portugal, part de femmes parmi les étudiants",Portugal,0.5181222707,0.52%,0.03624454148,,,
+France,2014,"Population immigrée depuis Italie, part de femmes parmi les étudiants",Italie,0.5499242297,0.55%,0.09984845934,,,
+France,2014,"Population immigrée depuis Espagne, part de femmes parmi les étudiants",Espagne,0.5386740331,0.54%,0.0773480663,,,
+France,2014,"Population immigrée depuis Autres pays de l'Union Européenne à 27, part de femmes parmi les étudiants",Autres pays de l'Union Européenne à 27,0.5602438299,0.56%,0.1204876598,,,
+France,2014,"Population immigrée depuis Autres pays d'Europe, part de femmes parmi les étudiants",Autres pays d'Europe,0.5612234878,0.56%,0.1224469756,,,
+France,2014,"Population immigrée depuis Algérie, part de femmes parmi les étudiants",Algérie,0.516703958,0.52%,0.03340791606,,,
+France,2014,"Population immigrée depuis Maroc, part de femmes parmi les étudiants",Maroc,0.4820693269,0.48%,0.03586134611,,,
+France,2014,"Population immigrée depuis Tunisie, part de femmes parmi les étudiants",Tunisie,0.5069301848,0.51%,0.01386036961,,,
+France,2014,"Population immigrée depuis Autres pays d'Afrique, part de femmes parmi les étudiants",Autres pays d'Afrique,0.5113364872,0.51%,0.02267297438,,,
+France,2014,"Population immigrée depuis Turquie, part de femmes parmi les étudiants",Turquie,0.5342580916,0.53%,0.06851618327,,,
+France,2014,"Population immigrée depuis Portugal, part des femmes parmi les hommes au femmes au foyer",Portugal,0.9741679873,0.97%,0.9483359746,,,
+France,2014,"Population immigrée depuis Italie, part des femmes parmi les hommes au femmes au foyer",Italie,0.9772382398,0.98%,0.9544764795,,,
+France,2014,"Population immigrée depuis Espagne, part des femmes parmi les hommes au femmes au foyer",Espagne,0.9776572871,0.98%,0.9553145742,,,
+France,2014,"Population immigrée depuis Autres pays de l'Union Européenne à 27, part des femmes parmi les hommes au femmes au foyer",Autres pays de l'Union Européenne à 27,0.9577337488,0.96%,0.9154674976,,,
+France,2014,"Population immigrée depuis Autres pays d'Europe, part des femmes parmi les hommes au femmes au foyer",Autres pays d'Europe,0.9663955119,0.97%,0.9327910238,,,
+France,2014,"Population immigrée depuis Algérie, part des femmes parmi les hommes au femmes au foyer",Algérie,0.9789969753,0.98%,0.9579939506,,,
+France,2014,"Population immigrée depuis Maroc, part des femmes parmi les hommes au femmes au foyer",Maroc,0.984439135,0.98%,0.9688782699,,,
+France,2014,"Population immigrée depuis Tunisie, part des femmes parmi les hommes au femmes au foyer",Tunisie,0.9783242538,0.98%,0.9566485076,,,
+France,2014,"Population immigrée depuis Autres pays d'Afrique, part des femmes parmi les hommes au femmes au foyer",Autres pays d'Afrique,0.9580007954,0.96%,0.9160015909,,,
+France,2014,"Population immigrée depuis Turquie, part des femmes parmi les hommes au femmes au foyer",Turquie,0.9791764656,0.98%,0.9583529311,,,
