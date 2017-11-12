@@ -10,8 +10,8 @@ sys.setdefaultencoding("utf-8")
 
 from agora import encode
 
-READ_BASE_PATH = "/Users/JRLetelier/perso/agora/data/sources/insee/pretraited"
-WRITE_BASE_PATH = "/Users/JRLetelier/perso/agora/data/m4l/insee"
+READ_BASE_PATH = "/Users/JRLetelier/perso/agora/data/sources/nanterre"
+WRITE_BASE_PATH = "/Users/JRLetelier/perso/agora/data/m4l/nanterre"
 
 OUT_VALUES = ["pays", "année", "formulation", "value", "map_value"]
 

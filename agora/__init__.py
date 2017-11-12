@@ -1,15 +1,36 @@
 import unidecode
 
 
+DICO = {
+    ",": "---",
+    "'": "-**-",
+    " ": "_",
+}
+
+REVERS_DICO = {
+    "---": ",",
+    "-**-": "'",
+    "_": " ",
+    "__": " ",
+}
+
+
+def replace(s):
+    for k, v in DICO.iteritems():
+        s = s.replace(k, v)
+    return s
+
+
 def uniencode(s):
-    return unidecode.unidecode(s.replace(",", "---")
-                               .replace("'", "_")
-                               .replace(" ", "_"))
+    return unidecode.unidecode(replace(s))
 
 
 def encode(s):
-    return s.replace(",", "---").replace("'", "_").replace(" ", "_")
+    return replace(s)
 
 
 def decode(s):
-    return str(s).replace('_', ' ').replace('__', ' ').replace("---", ",")
+    s = str(s)
+    for k, v in REVERS_DICO.iteritems():
+        s = s.replace(k, v)
+    return s
